@@ -1,0 +1,145 @@
+race_number,race_name,race_date,sponsor,driver,team,finish_position,laps_led,merge_key,reddit_mentions,reddit_total_score,reddit_avg_score,reddit_total_comments,reddit_engagement_per_mention,youtube_total_views,youtube_sponsor_videos,youtube_sponsor_views,youtube_sponsor_likes,youtube_view_share,news_total_mentions,news_primary_mentions,news_weighted_mentions
+1,Daytona,2024-02-18,FedEx,Denny Hamlin,Joe Gibbs Racing,19,10,1_FedEx,7.0,100.0,14.29,0.0,14.29,120760176.0,0.0,0.0,0.0,0.0,2.0,0.0,1.2
+1,Daytona,2024-02-18,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,36,6,1_Love's Travel Stops,7.0,0.0,0.0,0.0,0.0,120760176.0,0.0,0.0,0.0,0.0,2.0,2.0,1.2
+1,Daytona,2024-02-18,McDonald's,Bubba Wallace,23XI Racing,5,3,1_McDonald's,7.0,0.0,0.0,0.0,0.0,120760176.0,4.0,4240724.0,23200.0,3.5116908077378093,2.0,1.0,1.2
+1,Daytona,2024-02-18,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,14,13,1_NAPA Auto Parts,7.0,0.0,0.0,0.0,0.0,120760176.0,0.0,0.0,0.0,0.0,2.0,1.0,1.2
+2,Atlanta,2024-02-25,FedEx,Denny Hamlin,Joe Gibbs Racing,23,15,2_FedEx,8.0,0.0,0.0,0.0,0.0,13059968.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+2,Atlanta,2024-02-25,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,8,27,2_Love's Travel Stops,8.0,0.0,0.0,0.0,0.0,13059968.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+2,Atlanta,2024-02-25,McDonald's,Bubba Wallace,23XI Racing,5,3,2_McDonald's,8.0,0.0,0.0,0.0,0.0,13059968.0,2.0,2120388.0,11600.0,16.2357825072772,0.0,0.0,0.0
+2,Atlanta,2024-02-25,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,15,0,2_NAPA Auto Parts,8.0,0.0,0.0,0.0,0.0,13059968.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+3,Las Vegas,2024-03-04,FedEx,Denny Hamlin,Joe Gibbs Racing,8,16,3_FedEx,7.0,0.0,0.0,0.0,0.0,87750419.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+3,Las Vegas,2024-03-04,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,25,4,3_Love's Travel Stops,7.0,0.0,0.0,0.0,0.0,87750419.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6
+3,Las Vegas,2024-03-04,McDonald's,Bubba Wallace,23XI Racing,35,0,3_McDonald's,7.0,0.0,0.0,0.0,0.0,87750419.0,2.0,2120388.0,11600.0,2.4163850431301075,0.0,0.0,0.0
+3,Las Vegas,2024-03-04,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,12,0,3_NAPA Auto Parts,7.0,0.0,0.0,0.0,0.0,87750419.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+4,Phoenix,2024-03-11,FedEx,Denny Hamlin,Joe Gibbs Racing,11,68,4_FedEx,8.0,0.0,0.0,0.0,0.0,3685047.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+4,Phoenix,2024-03-11,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,8,0,4_Love's Travel Stops,8.0,0.0,0.0,0.0,0.0,3685047.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Phoenix,2024-03-11,McDonald's,Bubba Wallace,23XI Racing,16,0,4_McDonald's,8.0,0.0,0.0,0.0,0.0,3685047.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Phoenix,2024-03-11,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,19,0,4_NAPA Auto Parts,8.0,0.0,0.0,0.0,0.0,3685047.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+5,Bristol,2024-03-19,FedEx,Denny Hamlin,Joe Gibbs Racing,1,163,5_FedEx,8.0,0.0,0.0,0.0,0.0,10377970.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+5,Bristol,2024-03-19,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,11,0,5_Love's Travel Stops,8.0,0.0,0.0,0.0,0.0,10377970.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,Bristol,2024-03-19,McDonald's,Bubba Wallace,23XI Racing,29,15,5_McDonald's,8.0,0.0,0.0,0.0,0.0,10377970.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+5,Bristol,2024-03-19,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,8,5,5_NAPA Auto Parts,8.0,0.0,0.0,0.0,0.0,10377970.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+6,COTA,2024-03-27,FedEx,Denny Hamlin,Joe Gibbs Racing,14,3,6_FedEx,7.0,0.0,0.0,0.0,0.0,11244309.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6
+6,COTA,2024-03-27,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,38,0,6_Love's Travel Stops,7.0,0.0,0.0,0.0,0.0,11244309.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,COTA,2024-03-27,McDonald's,Bubba Wallace,23XI Racing,15,0,6_McDonald's,7.0,0.0,0.0,0.0,0.0,11244309.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+6,COTA,2024-03-27,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,16,0,6_NAPA Auto Parts,7.0,0.0,0.0,0.0,0.0,11244309.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+7,Richmond,2024-04-03,FedEx,Denny Hamlin,Joe Gibbs Racing,1,17,7_FedEx,8.0,0.0,0.0,0.0,0.0,3544421.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+7,Richmond,2024-04-03,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,26,0,7_Love's Travel Stops,8.0,0.0,0.0,0.0,0.0,3544421.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,Richmond,2024-04-03,McDonald's,Bubba Wallace,23XI Racing,13,2,7_McDonald's,8.0,0.0,0.0,0.0,0.0,3544421.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,Richmond,2024-04-03,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,5,5,7_NAPA Auto Parts,8.0,0.0,0.0,0.0,0.0,3544421.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+8,Martinsville,2024-04-11,FedEx,Denny Hamlin,Joe Gibbs Racing,11,66,8_FedEx,7.0,0.0,0.0,0.0,0.0,3881277.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+8,Martinsville,2024-04-11,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,21,0,8_Love's Travel Stops,7.0,0.0,0.0,0.0,0.0,3881277.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,Martinsville,2024-04-11,McDonald's,Bubba Wallace,23XI Racing,4,0,8_McDonald's,7.0,0.0,0.0,0.0,0.0,3881277.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,Martinsville,2024-04-11,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,3,64,8_NAPA Auto Parts,7.0,0.0,0.0,0.0,0.0,3881277.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+9,Texas,2024-04-18,FedEx,Denny Hamlin,Joe Gibbs Racing,30,37,9_FedEx,8.0,0.0,0.0,0.0,0.0,11059863.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+9,Texas,2024-04-18,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,35,0,9_Love's Travel Stops,8.0,0.0,0.0,0.0,0.0,11059863.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6
+9,Texas,2024-04-18,McDonald's,Bubba Wallace,23XI Racing,7,5,9_McDonald's,8.0,0.0,0.0,0.0,0.0,11059863.0,1.0,1060194.0,5800.0,9.585959609083766,0.0,0.0,0.0
+9,Texas,2024-04-18,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,1,39,9_NAPA Auto Parts,8.0,53.0,6.62,0.0,6.62,11059863.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+10,Talladega,2024-04-26,FedEx,Denny Hamlin,Joe Gibbs Racing,37,4,10_FedEx,8.0,0.0,0.0,0.0,0.0,34971366.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+10,Talladega,2024-04-26,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,31,36,10_Love's Travel Stops,8.0,100.0,12.5,0.0,12.5,34971366.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,Talladega,2024-04-26,McDonald's,Bubba Wallace,23XI Racing,36,0,10_McDonald's,8.0,0.0,0.0,0.0,0.0,34971366.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,Talladega,2024-04-26,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,15,5,10_NAPA Auto Parts,8.0,0.0,0.0,0.0,0.0,34971366.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+11,Dover,2024-05-04,FedEx,Denny Hamlin,Joe Gibbs Racing,1,136,11_FedEx,7.0,0.0,0.0,0.0,0.0,1779069.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6
+11,Dover,2024-05-04,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,36,0,11_Love's Travel Stops,7.0,0.0,0.0,0.0,0.0,1779069.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,Dover,2024-05-04,McDonald's,Bubba Wallace,23XI Racing,32,1,11_McDonald's,7.0,0.0,0.0,0.0,0.0,1779069.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,Dover,2024-05-04,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,5,0,11_NAPA Auto Parts,7.0,0.0,0.0,0.0,0.0,1779069.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+12,Kansas,2024-05-11,FedEx,Denny Hamlin,Joe Gibbs Racing,5,71,12_FedEx,8.0,0.0,0.0,0.0,0.0,9796175.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+12,Kansas,2024-05-11,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,10,0,12_Love's Travel Stops,8.0,0.0,0.0,0.0,0.0,9796175.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,Kansas,2024-05-11,McDonald's,Bubba Wallace,23XI Racing,17,0,12_McDonald's,8.0,0.0,0.0,0.0,0.0,9796175.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,Kansas,2024-05-11,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,3,0,12_NAPA Auto Parts,8.0,0.0,0.0,0.0,0.0,9796175.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+13,Darlington,2024-05-19,FedEx,Denny Hamlin,Joe Gibbs Racing,4,1,13_FedEx,7.0,0.0,0.0,0.0,0.0,3438875.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+13,Darlington,2024-05-19,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,10,0,13_Love's Travel Stops,7.0,0.0,0.0,0.0,0.0,3438875.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,Darlington,2024-05-19,McDonald's,Bubba Wallace,23XI Racing,7,6,13_McDonald's,7.0,0.0,0.0,0.0,0.0,3438875.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,Darlington,2024-05-19,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,12,0,13_NAPA Auto Parts,7.0,0.0,0.0,0.0,0.0,3438875.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,Charlotte,2024-05-26,FedEx,Denny Hamlin,Joe Gibbs Racing,5,0,14_FedEx,8.0,0.0,0.0,0.0,0.0,2926362.0,0.0,0.0,0.0,0.0,2.0,0.0,1.6
+14,Charlotte,2024-05-26,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,16,6,14_Love's Travel Stops,8.0,0.0,0.0,0.0,0.0,2926362.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+14,Charlotte,2024-05-26,McDonald's,Bubba Wallace,23XI Racing,11,0,14_McDonald's,8.0,0.0,0.0,0.0,0.0,2926362.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+14,Charlotte,2024-05-26,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,7,2,14_NAPA Auto Parts,8.0,0.0,0.0,0.0,0.0,2926362.0,0.0,0.0,0.0,0.0,2.0,0.0,1.6
+15,Gateway,2024-06-03,FedEx,Denny Hamlin,Joe Gibbs Racing,2,0,15_FedEx,8.0,0.0,0.0,0.0,0.0,427478.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+15,Gateway,2024-06-03,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,25,40,15_Love's Travel Stops,8.0,0.0,0.0,0.0,0.0,427478.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,Gateway,2024-06-03,McDonald's,Bubba Wallace,23XI Racing,21,0,15_McDonald's,8.0,0.0,0.0,0.0,0.0,427478.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,Gateway,2024-06-03,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,13,0,15_NAPA Auto Parts,8.0,0.0,0.0,0.0,0.0,427478.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+16,Sonoma,2024-06-11,FedEx,Denny Hamlin,Joe Gibbs Racing,38,0,16_FedEx,7.0,0.0,0.0,0.0,0.0,1459562.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+16,Sonoma,2024-06-11,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,2,0,16_Love's Travel Stops,7.0,0.0,0.0,0.0,0.0,1459562.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,Sonoma,2024-06-11,McDonald's,Bubba Wallace,23XI Racing,20,0,16_McDonald's,7.0,0.0,0.0,0.0,0.0,1459562.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,Sonoma,2024-06-11,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,4,3,16_NAPA Auto Parts,7.0,0.0,0.0,0.0,0.0,1459562.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+17,Iowa,2024-06-18,FedEx,Denny Hamlin,Joe Gibbs Racing,24,0,17_FedEx,8.0,0.0,0.0,0.0,0.0,943776.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+17,Iowa,2024-06-18,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,23,0,17_Love's Travel Stops,8.0,0.0,0.0,0.0,0.0,943776.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,Iowa,2024-06-18,McDonald's,Bubba Wallace,23XI Racing,17,0,17_McDonald's,8.0,0.0,0.0,0.0,0.0,943776.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6
+17,Iowa,2024-06-18,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,3,1,17_NAPA Auto Parts,8.0,0.0,0.0,0.0,0.0,943776.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+18,New Hampshire,2024-06-26,FedEx,Denny Hamlin,Joe Gibbs Racing,24,43,18_FedEx,7.0,148.0,21.14,0.0,21.14,779286.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+18,New Hampshire,2024-06-26,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,15,0,18_Love's Travel Stops,7.0,0.0,0.0,0.0,0.0,779286.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,New Hampshire,2024-06-26,McDonald's,Bubba Wallace,23XI Racing,34,0,18_McDonald's,7.0,0.0,0.0,0.0,0.0,779286.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,New Hampshire,2024-06-26,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,18,41,18_NAPA Auto Parts,7.0,0.0,0.0,0.0,0.0,779286.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+19,Nashville,2024-07-03,FedEx,Denny Hamlin,Joe Gibbs Racing,12,70,19_FedEx,8.0,0.0,0.0,0.0,0.0,1928745.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+19,Nashville,2024-07-03,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,35,31,19_Love's Travel Stops,8.0,0.0,0.0,0.0,0.0,1928745.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6
+19,Nashville,2024-07-03,McDonald's,Bubba Wallace,23XI Racing,7,0,19_McDonald's,8.0,0.0,0.0,0.0,0.0,1928745.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,Nashville,2024-07-03,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,18,0,19_NAPA Auto Parts,8.0,0.0,0.0,0.0,0.0,1928745.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+20,Chicago Street Course,2024-07-11,FedEx,Denny Hamlin,Joe Gibbs Racing,30,0,20_FedEx,8.0,0.0,0.0,0.0,0.0,6489514.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+20,Chicago Street Course,2024-07-11,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,5,0,20_Love's Travel Stops,8.0,0.0,0.0,0.0,0.0,6489514.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,Chicago Street Course,2024-07-11,McDonald's,Bubba Wallace,23XI Racing,13,0,20_McDonald's,8.0,0.0,0.0,0.0,0.0,6489514.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,Chicago Street Course,2024-07-11,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,21,0,20_NAPA Auto Parts,8.0,0.0,0.0,0.0,0.0,6489514.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+21,Pocono,2024-07-19,FedEx,Denny Hamlin,Joe Gibbs Racing,2,31,21_FedEx,7.0,0.0,0.0,0.0,0.0,1634805.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+21,Pocono,2024-07-19,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,24,0,21_Love's Travel Stops,7.0,0.0,0.0,0.0,0.0,1634805.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21,Pocono,2024-07-19,McDonald's,Bubba Wallace,23XI Racing,10,0,21_McDonald's,7.0,100.0,14.29,0.0,14.29,1634805.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21,Pocono,2024-07-19,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,9,0,21_NAPA Auto Parts,7.0,0.0,0.0,0.0,0.0,1634805.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+22,Indianapolis,2024-07-26,FedEx,Denny Hamlin,Joe Gibbs Racing,32,21,22_FedEx,15.0,0.0,0.0,0.0,0.0,8360020.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+22,Indianapolis,2024-07-26,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,16,1,22_Love's Travel Stops,15.0,0.0,0.0,0.0,0.0,8360020.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,Indianapolis,2024-07-26,McDonald's,Bubba Wallace,23XI Racing,5,26,22_McDonald's,15.0,0.0,0.0,0.0,0.0,8360020.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,Indianapolis,2024-07-26,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,10,1,22_NAPA Auto Parts,15.0,100.0,6.67,0.0,6.67,8360020.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+23,Richmond,2024-08-03,FedEx,Denny Hamlin,Joe Gibbs Racing,2,124,23_FedEx,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6
+23,Richmond,2024-08-03,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,15,0,23_Love's Travel Stops,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+23,Richmond,2024-08-03,McDonald's,Bubba Wallace,23XI Racing,4,0,23_McDonald's,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6
+23,Richmond,2024-08-03,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,9,5,23_NAPA Auto Parts,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+24,Michigan,2024-08-10,FedEx,Denny Hamlin,Joe Gibbs Racing,9,0,24_FedEx,31.0,0.0,0.0,0.0,0.0,12614339.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+24,Michigan,2024-08-10,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,19,0,24_Love's Travel Stops,31.0,0.0,0.0,0.0,0.0,12614339.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+24,Michigan,2024-08-10,McDonald's,Bubba Wallace,23XI Racing,26,5,24_McDonald's,31.0,0.0,0.0,0.0,0.0,12614339.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6
+24,Michigan,2024-08-10,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,15,29,24_NAPA Auto Parts,31.0,67.0,2.16,0.0,2.16,12614339.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+25,Daytona,2024-08-18,FedEx,Denny Hamlin,Joe Gibbs Racing,38,0,25_FedEx,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+25,Daytona,2024-08-18,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,30,26,25_Love's Travel Stops,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,Daytona,2024-08-18,McDonald's,Bubba Wallace,23XI Racing,6,16,25_McDonald's,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,Daytona,2024-08-18,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,36,0,25_NAPA Auto Parts,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+26,Darlington,2024-08-26,FedEx,Denny Hamlin,Joe Gibbs Racing,7,21,26_FedEx,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+26,Darlington,2024-08-26,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,28,0,26_Love's Travel Stops,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,Darlington,2024-08-26,McDonald's,Bubba Wallace,23XI Racing,16,37,26_McDonald's,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,Darlington,2024-08-26,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,11,0,26_NAPA Auto Parts,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+27,Atlanta,2024-09-02,FedEx,Denny Hamlin,Joe Gibbs Racing,24,0,27_FedEx,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.6
+27,Atlanta,2024-09-02,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,22,30,27_Love's Travel Stops,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+27,Atlanta,2024-09-02,McDonald's,Bubba Wallace,23XI Racing,29,8,27_McDonald's,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,2.0
+27,Atlanta,2024-09-02,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,8,0,27_NAPA Auto Parts,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+28,Watkins Glen,2024-09-10,FedEx,Denny Hamlin,Joe Gibbs Racing,23,0,28_FedEx,30.0,0.0,0.0,0.0,0.0,2375072.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+28,Watkins Glen,2024-09-10,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,7,7,28_Love's Travel Stops,30.0,0.0,0.0,0.0,0.0,2375072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,Watkins Glen,2024-09-10,McDonald's,Bubba Wallace,23XI Racing,17,0,28_McDonald's,30.0,0.0,0.0,0.0,0.0,2375072.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+28,Watkins Glen,2024-09-10,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,19,0,28_NAPA Auto Parts,30.0,55.0,1.83,0.0,1.83,2375072.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+29,Bristol,2024-09-17,FedEx,Denny Hamlin,Joe Gibbs Racing,4,0,29_FedEx,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+29,Bristol,2024-09-17,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,11,0,29_Love's Travel Stops,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+29,Bristol,2024-09-17,McDonald's,Bubba Wallace,23XI Racing,3,1,29_McDonald's,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+29,Bristol,2024-09-17,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,2,0,29_NAPA Auto Parts,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+30,Kansas,2024-09-25,FedEx,Denny Hamlin,Joe Gibbs Racing,8,1,30_FedEx,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+30,Kansas,2024-09-25,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,29,0,30_Love's Travel Stops,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,Kansas,2024-09-25,McDonald's,Bubba Wallace,23XI Racing,17,0,30_McDonald's,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,Kansas,2024-09-25,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,9,0,30_NAPA Auto Parts,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+31,Talladega,2024-10-03,FedEx,Denny Hamlin,Joe Gibbs Racing,10,0,31_FedEx,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+31,Talladega,2024-10-03,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,37,42,31_Love's Travel Stops,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+31,Talladega,2024-10-03,McDonald's,Bubba Wallace,23XI Racing,9,3,31_McDonald's,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31,Talladega,2024-10-03,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,29,1,31_NAPA Auto Parts,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+32,Charlotte Roval,2024-10-10,FedEx,Denny Hamlin,Joe Gibbs Racing,14,0,32_FedEx,15.0,0.0,0.0,0.0,0.0,1991384.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+32,Charlotte Roval,2024-10-10,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,15,0,32_Love's Travel Stops,15.0,0.0,0.0,0.0,0.0,1991384.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6
+32,Charlotte Roval,2024-10-10,McDonald's,Bubba Wallace,23XI Racing,9,0,32_McDonald's,15.0,0.0,0.0,0.0,0.0,1991384.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,Charlotte Roval,2024-10-10,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,5,0,32_NAPA Auto Parts,15.0,0.0,0.0,0.0,0.0,1991384.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+33,Las Vegas,2024-10-18,FedEx,Denny Hamlin,Joe Gibbs Racing,8,4,33_FedEx,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+33,Las Vegas,2024-10-18,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,20,0,33_Love's Travel Stops,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,Las Vegas,2024-10-18,McDonald's,Bubba Wallace,23XI Racing,12,0,33_McDonald's,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,Las Vegas,2024-10-18,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,33,0,33_NAPA Auto Parts,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+34,Homestead,2024-10-25,FedEx,Denny Hamlin,Joe Gibbs Racing,3,21,34_FedEx,17.0,0.0,0.0,0.0,0.0,1181966.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+34,Homestead,2024-10-25,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,14,0,34_Love's Travel Stops,17.0,72.0,4.24,0.0,4.24,1181966.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34,Homestead,2024-10-25,McDonald's,Bubba Wallace,23XI Racing,18,2,34_McDonald's,17.0,0.0,0.0,0.0,0.0,1181966.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34,Homestead,2024-10-25,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,5,81,34_NAPA Auto Parts,17.0,0.0,0.0,0.0,0.0,1181966.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+35,Martinsville,2024-11-02,FedEx,Denny Hamlin,Joe Gibbs Racing,5,0,35_FedEx,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35,Martinsville,2024-11-02,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,33,0,35_Love's Travel Stops,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6
+35,Martinsville,2024-11-02,McDonald's,Bubba Wallace,23XI Racing,18,6,35_McDonald's,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6
+35,Martinsville,2024-11-02,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,2,129,35_NAPA Auto Parts,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6
+36,Phoenix,2024-11-10,FedEx,Denny Hamlin,Joe Gibbs Racing,11,0,36_FedEx,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36,Phoenix,2024-11-10,Love's Travel Stops,Michael Mcdowell,Front Row Motorsports,31,0,36_Love's Travel Stops,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36,Phoenix,2024-11-10,McDonald's,Bubba Wallace,23XI Racing,7,0,36_McDonald's,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36,Phoenix,2024-11-10,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports,8,7,36_NAPA Auto Parts,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.6

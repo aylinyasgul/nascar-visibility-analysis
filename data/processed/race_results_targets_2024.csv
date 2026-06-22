@@ -1,0 +1,260 @@
+year,Race_Number_Raw,Race_Name,Track_Type,Finish_Position,Start_Position,Car_Number,Driver,Manufacturer,Team,Laps_Completed,Laps_Led,Status,Points,Stage_1_Pos,Stage_2_Pos,stage_3_or_duel,Stage_Points,Primary_Sponsor
+2024,-1,Daytona,superspeedway,1,19,45,Tyler Reddick,Toyota,23XI Racing,60,1,running,,,,1.0,10,Jordan Brand
+2024,-1,Daytona,superspeedway,2,3,9,Chase Elliott,Chevrolet,Hendrick Motorsports,60,0,running,,,,2.0,9,NAPA Auto Parts
+2024,-1,Daytona,superspeedway,3,9,48,Alex Bowman,Chevrolet,Hendrick Motorsports,60,0,running,,,,3.0,8,Ally
+2024,-1,Daytona,superspeedway,7,1,22,Joey Logano,Ford,Team Penske,60,1,running,,,,7.0,4,Shell/Pennzoil
+2024,-1,Daytona,superspeedway,11,5,1,Ross Chastain,Chevrolet,Trackhouse Racing,60,0,running,,,,,0,Busch Light
+2024,-2,Daytona,superspeedway,3,17,11,Denny Hamlin,Toyota,Joe Gibbs Racing,60,5,running,,,,3.0,8,FedEx
+2024,-2,Daytona,superspeedway,11,14,23,Bubba Wallace,Toyota,23XI Racing,60,21,running,,,,,0,McDonald's
+2024,1,Daytona,superspeedway,2,7,48,Alex Bowman,Chevrolet,Hendrick Motorsports,200,0,running,42.0,4.0,18.0,,7,Ally
+2024,1,Daytona,superspeedway,5,24,23,Bubba Wallace,Toyota,23XI Racing,200,3,running,39.0,8.0,7.0,,7,McDonald's
+2024,1,Daytona,superspeedway,14,5,9,Chase Elliott,Chevrolet,Hendrick Motorsports,200,13,running,33.0,1.0,19.0,,10,NAPA Auto Parts
+2024,1,Daytona,superspeedway,19,8,11,Denny Hamlin,Toyota,Joe Gibbs Racing,200,10,running,22.0,7.0,22.0,,4,FedEx
+2024,1,Daytona,superspeedway,21,21,1,Ross Chastain,Chevrolet,Trackhouse Racing,199,14,accident,24.0,3.0,17.0,,8,Busch Light
+2024,1,Daytona,superspeedway,29,3,45,Tyler Reddick,Toyota,23XI Racing,192,0,accident,14.0,12.0,5.0,,6,Jordan Brand
+2024,1,Daytona,superspeedway,32,1,22,Joey Logano,Ford,Team Penske,191,45,accident,5.0,11.0,21.0,,0,Shell/Pennzoil
+2024,2,Atlanta,superspeedway,5,18,23,Bubba Wallace,Toyota,23XI Racing,260,3,running,35.0,8.0,25.0,,3,McDonald's
+2024,2,Atlanta,superspeedway,7,21,1,Ross Chastain,Chevrolet,Trackhouse Racing,260,0,running,38.0,3.0,28.0,,8,Busch Light
+2024,2,Atlanta,superspeedway,15,28,9,Chase Elliott,Chevrolet,Hendrick Motorsports,260,0,running,23.0,27.0,10.0,,1,NAPA Auto Parts
+2024,2,Atlanta,superspeedway,23,13,11,Denny Hamlin,Toyota,Joe Gibbs Racing,259,15,running,14.0,25.0,19.0,,0,FedEx
+2024,2,Atlanta,superspeedway,27,17,48,Alex Bowman,Chevrolet,Hendrick Motorsports,255,0,running,10.0,34.0,32.0,,0,Ally
+2024,2,Atlanta,superspeedway,28,2,22,Joey Logano,Ford,Team Penske,252,27,running,9.0,12.0,17.0,,0,Shell/Pennzoil
+2024,2,Atlanta,superspeedway,30,19,45,Tyler Reddick,Toyota,23XI Racing,243,0,running,7.0,35.0,33.0,,0,Jordan Brand
+2024,3,Las Vegas,intermediate,2,18,45,Tyler Reddick,Toyota,23XI Racing,267,1,running,53.0,2.0,2.0,,18,Jordan Brand
+2024,3,Las Vegas,intermediate,4,20,1,Ross Chastain,Chevrolet,Trackhouse Racing,267,2,running,36.0,8.0,27.0,,3,Busch Light
+2024,3,Las Vegas,intermediate,8,28,11,Denny Hamlin,Toyota,Joe Gibbs Racing,267,16,running,43.0,5.0,3.0,,14,FedEx
+2024,3,Las Vegas,intermediate,9,1,22,Joey Logano,Ford,Team Penske,267,2,running,30.0,13.0,9.0,,2,Shell/Pennzoil
+2024,3,Las Vegas,intermediate,12,11,9,Chase Elliott,Chevrolet,Hendrick Motorsports,267,0,running,30.0,15.0,6.0,,5,NAPA Auto Parts
+2024,3,Las Vegas,intermediate,18,23,48,Alex Bowman,Chevrolet,Hendrick Motorsports,267,3,running,22.0,12.0,8.0,,3,Ally
+2024,3,Las Vegas,intermediate,35,5,23,Bubba Wallace,Toyota,23XI Racing,254,0,running,2.0,18.0,34.0,,0,McDonald's
+2024,4,Phoenix,short intermediate,6,12,1,Ross Chastain,Chevrolet,Trackhouse Racing,312,0,running,31.0,19.0,15.0,,0,Busch Light
+2024,4,Phoenix,short intermediate,10,6,45,Tyler Reddick,Toyota,23XI Racing,312,68,running,46.0,1.0,2.0,,19,Jordan Brand
+2024,4,Phoenix,short intermediate,11,1,11,Denny Hamlin,Toyota,Joe Gibbs Racing,312,68,running,42.0,3.0,3.0,,16,FedEx
+2024,4,Phoenix,short intermediate,16,22,23,Bubba Wallace,Toyota,23XI Racing,312,0,running,21.0,18.0,16.0,,0,McDonald's
+2024,4,Phoenix,short intermediate,19,3,9,Chase Elliott,Chevrolet,Hendrick Motorsports,312,0,running,28.0,5.0,7.0,,10,NAPA Auto Parts
+2024,4,Phoenix,short intermediate,20,25,48,Alex Bowman,Chevrolet,Hendrick Motorsports,312,0,running,17.0,23.0,12.0,,0,Ally
+2024,4,Phoenix,short intermediate,34,23,22,Joey Logano,Ford,Team Penske,203,0,accident,3.0,25.0,21.0,,0,Shell/Pennzoil
+2024,5,Bristol,short track,1,3,11,Denny Hamlin,Toyota,Joe Gibbs Racing,500,163,running,44.0,13.0,7.0,,4,FedEx
+2024,5,Bristol,short track,4,29,48,Alex Bowman,Chevrolet,Hendrick Motorsports,500,3,running,33.0,19.0,16.0,,0,Ally
+2024,5,Bristol,short track,8,5,9,Chase Elliott,Chevrolet,Hendrick Motorsports,499,5,running,29.0,15.0,22.0,,0,NAPA Auto Parts
+2024,5,Bristol,short track,15,36,1,Ross Chastain,Chevrolet,Trackhouse Racing,498,0,running,22.0,23.0,21.0,,0,Busch Light
+2024,5,Bristol,short track,22,4,22,Joey Logano,Ford,Team Penske,498,5,running,23.0,11.0,3.0,,8,Shell/Pennzoil
+2024,5,Bristol,short track,29,9,23,Bubba Wallace,Toyota,23XI Racing,496,15,running,10.0,29.0,9.0,,2,McDonald's
+2024,5,Bristol,short track,30,23,45,Tyler Reddick,Toyota,23XI Racing,495,4,running,7.0,34.0,33.0,,0,Jordan Brand
+2024,6,COTA,road course,4,17,48,Alex Bowman,Chevrolet,Hendrick Motorsports,68,0,running,33.0,19.0,14.0,,0,Ally
+2024,6,COTA,road course,5,3,45,Tyler Reddick,Toyota,23XI Racing,68,1,running,34.0,9.0,13.0,,2,Jordan Brand
+2024,6,COTA,road course,7,6,1,Ross Chastain,Chevrolet,Trackhouse Racing,68,10,running,31.0,10.0,12.0,,1,Busch Light
+2024,6,COTA,road course,11,35,22,Joey Logano,Ford,Team Penske,68,0,running,26.0,24.0,24.0,,0,Shell/Pennzoil
+2024,6,COTA,road course,14,8,11,Denny Hamlin,Toyota,Joe Gibbs Racing,68,3,running,33.0,16.0,1.0,,10,FedEx
+2024,6,COTA,road course,15,10,23,Bubba Wallace,Toyota,23XI Racing,68,0,running,22.0,32.0,27.0,,0,McDonald's
+2024,6,COTA,road course,16,9,9,Chase Elliott,Chevrolet,Hendrick Motorsports,68,0,running,21.0,18.0,21.0,,0,NAPA Auto Parts
+2024,7,Richmond,short track,1,11,11,Denny Hamlin,Toyota,Joe Gibbs Racing,407,17,running,46.0,11.0,5.0,,6,FedEx
+2024,7,Richmond,short track,2,10,22,Joey Logano,Ford,Team Penske,407,0,running,49.0,5.0,3.0,,14,Shell/Pennzoil
+2024,7,Richmond,short track,5,2,9,Chase Elliott,Chevrolet,Hendrick Motorsports,407,5,running,36.0,7.0,13.0,,4,NAPA Auto Parts
+2024,7,Richmond,short track,10,19,45,Tyler Reddick,Toyota,23XI Racing,407,0,running,28.0,16.0,10.0,,1,Jordan Brand
+2024,7,Richmond,short track,13,5,23,Bubba Wallace,Toyota,23XI Racing,407,2,running,36.0,2.0,8.0,,12,McDonald's
+2024,7,Richmond,short track,15,3,1,Ross Chastain,Chevrolet,Trackhouse Racing,407,0,running,25.0,8.0,15.0,,3,Busch Light
+2024,7,Richmond,short track,17,4,48,Alex Bowman,Chevrolet,Hendrick Motorsports,407,0,running,28.0,3.0,19.0,,8,Ally
+2024,8,Martinsville,short track,3,3,9,Chase Elliott,Chevrolet,Hendrick Motorsports,415,64,running,49.0,3.0,4.0,,15,NAPA Auto Parts
+2024,8,Martinsville,short track,4,2,23,Bubba Wallace,Toyota,23XI Racing,415,0,running,51.0,2.0,2.0,,18,McDonald's
+2024,8,Martinsville,short track,6,6,22,Joey Logano,Ford,Team Penske,415,84,running,42.0,6.0,5.0,,11,Shell/Pennzoil
+2024,8,Martinsville,short track,7,19,45,Tyler Reddick,Toyota,23XI Racing,415,0,running,30.0,17.0,12.0,,0,Jordan Brand
+2024,8,Martinsville,short track,8,10,48,Alex Bowman,Chevrolet,Hendrick Motorsports,415,0,running,34.0,11.0,6.0,,5,Ally
+2024,8,Martinsville,short track,11,8,11,Denny Hamlin,Toyota,Joe Gibbs Racing,415,66,running,40.0,7.0,1.0,,14,FedEx
+2024,8,Martinsville,short track,14,12,1,Ross Chastain,Chevrolet,Trackhouse Racing,415,0,running,25.0,13.0,9.0,,2,Busch Light
+2024,9,Texas,intermediate,1,24,9,Chase Elliott,Chevrolet,Hendrick Motorsports,276,39,running,45.0,7.0,10.0,,5,NAPA Auto Parts
+2024,9,Texas,intermediate,4,4,45,Tyler Reddick,Toyota,23XI Racing,276,37,running,40.0,4.0,11.0,,7,Jordan Brand
+2024,9,Texas,intermediate,7,10,23,Bubba Wallace,Toyota,23XI Racing,276,5,running,40.0,10.0,2.0,,10,McDonald's
+2024,9,Texas,intermediate,11,20,22,Joey Logano,Ford,Team Penske,276,14,running,26.0,19.0,20.0,,0,Shell/Pennzoil
+2024,9,Texas,intermediate,30,11,11,Denny Hamlin,Toyota,Joe Gibbs Racing,276,37,running,15.0,3.0,12.0,,8,FedEx
+2024,9,Texas,intermediate,32,12,1,Ross Chastain,Chevrolet,Trackhouse Racing,275,33,accident,15.0,11.0,1.0,,10,Busch Light
+2024,9,Texas,intermediate,37,14,48,Alex Bowman,Chevrolet,Hendrick Motorsports,100,0,accident,1.0,18.0,37.0,,0,Ally
+2024,10,Talladega,superspeedway,1,18,45,Tyler Reddick,Toyota,23XI Racing,188,13,running,47.0,9.0,6.0,,7,Jordan Brand
+2024,10,Talladega,superspeedway,5,12,48,Alex Bowman,Chevrolet,Hendrick Motorsports,188,0,running,33.0,10.0,14.0,,1,Ally
+2024,10,Talladega,superspeedway,13,32,1,Ross Chastain,Chevrolet,Trackhouse Racing,188,6,running,30.0,18.0,5.0,,6,Busch Light
+2024,10,Talladega,superspeedway,15,9,9,Chase Elliott,Chevrolet,Hendrick Motorsports,188,5,running,34.0,2.0,8.0,,12,NAPA Auto Parts
+2024,10,Talladega,superspeedway,19,7,22,Joey Logano,Ford,Team Penske,188,22,running,28.0,32.0,1.0,,10,Shell/Pennzoil
+2024,10,Talladega,superspeedway,36,14,23,Bubba Wallace,Toyota,23XI Racing,154,0,accident,1.0,11.0,16.0,,0,McDonald's
+2024,10,Talladega,superspeedway,37,23,11,Denny Hamlin,Toyota,Joe Gibbs Racing,154,4,accident,1.0,33.0,30.0,,0,FedEx
+2024,11,Dover,short intermediate,1,6,11,Denny Hamlin,Toyota,Joe Gibbs Racing,400,136,running,53.0,6.0,3.0,,13,FedEx
+2024,11,Dover,short intermediate,5,29,9,Chase Elliott,Chevrolet,Hendrick Motorsports,400,0,running,40.0,9.0,5.0,,8,NAPA Auto Parts
+2024,11,Dover,short intermediate,8,9,48,Alex Bowman,Chevrolet,Hendrick Motorsports,400,0,running,41.0,8.0,2.0,,12,Ally
+2024,11,Dover,short intermediate,11,4,45,Tyler Reddick,Toyota,23XI Racing,400,0,running,38.0,3.0,7.0,,12,Jordan Brand
+2024,11,Dover,short intermediate,12,22,1,Ross Chastain,Chevrolet,Trackhouse Racing,400,0,running,25.0,16.0,16.0,,0,Busch Light
+2024,11,Dover,short intermediate,16,13,22,Joey Logano,Ford,Team Penske,400,0,running,21.0,21.0,18.0,,0,Shell/Pennzoil
+2024,11,Dover,short intermediate,32,16,23,Bubba Wallace,Toyota,23XI Racing,329,1,accident,6.0,14.0,10.0,,1,McDonald's
+2024,12,Kansas,intermediate,3,9,9,Chase Elliott,Chevrolet,Hendrick Motorsports,268,0,running,35.0,10.0,11.0,,1,NAPA Auto Parts
+2024,12,Kansas,intermediate,5,14,11,Denny Hamlin,Toyota,Joe Gibbs Racing,268,71,running,50.0,1.0,3.0,,18,FedEx
+2024,12,Kansas,intermediate,7,18,48,Alex Bowman,Chevrolet,Hendrick Motorsports,268,0,running,34.0,17.0,7.0,,4,Ally
+2024,12,Kansas,intermediate,17,23,23,Bubba Wallace,Toyota,23XI Racing,268,0,running,20.0,18.0,17.0,,0,McDonald's
+2024,12,Kansas,intermediate,19,2,1,Ross Chastain,Chevrolet,Trackhouse Racing,268,43,running,29.0,2.0,9.0,,11,Busch Light
+2024,12,Kansas,intermediate,20,15,45,Tyler Reddick,Toyota,23XI Racing,268,7,running,20.0,15.0,8.0,,3,Jordan Brand
+2024,12,Kansas,intermediate,34,11,22,Joey Logano,Ford,Team Penske,266,0,running,3.0,21.0,21.0,,0,Shell/Pennzoil
+2024,13,Darlington,short intermediate,4,7,11,Denny Hamlin,Toyota,Joe Gibbs Racing,293,1,running,36.0,12.0,8.0,,3,FedEx
+2024,13,Darlington,short intermediate,7,8,23,Bubba Wallace,Toyota,23XI Racing,293,6,running,33.0,10.0,9.0,,3,McDonald's
+2024,13,Darlington,short intermediate,8,18,48,Alex Bowman,Chevrolet,Hendrick Motorsports,293,0,running,29.0,16.0,19.0,,0,Ally
+2024,13,Darlington,short intermediate,11,9,1,Ross Chastain,Chevrolet,Trackhouse Racing,293,0,running,27.0,15.0,10.0,,1,Busch Light
+2024,13,Darlington,short intermediate,12,31,9,Chase Elliott,Chevrolet,Hendrick Motorsports,293,0,running,25.0,26.0,16.0,,0,NAPA Auto Parts
+2024,13,Darlington,short intermediate,21,14,22,Joey Logano,Ford,Team Penske,293,0,running,23.0,11.0,4.0,,7,Shell/Pennzoil
+2024,13,Darlington,short intermediate,32,1,45,Tyler Reddick,Toyota,23XI Racing,291,174,running,22.0,4.0,1.0,,17,Jordan Brand
+2024,14,Charlotte,intermediate,4,8,45,Tyler Reddick,Toyota,23XI Racing,249,0,running,41.0,29.0,10.0,4.0,8,Jordan Brand
+2024,14,Charlotte,intermediate,5,11,11,Denny Hamlin,Toyota,Joe Gibbs Racing,249,0,running,45.0,25.0,4.0,5.0,13,FedEx
+2024,14,Charlotte,intermediate,7,5,9,Chase Elliott,Chevrolet,Hendrick Motorsports,249,2,running,38.0,11.0,7.0,7.0,8,NAPA Auto Parts
+2024,14,Charlotte,intermediate,8,7,1,Ross Chastain,Chevrolet,Trackhouse Racing,249,10,running,34.0,13.0,9.0,8.0,5,Busch Light
+2024,14,Charlotte,intermediate,9,6,48,Alex Bowman,Chevrolet,Hendrick Motorsports,249,0,running,43.0,3.0,6.0,9.0,15,Ally
+2024,14,Charlotte,intermediate,11,12,23,Bubba Wallace,Toyota,23XI Racing,249,0,running,39.0,6.0,3.0,11.0,13,McDonald's
+2024,14,Charlotte,intermediate,14,28,22,Joey Logano,Ford,Team Penske,249,0,running,23.0,18.0,19.0,14.0,0,Shell/Pennzoil
+2024,15,Gateway,short intermediate,2,6,11,Denny Hamlin,Toyota,Joe Gibbs Racing,240,0,running,42.0,5.0,10.0,,7,FedEx
+2024,15,Gateway,short intermediate,4,5,45,Tyler Reddick,Toyota,23XI Racing,240,0,running,36.0,8.0,20.0,,3,Jordan Brand
+2024,15,Gateway,short intermediate,5,12,22,Joey Logano,Ford,Team Penske,240,1,running,39.0,9.0,6.0,,7,Shell/Pennzoil
+2024,15,Gateway,short intermediate,12,16,1,Ross Chastain,Chevrolet,Trackhouse Racing,240,0,running,25.0,14.0,22.0,,0,Busch Light
+2024,15,Gateway,short intermediate,13,17,9,Chase Elliott,Chevrolet,Hendrick Motorsports,240,0,running,32.0,10.0,4.0,,8,NAPA Auto Parts
+2024,15,Gateway,short intermediate,21,8,23,Bubba Wallace,Toyota,23XI Racing,240,0,running,16.0,12.0,23.0,,0,McDonald's
+2024,15,Gateway,short intermediate,28,14,48,Alex Bowman,Chevrolet,Hendrick Motorsports,239,0,running,9.0,13.0,30.0,,0,Ally
+2024,16,Sonoma,road course,4,4,9,Chase Elliott,Chevrolet,Hendrick Motorsports,110,3,running,40.0,4.0,31.0,,7,NAPA Auto Parts
+2024,16,Sonoma,road course,5,9,1,Ross Chastain,Chevrolet,Trackhouse Racing,110,0,running,36.0,7.0,26.0,,4,Busch Light
+2024,16,Sonoma,road course,8,2,45,Tyler Reddick,Toyota,23XI Racing,110,35,running,39.0,1.0,29.0,,10,Jordan Brand
+2024,16,Sonoma,road course,15,8,48,Alex Bowman,Chevrolet,Hendrick Motorsports,110,0,running,28.0,5.0,33.0,,6,Ally
+2024,16,Sonoma,road course,20,18,23,Bubba Wallace,Toyota,23XI Racing,110,0,running,17.0,12.0,19.0,,0,McDonald's
+2024,16,Sonoma,road course,21,1,22,Joey Logano,Ford,Team Penske,110,16,running,18.0,30.0,9.0,,2,Shell/Pennzoil
+2024,16,Sonoma,road course,38,25,11,Denny Hamlin,Toyota,Joe Gibbs Racing,2,0,engine,1.0,38.0,38.0,,0,FedEx
+2024,17,Iowa,short track,3,9,9,Chase Elliott,Chevrolet,Hendrick Motorsports,350,1,running,44.0,9.0,3.0,,10,NAPA Auto Parts
+2024,17,Iowa,short track,6,11,22,Joey Logano,Ford,Team Penske,350,0,running,36.0,6.0,17.0,,5,Shell/Pennzoil
+2024,17,Iowa,short track,8,33,48,Alex Bowman,Chevrolet,Hendrick Motorsports,350,0,running,29.0,11.0,16.0,,0,Ally
+2024,17,Iowa,short track,11,17,1,Ross Chastain,Chevrolet,Trackhouse Racing,350,0,running,26.0,12.0,19.0,,0,Busch Light
+2024,17,Iowa,short track,17,16,23,Bubba Wallace,Toyota,23XI Racing,349,0,running,26.0,18.0,5.0,,6,McDonald's
+2024,17,Iowa,short track,22,8,45,Tyler Reddick,Toyota,23XI Racing,349,0,running,15.0,15.0,25.0,,0,Jordan Brand
+2024,17,Iowa,short track,24,12,11,Denny Hamlin,Toyota,Joe Gibbs Racing,348,0,running,18.0,34.0,6.0,,5,FedEx
+2024,18,New Hampshire,short intermediate,6,12,45,Tyler Reddick,Toyota,23XI Racing,305,53,running,33.0,9.0,14.0,,2,Jordan Brand
+2024,18,New Hampshire,short intermediate,10,8,1,Ross Chastain,Chevrolet,Trackhouse Racing,305,0,running,31.0,8.0,10.0,,4,Busch Light
+2024,18,New Hampshire,short intermediate,18,1,9,Chase Elliott,Chevrolet,Hendrick Motorsports,305,41,running,29.0,3.0,9.0,,10,NAPA Auto Parts
+2024,18,New Hampshire,short intermediate,24,14,11,Denny Hamlin,Toyota,Joe Gibbs Racing,305,43,running,27.0,7.0,1.0,,14,FedEx
+2024,18,New Hampshire,short intermediate,32,6,22,Joey Logano,Ford,Team Penske,302,0,running,22.0,2.0,3.0,,17,Shell/Pennzoil
+2024,18,New Hampshire,short intermediate,34,17,23,Bubba Wallace,Toyota,23XI Racing,265,0,accident,3.0,13.0,17.0,,0,McDonald's
+2024,18,New Hampshire,short intermediate,36,5,48,Alex Bowman,Chevrolet,Hendrick Motorsports,142,0,engine,2.0,10.0,36.0,,1,Ally
+2024,19,Nashville,short intermediate,1,26,22,Joey Logano,Ford,Team Penske,331,9,running,40.0,21.0,21.0,,0,Shell/Pennzoil
+2024,19,Nashville,short intermediate,3,6,45,Tyler Reddick,Toyota,23XI Racing,331,16,running,51.0,3.0,2.0,,17,Jordan Brand
+2024,19,Nashville,short intermediate,7,24,23,Bubba Wallace,Toyota,23XI Racing,331,0,running,31.0,10.0,27.0,,1,McDonald's
+2024,19,Nashville,short intermediate,12,1,11,Denny Hamlin,Toyota,Joe Gibbs Racing,331,70,running,41.0,2.0,4.0,,16,FedEx
+2024,19,Nashville,short intermediate,14,12,48,Alex Bowman,Chevrolet,Hendrick Motorsports,331,0,running,23.0,13.0,22.0,,0,Ally
+2024,19,Nashville,short intermediate,18,13,9,Chase Elliott,Chevrolet,Hendrick Motorsports,331,0,running,24.0,11.0,6.0,,5,NAPA Auto Parts
+2024,19,Nashville,short intermediate,33,20,1,Ross Chastain,Chevrolet,Trackhouse Racing,304,45,accident,4.0,15.0,15.0,,0,Busch Light
+2024,20,Chicago Street Course,road course,1,8,48,Alex Bowman,Chevrolet,Hendrick Motorsports,58,8,running,54.0,6.0,2.0,,14,Ally
+2024,20,Chicago Street Course,road course,2,4,45,Tyler Reddick,Toyota,23XI Racing,58,0,running,37.0,9.0,17.0,,2,Jordan Brand
+2024,20,Chicago Street Course,road course,13,6,23,Bubba Wallace,Toyota,23XI Racing,58,0,running,28.0,7.0,35.0,,4,McDonald's
+2024,20,Chicago Street Course,road course,21,18,9,Chase Elliott,Chevrolet,Hendrick Motorsports,58,0,running,16.0,13.0,27.0,,0,NAPA Auto Parts
+2024,20,Chicago Street Course,road course,22,14,1,Ross Chastain,Chevrolet,Trackhouse Racing,58,0,running,15.0,12.0,22.0,,0,Busch Light
+2024,20,Chicago Street Course,road course,23,32,22,Joey Logano,Ford,Team Penske,58,0,running,14.0,38.0,34.0,,0,Shell/Pennzoil
+2024,20,Chicago Street Course,road course,30,11,11,Denny Hamlin,Toyota,Joe Gibbs Racing,58,0,running,8.0,23.0,10.0,,1,FedEx
+2024,21,Pocono,long intermediate,2,4,11,Denny Hamlin,Toyota,Joe Gibbs Racing,160,31,running,54.0,2.0,1.0,,19,FedEx
+2024,21,Pocono,long intermediate,3,6,48,Alex Bowman,Chevrolet,Hendrick Motorsports,160,0,running,43.0,6.0,7.0,,9,Ally
+2024,21,Pocono,long intermediate,5,10,22,Joey Logano,Ford,Team Penske,160,3,running,38.0,7.0,9.0,,6,Shell/Pennzoil
+2024,21,Pocono,long intermediate,6,7,45,Tyler Reddick,Toyota,23XI Racing,160,0,running,40.0,3.0,10.0,,9,Jordan Brand
+2024,21,Pocono,long intermediate,9,11,9,Chase Elliott,Chevrolet,Hendrick Motorsports,160,0,running,43.0,5.0,2.0,,15,NAPA Auto Parts
+2024,21,Pocono,long intermediate,10,29,23,Bubba Wallace,Toyota,23XI Racing,160,0,running,27.0,36.0,18.0,,0,McDonald's
+2024,21,Pocono,long intermediate,36,19,1,Ross Chastain,Chevrolet,Trackhouse Racing,53,0,accident,1.0,31.0,36.0,,0,Busch Light
+2024,22,Indianapolis,long intermediate,2,1,45,Tyler Reddick,Toyota,23XI Racing,167,40,running,46.0,5.0,6.0,,11,Jordan Brand
+2024,22,Indianapolis,long intermediate,5,17,23,Bubba Wallace,Toyota,23XI Racing,167,26,running,42.0,11.0,1.0,,10,McDonald's
+2024,22,Indianapolis,long intermediate,10,3,9,Chase Elliott,Chevrolet,Hendrick Motorsports,167,1,running,36.0,17.0,2.0,,9,NAPA Auto Parts
+2024,22,Indianapolis,long intermediate,15,28,1,Ross Chastain,Chevrolet,Trackhouse Racing,167,8,running,22.0,21.0,13.0,,0,Busch Light
+2024,22,Indianapolis,long intermediate,31,13,48,Alex Bowman,Chevrolet,Hendrick Motorsports,161,0,accident,10.0,7.0,16.0,,4,Ally
+2024,22,Indianapolis,long intermediate,32,2,11,Denny Hamlin,Toyota,Joe Gibbs Racing,161,21,accident,23.0,1.0,3.0,,18,FedEx
+2024,22,Indianapolis,long intermediate,34,12,22,Joey Logano,Ford,Team Penske,109,0,accident,3.0,14.0,32.0,,0,Shell/Pennzoil
+2024,23,Richmond,short track,2,1,11,Denny Hamlin,Toyota,Joe Gibbs Racing,408,124,running,52.0,2.0,3.0,,17,FedEx
+2024,23,Richmond,short track,3,10,45,Tyler Reddick,Toyota,23XI Racing,408,8,running,40.0,9.0,7.0,,6,Jordan Brand
+2024,23,Richmond,short track,4,8,23,Bubba Wallace,Toyota,23XI Racing,408,0,running,42.0,5.0,8.0,,9,McDonald's
+2024,23,Richmond,short track,5,22,1,Ross Chastain,Chevrolet,Trackhouse Racing,408,0,running,32.0,11.0,12.0,,0,Busch Light
+2024,23,Richmond,short track,9,4,9,Chase Elliott,Chevrolet,Hendrick Motorsports,408,5,running,34.0,6.0,10.0,,6,NAPA Auto Parts
+2024,23,Richmond,short track,19,9,22,Joey Logano,Ford,Team Penske,408,2,running,32.0,4.0,4.0,,14,Shell/Pennzoil
+2024,23,Richmond,short track,28,17,48,Alex Bowman,Chevrolet,Hendrick Motorsports,406,0,running,9.0,21.0,23.0,,0,Ally
+2024,24,Michigan,long intermediate,1,2,45,Tyler Reddick,Toyota,23XI Racing,206,15,running,40.0,12.0,27.0,,0,Jordan Brand
+2024,24,Michigan,long intermediate,9,1,11,Denny Hamlin,Toyota,Joe Gibbs Racing,206,0,running,28.0,22.0,26.0,,0,FedEx
+2024,24,Michigan,long intermediate,15,6,9,Chase Elliott,Chevrolet,Hendrick Motorsports,206,29,running,31.0,2.0,14.0,,9,NAPA Auto Parts
+2024,24,Michigan,long intermediate,25,7,1,Ross Chastain,Chevrolet,Trackhouse Racing,205,4,running,22.0,10.0,2.0,,10,Busch Light
+2024,24,Michigan,long intermediate,26,5,23,Bubba Wallace,Toyota,23XI Racing,205,5,running,18.0,4.0,13.0,,7,McDonald's
+2024,24,Michigan,long intermediate,27,22,48,Alex Bowman,Chevrolet,Hendrick Motorsports,205,0,running,12.0,9.0,12.0,,2,Ally
+2024,24,Michigan,long intermediate,33,14,22,Joey Logano,Ford,Team Penske,117,0,accident,4.0,16.0,31.0,,0,Shell/Pennzoil
+2024,25,Daytona,superspeedway,6,18,23,Bubba Wallace,Toyota,23XI Racing,164,16,running,32.0,12.0,10.0,,1,McDonald's
+2024,25,Daytona,superspeedway,12,24,1,Ross Chastain,Chevrolet,Trackhouse Racing,164,0,running,25.0,11.0,32.0,,0,Busch Light
+2024,25,Daytona,superspeedway,16,21,48,Alex Bowman,Chevrolet,Hendrick Motorsports,164,0,running,21.0,14.0,13.0,,0,Ally
+2024,25,Daytona,superspeedway,28,25,45,Tyler Reddick,Toyota,23XI Racing,156,0,accident,9.0,20.0,12.0,,0,Jordan Brand
+2024,25,Daytona,superspeedway,31,3,22,Joey Logano,Ford,Team Penske,151,34,accident,25.0,2.0,1.0,,19,Shell/Pennzoil
+2024,25,Daytona,superspeedway,36,10,9,Chase Elliott,Chevrolet,Hendrick Motorsports,61,0,accident,1.0,21.0,38.0,,0,NAPA Auto Parts
+2024,25,Daytona,superspeedway,38,19,11,Denny Hamlin,Toyota,Joe Gibbs Racing,59,0,accident,1.0,18.0,37.0,,0,FedEx
+2024,26,Darlington,short intermediate,5,22,1,Ross Chastain,Chevrolet,Trackhouse Racing,367,3,running,32.0,22.0,16.0,,0,Busch Light
+2024,26,Darlington,short intermediate,7,14,11,Denny Hamlin,Toyota,Joe Gibbs Racing,367,21,running,43.0,6.0,3.0,,13,FedEx
+2024,26,Darlington,short intermediate,8,23,22,Joey Logano,Ford,Team Penske,367,0,running,29.0,15.0,15.0,,0,Shell/Pennzoil
+2024,26,Darlington,short intermediate,10,6,45,Tyler Reddick,Toyota,23XI Racing,367,1,running,37.0,4.0,8.0,,10,Jordan Brand
+2024,26,Darlington,short intermediate,11,20,9,Chase Elliott,Chevrolet,Hendrick Motorsports,367,0,running,26.0,19.0,22.0,,0,NAPA Auto Parts
+2024,26,Darlington,short intermediate,16,1,23,Bubba Wallace,Toyota,23XI Racing,367,37,running,32.0,2.0,9.0,,11,McDonald's
+2024,26,Darlington,short intermediate,19,27,48,Alex Bowman,Chevrolet,Hendrick Motorsports,366,0,running,18.0,23.0,21.0,,0,Ally
+2024,27,Atlanta,superspeedway,1,7,22,Joey Logano,Ford,Team Penske,266,9,running,47.0,4.0,12.0,,7,Shell/Pennzoil
+2024,27,Atlanta,superspeedway,5,11,48,Alex Bowman,Chevrolet,Hendrick Motorsports,266,5,running,48.0,3.0,3.0,,16,Ally
+2024,27,Atlanta,superspeedway,6,23,45,Tyler Reddick,Toyota,23XI Racing,266,0,running,31.0,17.0,11.0,,0,Jordan Brand
+2024,27,Atlanta,superspeedway,8,16,9,Chase Elliott,Chevrolet,Hendrick Motorsports,266,0,running,36.0,7.0,8.0,,7,NAPA Auto Parts
+2024,27,Atlanta,superspeedway,13,18,1,Ross Chastain,Chevrolet,Trackhouse Racing,266,13,running,33.0,6.0,7.0,,9,Busch Light
+2024,27,Atlanta,superspeedway,24,38,11,Denny Hamlin,Toyota,Joe Gibbs Racing,266,0,running,13.0,34.0,29.0,,0,FedEx
+2024,27,Atlanta,superspeedway,29,24,23,Bubba Wallace,Toyota,23XI Racing,266,8,running,8.0,33.0,33.0,,0,McDonald's
+2024,28,Watkins Glen,road course,4,1,1,Ross Chastain,Chevrolet,Trackhouse Racing,92,51,running,43.0,14.0,1.0,,10,Busch Light
+2024,28,Watkins Glen,road course,15,7,22,Joey Logano,Ford,Team Penske,92,6,running,30.0,17.0,3.0,,8,Shell/Pennzoil
+2024,28,Watkins Glen,road course,17,32,23,Bubba Wallace,Toyota,23XI Racing,92,0,running,20.0,12.0,12.0,,0,McDonald's
+2024,28,Watkins Glen,road course,18,4,48,Alex Bowman,Chevrolet,Hendrick Motorsports,92,1,running,31.0,2.0,8.0,,12,Ally
+2024,28,Watkins Glen,road course,19,14,9,Chase Elliott,Chevrolet,Hendrick Motorsports,92,0,running,23.0,6.0,25.0,,5,NAPA Auto Parts
+2024,28,Watkins Glen,road course,23,22,11,Denny Hamlin,Toyota,Joe Gibbs Racing,92,0,running,15.0,34.0,10.0,,1,FedEx
+2024,28,Watkins Glen,road course,27,16,45,Tyler Reddick,Toyota,23XI Racing,92,0,running,14.0,7.0,31.0,,4,Jordan Brand
+2024,29,Bristol,short track,2,10,9,Chase Elliott,Chevrolet,Hendrick Motorsports,500,0,running,38.0,9.0,10.0,,3,NAPA Auto Parts
+2024,29,Bristol,short track,3,11,23,Bubba Wallace,Toyota,23XI Racing,500,1,running,40.0,10.0,6.0,,6,McDonald's
+2024,29,Bristol,short track,4,8,11,Denny Hamlin,Toyota,Joe Gibbs Racing,500,0,running,46.0,6.0,3.0,,13,FedEx
+2024,29,Bristol,short track,9,1,48,Alex Bowman,Chevrolet,Hendrick Motorsports,500,34,running,41.0,2.0,7.0,,13,Ally
+2024,29,Bristol,short track,10,12,1,Ross Chastain,Chevrolet,Trackhouse Racing,500,0,running,27.0,17.0,14.0,,0,Busch Light
+2024,29,Bristol,short track,20,15,45,Tyler Reddick,Toyota,23XI Racing,499,3,running,24.0,19.0,4.0,,7,Jordan Brand
+2024,29,Bristol,short track,28,20,22,Joey Logano,Ford,Team Penske,496,0,running,9.0,14.0,32.0,,0,Shell/Pennzoil
+2024,30,Kansas,intermediate,1,20,1,Ross Chastain,Chevrolet,Trackhouse Racing,267,52,running,40.0,12.0,12.0,,0,Busch Light
+2024,30,Kansas,intermediate,6,12,48,Alex Bowman,Chevrolet,Hendrick Motorsports,267,6,running,43.0,9.0,1.0,,12,Ally
+2024,30,Kansas,intermediate,8,8,11,Denny Hamlin,Toyota,Joe Gibbs Racing,267,1,running,36.0,4.0,11.0,,7,FedEx
+2024,30,Kansas,intermediate,9,38,9,Chase Elliott,Chevrolet,Hendrick Motorsports,267,0,running,30.0,19.0,9.0,,2,NAPA Auto Parts
+2024,30,Kansas,intermediate,14,5,22,Joey Logano,Ford,Team Penske,267,3,running,32.0,2.0,28.0,,9,Shell/Pennzoil
+2024,30,Kansas,intermediate,17,13,23,Bubba Wallace,Toyota,23XI Racing,267,0,running,20.0,21.0,21.0,,0,McDonald's
+2024,30,Kansas,intermediate,25,4,45,Tyler Reddick,Toyota,23XI Racing,267,7,running,12.0,14.0,13.0,,0,Jordan Brand
+2024,31,Talladega,superspeedway,9,26,23,Bubba Wallace,Toyota,23XI Racing,195,3,running,32.0,22.0,7.0,,4,McDonald's
+2024,31,Talladega,superspeedway,10,8,11,Denny Hamlin,Toyota,Joe Gibbs Racing,195,0,running,27.0,23.0,16.0,,0,FedEx
+2024,31,Talladega,superspeedway,16,23,48,Alex Bowman,Chevrolet,Hendrick Motorsports,195,1,running,26.0,11.0,6.0,,5,Ally
+2024,31,Talladega,superspeedway,20,14,45,Tyler Reddick,Toyota,23XI Racing,195,2,running,22.0,6.0,12.0,,5,Jordan Brand
+2024,31,Talladega,superspeedway,29,11,9,Chase Elliott,Chevrolet,Hendrick Motorsports,190,1,running,17.0,19.0,2.0,,9,NAPA Auto Parts
+2024,31,Talladega,superspeedway,33,6,22,Joey Logano,Ford,Team Penske,183,19,accident,4.0,17.0,13.0,,0,Shell/Pennzoil
+2024,31,Talladega,superspeedway,40,27,1,Ross Chastain,Chevrolet,Trackhouse Racing,120,17,accident,6.0,7.0,10.0,,5,Busch Light
+2024,32,Charlotte Roval,road course,5,7,9,Chase Elliott,Chevrolet,Hendrick Motorsports,109,0,running,48.0,3.0,3.0,,16,NAPA Auto Parts
+2024,32,Charlotte Roval,road course,8,4,22,Joey Logano,Ford,Team Penske,109,0,running,47.0,2.0,2.0,,18,Shell/Pennzoil
+2024,32,Charlotte Roval,road course,9,9,23,Bubba Wallace,Toyota,23XI Racing,109,0,running,35.0,14.0,4.0,,7,McDonald's
+2024,32,Charlotte Roval,road course,11,2,45,Tyler Reddick,Toyota,23XI Racing,109,6,running,36.0,1.0,35.0,,10,Jordan Brand
+2024,32,Charlotte Roval,road course,14,18,11,Denny Hamlin,Toyota,Joe Gibbs Racing,109,0,running,24.0,27.0,10.0,,1,FedEx
+2024,32,Charlotte Roval,road course,28,16,1,Ross Chastain,Chevrolet,Trackhouse Racing,109,0,running,9.0,15.0,26.0,,0,Busch Light
+2024,32,Charlotte Roval,road course,38,17,48,Alex Bowman,Chevrolet,Hendrick Motorsports,109,5,running/DQ,1.0,22.0,38.0,,0,Ally
+2024,33,Las Vegas,intermediate,1,10,22,Joey Logano,Ford,Team Penske,267,6,running,49.0,8.0,5.0,,9,Shell/Pennzoil
+2024,33,Las Vegas,intermediate,5,3,48,Alex Bowman,Chevrolet,Hendrick Motorsports,267,0,running,37.0,14.0,6.0,,5,Ally
+2024,33,Las Vegas,intermediate,7,7,1,Ross Chastain,Chevrolet,Trackhouse Racing,267,0,running,30.0,15.0,22.0,,0,Busch Light
+2024,33,Las Vegas,intermediate,8,4,11,Denny Hamlin,Toyota,Joe Gibbs Racing,267,4,running,29.0,11.0,19.0,,0,FedEx
+2024,33,Las Vegas,intermediate,12,19,23,Bubba Wallace,Toyota,23XI Racing,267,0,running,27.0,21.0,9.0,,2,McDonald's
+2024,33,Las Vegas,intermediate,33,18,9,Chase Elliott,Chevrolet,Hendrick Motorsports,230,0,accident,4.0,12.0,33.0,,0,NAPA Auto Parts
+2024,33,Las Vegas,intermediate,35,2,45,Tyler Reddick,Toyota,23XI Racing,89,9,accident,12.0,1.0,35.0,,10,Jordan Brand
+2024,34,Homestead,intermediate,1,1,45,Tyler Reddick,Toyota,23XI Racing,267,97,running,57.0,1.0,4.0,,17,Jordan Brand
+2024,34,Homestead,intermediate,3,4,11,Denny Hamlin,Toyota,Joe Gibbs Racing,267,21,running,48.0,7.0,1.0,,14,FedEx
+2024,34,Homestead,intermediate,5,7,9,Chase Elliott,Chevrolet,Hendrick Motorsports,267,81,running,49.0,3.0,2.0,,17,NAPA Auto Parts
+2024,34,Homestead,intermediate,7,11,48,Alex Bowman,Chevrolet,Hendrick Motorsports,267,0,running,32.0,9.0,11.0,,2,Ally
+2024,34,Homestead,intermediate,18,8,23,Bubba Wallace,Toyota,23XI Racing,267,2,running,28.0,2.0,16.0,,9,McDonald's
+2024,34,Homestead,intermediate,28,26,22,Joey Logano,Ford,Team Penske,267,0,running,9.0,22.0,20.0,,0,Shell/Pennzoil
+2024,34,Homestead,intermediate,33,22,1,Ross Chastain,Chevrolet,Trackhouse Racing,267,0,running,4.0,18.0,31.0,,0,Busch Light
+2024,35,Martinsville,short track,2,2,9,Chase Elliott,Chevrolet,Hendrick Motorsports,500,129,running,45.0,1.0,12.0,,10,NAPA Auto Parts
+2024,35,Martinsville,short track,5,37,11,Denny Hamlin,Toyota,Joe Gibbs Racing,500,0,running,40.0,15.0,3.0,,8,FedEx
+2024,35,Martinsville,short track,8,22,1,Ross Chastain,Chevrolet,Trackhouse Racing,500,0,running,29.0,11.0,11.0,,0,Busch Light
+2024,35,Martinsville,short track,10,12,22,Joey Logano,Ford,Team Penske,500,0,running,29.0,9.0,13.0,,2,Shell/Pennzoil
+2024,35,Martinsville,short track,13,7,48,Alex Bowman,Chevrolet,Hendrick Motorsports,500,0,running,31.0,7.0,8.0,,7,Ally
+2024,35,Martinsville,short track,18,19,23,Bubba Wallace,Toyota,23XI Racing,499,6,running,19.0,24.0,19.0,,0,McDonald's
+2024,35,Martinsville,short track,34,31,45,Tyler Reddick,Toyota,23XI Racing,458,0,brakes,3.0,35.0,35.0,,0,Jordan Brand
+2024,36,Phoenix,short intermediate,1,2,22,Joey Logano,Ford,Team Penske,312,107,running,40.0,1.0,3.0,,0,Shell/Pennzoil
+2024,36,Phoenix,short intermediate,6,10,45,Tyler Reddick,Toyota,23XI Racing,312,0,running,31.0,7.0,10.0,,0,Jordan Brand
+2024,36,Phoenix,short intermediate,7,29,23,Bubba Wallace,Toyota,23XI Racing,312,0,running,30.0,16.0,11.0,,0,McDonald's
+2024,36,Phoenix,short intermediate,8,5,9,Chase Elliott,Chevrolet,Hendrick Motorsports,312,7,running,38.0,5.0,8.0,,9,NAPA Auto Parts
+2024,36,Phoenix,short intermediate,11,14,11,Denny Hamlin,Toyota,Joe Gibbs Racing,312,0,running,35.0,8.0,5.0,,9,FedEx
+2024,36,Phoenix,short intermediate,14,16,48,Alex Bowman,Chevrolet,Hendrick Motorsports,312,1,running,23.0,19.0,17.0,,0,Ally
+2024,36,Phoenix,short intermediate,19,3,1,Ross Chastain,Chevrolet,Trackhouse Racing,312,0,running,18.0,12.0,18.0,,0,Busch Light

@@ -1,0 +1,19 @@
+{
+  "date_format": "%Y-%m-%d",
+  "sponsor_name_mapping_count": 12,
+  "merge_key_components": [
+    "race_number",
+    "sponsor"
+  ],
+  "target_sponsors": [
+    "FedEx",
+    "NAPA Auto Parts",
+    "McDonald's",
+    "Love's Travel Stops"
+  ],
+  "fixes_applied": [
+    "Reddit race_number 0 \u2192 1 (Daytona pre-season mapped to Daytona 500)",
+    "YouTube race_number -2 \u2192 1 (Daytona 500 lookup fix)"
+  ],
+  "standardization_date": "2026-06-22T19:51:34.921242"
+}

@@ -1,0 +1,94 @@
+sponsor,race_number,race_name,total_mentions,weighted_mentions,primary_mentions
+FedEx,1,Daytona 500,2,1.2,0
+FedEx,2,Ambetter Health 400,1,0.6,0
+FedEx,3,Pennzoil 400,1,0.6,0
+FedEx,4,Shriners Children's 500,1,0.6,0
+FedEx,5,Food City 500,1,0.6,0
+FedEx,6,EchoPark Grand Prix COTA,1,0.6,1
+FedEx,7,Cookout 400 Martinsville,1,0.6,0
+FedEx,8,AutoTrader EchoPark 400 Texas,1,0.6,0
+FedEx,9,GEICO 500 Talladega,1,0.6,0
+FedEx,10,AdventHealth 400 Kansas,1,0.6,0
+FedEx,11,Wurth 400 Dover,1,0.6,1
+FedEx,12,Goodyear 400 Darlington Spring,1,0.6,0
+FedEx,13,NASCAR All-Star Race,1,0.6,0
+FedEx,14,Coca-Cola 600,2,1.6,0
+FedEx,15,Enjoy Illinois 300 WWT Raceway,1,0.6,0
+FedEx,16,Toyota Save Mart 350 Sonoma,1,0.6,0
+FedEx,17,Iowa Corn 350,1,0.6,0
+FedEx,18,New Hampshire 301,1,0.6,0
+FedEx,19,Ally 400 Nashville,1,0.6,0
+FedEx,20,Grant Park 165 Chicago,1,0.6,0
+FedEx,21,GreatClips 200 Pocono,1,0.6,0
+FedEx,22,Brickyard 400 Indianapolis,1,0.6,0
+FedEx,23,Cook Out 400 Richmond,1,0.6,1
+FedEx,24,FireKeepers Casino 400 Michigan,1,0.6,0
+FedEx,25,Coke Zero Sugar 400 Daytona,1,0.6,0
+FedEx,26,Go Bowling 250 Bristol Dirt,1,0.6,0
+FedEx,27,Cook Out Southern 500,2,1.6,0
+FedEx,28,Quaker State 400 Atlanta,1,0.6,0
+FedEx,29,Go Bowling at the Glen Watkins Glen,1,0.6,0
+FedEx,30,Bass Pro Shops Night Race Bristol,1,0.6,0
+FedEx,31,Hollywood Casino 400 Kansas,1,0.6,0
+FedEx,32,YellaWood 500 Talladega,1,0.6,0
+FedEx,33,Bank of America ROVAL 400 Charlotte,1,0.6,0
+FedEx,34,South Point 400 Las Vegas,1,0.6,0
+FedEx,37,NASCAR Cup Championship Phoenix,5,3.0,5
+Love's Travel Stops,1,Daytona 500,2,1.2,2
+Love's Travel Stops,2,Ambetter Health 400,1,0.6,0
+Love's Travel Stops,3,Pennzoil 400,1,0.6,1
+Love's Travel Stops,9,GEICO 500 Talladega,1,0.6,1
+Love's Travel Stops,14,Coca-Cola 600,1,0.6,0
+Love's Travel Stops,19,Ally 400 Nashville,1,0.6,1
+Love's Travel Stops,27,Cook Out Southern 500,1,0.6,0
+Love's Travel Stops,31,Hollywood Casino 400 Kansas,1,0.6,0
+Love's Travel Stops,32,YellaWood 500 Talladega,1,0.6,1
+Love's Travel Stops,35,Straight Talk Wireless 400 Homestead,1,0.6,1
+Love's Travel Stops,37,NASCAR Cup Championship Phoenix,1,0.6,0
+McDonald's,1,Daytona 500,2,1.2,1
+McDonald's,5,Food City 500,1,0.6,0
+McDonald's,6,EchoPark Grand Prix COTA,1,0.6,0
+McDonald's,14,Coca-Cola 600,1,0.6,0
+McDonald's,17,Iowa Corn 350,1,0.6,1
+McDonald's,23,Cook Out 400 Richmond,1,0.6,1
+McDonald's,24,FireKeepers Casino 400 Michigan,1,0.6,1
+McDonald's,27,Cook Out Southern 500,2,2.0,1
+McDonald's,28,Quaker State 400 Atlanta,1,0.6,0
+McDonald's,35,Straight Talk Wireless 400 Homestead,1,0.6,1
+McDonald's,37,NASCAR Cup Championship Phoenix,2,1.6,0
+NAPA Auto Parts,1,Daytona 500,2,1.2,1
+NAPA Auto Parts,2,Ambetter Health 400,1,0.6,0
+NAPA Auto Parts,3,Pennzoil 400,1,0.6,0
+NAPA Auto Parts,4,Shriners Children's 500,1,0.6,0
+NAPA Auto Parts,5,Food City 500,1,0.6,0
+NAPA Auto Parts,6,EchoPark Grand Prix COTA,1,0.6,0
+NAPA Auto Parts,7,Cookout 400 Martinsville,1,0.6,0
+NAPA Auto Parts,8,AutoTrader EchoPark 400 Texas,1,0.6,0
+NAPA Auto Parts,9,GEICO 500 Talladega,1,0.6,0
+NAPA Auto Parts,10,AdventHealth 400 Kansas,1,0.6,0
+NAPA Auto Parts,11,Wurth 400 Dover,1,0.6,0
+NAPA Auto Parts,12,Goodyear 400 Darlington Spring,1,0.6,0
+NAPA Auto Parts,14,Coca-Cola 600,2,1.6,0
+NAPA Auto Parts,15,Enjoy Illinois 300 WWT Raceway,1,0.6,0
+NAPA Auto Parts,16,Toyota Save Mart 350 Sonoma,1,0.6,0
+NAPA Auto Parts,17,Iowa Corn 350,1,0.6,0
+NAPA Auto Parts,18,New Hampshire 301,1,0.6,0
+NAPA Auto Parts,19,Ally 400 Nashville,1,0.6,0
+NAPA Auto Parts,20,Grant Park 165 Chicago,1,0.6,0
+NAPA Auto Parts,21,GreatClips 200 Pocono,1,0.6,0
+NAPA Auto Parts,22,Brickyard 400 Indianapolis,1,0.6,0
+NAPA Auto Parts,23,Cook Out 400 Richmond,1,0.6,0
+NAPA Auto Parts,24,FireKeepers Casino 400 Michigan,1,0.6,0
+NAPA Auto Parts,25,Coke Zero Sugar 400 Daytona,1,0.6,0
+NAPA Auto Parts,26,Go Bowling 250 Bristol Dirt,1,0.6,0
+NAPA Auto Parts,27,Cook Out Southern 500,1,0.6,0
+NAPA Auto Parts,28,Quaker State 400 Atlanta,1,0.6,0
+NAPA Auto Parts,29,Go Bowling at the Glen Watkins Glen,1,0.6,0
+NAPA Auto Parts,30,Bass Pro Shops Night Race Bristol,1,0.6,0
+NAPA Auto Parts,31,Hollywood Casino 400 Kansas,1,0.6,0
+NAPA Auto Parts,32,YellaWood 500 Talladega,1,0.6,0
+NAPA Auto Parts,33,Bank of America ROVAL 400 Charlotte,1,0.6,0
+NAPA Auto Parts,34,South Point 400 Las Vegas,1,0.6,0
+NAPA Auto Parts,35,Straight Talk Wireless 400 Homestead,1,0.6,0
+NAPA Auto Parts,36,Xfinity 500 Martinsville,1,0.6,0
+NAPA Auto Parts,37,NASCAR Cup Championship Phoenix,2,1.6,0

@@ -1,0 +1,19 @@
+{
+  "collection_date": "2026-06-22T18:52:29.768882",
+  "data_source": "Google Trends (pytrends) \u2014 Reddit API returned 403",
+  "sponsors": [
+    "FedEx",
+    "NAPA Auto Parts",
+    "McDonald's",
+    "Love's Travel Stops"
+  ],
+  "search_terms": [
+    "FedEx NASCAR",
+    "NAPA NASCAR",
+    "McDonald's NASCAR",
+    "Loves Travel Stops NASCAR"
+  ],
+  "date_range": "2024-02-18 to 2024-11-10",
+  "total_weekly_points": 1068,
+  "note": "Per mentor guidance: Google Trends used as public interest proxy"
+}

@@ -1,0 +1,105 @@
+sponsor,race_name,mention_count,total_score,avg_score,avg_comments,total_comments,engagement_per_mention,data_source,race_number
+FedEx,Atlanta,8,0,0.0,0,0,0.0,google_trends,2
+FedEx,Bristol,8,0,0.0,0,0,0.0,google_trends,5
+FedEx,COTA,7,0,0.0,0,0,0.0,google_trends,6
+FedEx,Charlotte,8,0,0.0,0,0,0.0,google_trends,14
+FedEx,Charlotte Roval,15,0,0.0,0,0,0.0,google_trends,32
+FedEx,Chicago Street Course,8,0,0.0,0,0,0.0,google_trends,20
+FedEx,Darlington,7,0,0.0,0,0,0.0,google_trends,13
+FedEx,Daytona,7,100,14.29,0,0,14.29,google_trends,0
+FedEx,Dover,7,0,0.0,0,0,0.0,google_trends,11
+FedEx,Gateway,8,0,0.0,0,0,0.0,google_trends,15
+FedEx,Homestead,17,0,0.0,0,0,0.0,google_trends,34
+FedEx,Indianapolis,15,0,0.0,0,0,0.0,google_trends,22
+FedEx,Iowa,8,0,0.0,0,0,0.0,google_trends,17
+FedEx,Kansas,8,0,0.0,0,0,0.0,google_trends,12
+FedEx,Las Vegas,7,0,0.0,0,0,0.0,google_trends,3
+FedEx,Martinsville,7,0,0.0,0,0,0.0,google_trends,8
+FedEx,Michigan,31,0,0.0,0,0,0.0,google_trends,24
+FedEx,Nashville,8,0,0.0,0,0,0.0,google_trends,19
+FedEx,New Hampshire,7,148,21.14,0,0,21.14,google_trends,18
+FedEx,Phoenix,8,0,0.0,0,0,0.0,google_trends,4
+FedEx,Pocono,7,0,0.0,0,0,0.0,google_trends,21
+FedEx,Richmond,8,0,0.0,0,0,0.0,google_trends,7
+FedEx,Sonoma,7,0,0.0,0,0,0.0,google_trends,16
+FedEx,Talladega,8,0,0.0,0,0,0.0,google_trends,10
+FedEx,Texas,8,0,0.0,0,0,0.0,google_trends,9
+FedEx,Watkins Glen,30,0,0.0,0,0,0.0,google_trends,28
+Love's Travel Stops,Atlanta,8,0,0.0,0,0,0.0,google_trends,2
+Love's Travel Stops,Bristol,8,0,0.0,0,0,0.0,google_trends,5
+Love's Travel Stops,COTA,7,0,0.0,0,0,0.0,google_trends,6
+Love's Travel Stops,Charlotte,8,0,0.0,0,0,0.0,google_trends,14
+Love's Travel Stops,Charlotte Roval,15,0,0.0,0,0,0.0,google_trends,32
+Love's Travel Stops,Chicago Street Course,8,0,0.0,0,0,0.0,google_trends,20
+Love's Travel Stops,Darlington,7,0,0.0,0,0,0.0,google_trends,13
+Love's Travel Stops,Daytona,7,0,0.0,0,0,0.0,google_trends,0
+Love's Travel Stops,Dover,7,0,0.0,0,0,0.0,google_trends,11
+Love's Travel Stops,Gateway,8,0,0.0,0,0,0.0,google_trends,15
+Love's Travel Stops,Homestead,17,72,4.24,0,0,4.24,google_trends,34
+Love's Travel Stops,Indianapolis,15,0,0.0,0,0,0.0,google_trends,22
+Love's Travel Stops,Iowa,8,0,0.0,0,0,0.0,google_trends,17
+Love's Travel Stops,Kansas,8,0,0.0,0,0,0.0,google_trends,12
+Love's Travel Stops,Las Vegas,7,0,0.0,0,0,0.0,google_trends,3
+Love's Travel Stops,Martinsville,7,0,0.0,0,0,0.0,google_trends,8
+Love's Travel Stops,Michigan,31,0,0.0,0,0,0.0,google_trends,24
+Love's Travel Stops,Nashville,8,0,0.0,0,0,0.0,google_trends,19
+Love's Travel Stops,New Hampshire,7,0,0.0,0,0,0.0,google_trends,18
+Love's Travel Stops,Phoenix,8,0,0.0,0,0,0.0,google_trends,4
+Love's Travel Stops,Pocono,7,0,0.0,0,0,0.0,google_trends,21
+Love's Travel Stops,Richmond,8,0,0.0,0,0,0.0,google_trends,7
+Love's Travel Stops,Sonoma,7,0,0.0,0,0,0.0,google_trends,16
+Love's Travel Stops,Talladega,8,100,12.5,0,0,12.5,google_trends,10
+Love's Travel Stops,Texas,8,0,0.0,0,0,0.0,google_trends,9
+Love's Travel Stops,Watkins Glen,30,0,0.0,0,0,0.0,google_trends,28
+McDonald's,Atlanta,8,0,0.0,0,0,0.0,google_trends,2
+McDonald's,Bristol,8,0,0.0,0,0,0.0,google_trends,5
+McDonald's,COTA,7,0,0.0,0,0,0.0,google_trends,6
+McDonald's,Charlotte,8,0,0.0,0,0,0.0,google_trends,14
+McDonald's,Charlotte Roval,15,0,0.0,0,0,0.0,google_trends,32
+McDonald's,Chicago Street Course,8,0,0.0,0,0,0.0,google_trends,20
+McDonald's,Darlington,7,0,0.0,0,0,0.0,google_trends,13
+McDonald's,Daytona,7,0,0.0,0,0,0.0,google_trends,0
+McDonald's,Dover,7,0,0.0,0,0,0.0,google_trends,11
+McDonald's,Gateway,8,0,0.0,0,0,0.0,google_trends,15
+McDonald's,Homestead,17,0,0.0,0,0,0.0,google_trends,34
+McDonald's,Indianapolis,15,0,0.0,0,0,0.0,google_trends,22
+McDonald's,Iowa,8,0,0.0,0,0,0.0,google_trends,17
+McDonald's,Kansas,8,0,0.0,0,0,0.0,google_trends,12
+McDonald's,Las Vegas,7,0,0.0,0,0,0.0,google_trends,3
+McDonald's,Martinsville,7,0,0.0,0,0,0.0,google_trends,8
+McDonald's,Michigan,31,0,0.0,0,0,0.0,google_trends,24
+McDonald's,Nashville,8,0,0.0,0,0,0.0,google_trends,19
+McDonald's,New Hampshire,7,0,0.0,0,0,0.0,google_trends,18
+McDonald's,Phoenix,8,0,0.0,0,0,0.0,google_trends,4
+McDonald's,Pocono,7,100,14.29,0,0,14.29,google_trends,21
+McDonald's,Richmond,8,0,0.0,0,0,0.0,google_trends,7
+McDonald's,Sonoma,7,0,0.0,0,0,0.0,google_trends,16
+McDonald's,Talladega,8,0,0.0,0,0,0.0,google_trends,10
+McDonald's,Texas,8,0,0.0,0,0,0.0,google_trends,9
+McDonald's,Watkins Glen,30,0,0.0,0,0,0.0,google_trends,28
+NAPA Auto Parts,Atlanta,8,0,0.0,0,0,0.0,google_trends,2
+NAPA Auto Parts,Bristol,8,0,0.0,0,0,0.0,google_trends,5
+NAPA Auto Parts,COTA,7,0,0.0,0,0,0.0,google_trends,6
+NAPA Auto Parts,Charlotte,8,0,0.0,0,0,0.0,google_trends,14
+NAPA Auto Parts,Charlotte Roval,15,0,0.0,0,0,0.0,google_trends,32
+NAPA Auto Parts,Chicago Street Course,8,0,0.0,0,0,0.0,google_trends,20
+NAPA Auto Parts,Darlington,7,0,0.0,0,0,0.0,google_trends,13
+NAPA Auto Parts,Daytona,7,0,0.0,0,0,0.0,google_trends,0
+NAPA Auto Parts,Dover,7,0,0.0,0,0,0.0,google_trends,11
+NAPA Auto Parts,Gateway,8,0,0.0,0,0,0.0,google_trends,15
+NAPA Auto Parts,Homestead,17,0,0.0,0,0,0.0,google_trends,34
+NAPA Auto Parts,Indianapolis,15,100,6.67,0,0,6.67,google_trends,22
+NAPA Auto Parts,Iowa,8,0,0.0,0,0,0.0,google_trends,17
+NAPA Auto Parts,Kansas,8,0,0.0,0,0,0.0,google_trends,12
+NAPA Auto Parts,Las Vegas,7,0,0.0,0,0,0.0,google_trends,3
+NAPA Auto Parts,Martinsville,7,0,0.0,0,0,0.0,google_trends,8
+NAPA Auto Parts,Michigan,31,67,2.16,0,0,2.16,google_trends,24
+NAPA Auto Parts,Nashville,8,0,0.0,0,0,0.0,google_trends,19
+NAPA Auto Parts,New Hampshire,7,0,0.0,0,0,0.0,google_trends,18
+NAPA Auto Parts,Phoenix,8,0,0.0,0,0,0.0,google_trends,4
+NAPA Auto Parts,Pocono,7,0,0.0,0,0,0.0,google_trends,21
+NAPA Auto Parts,Richmond,8,0,0.0,0,0,0.0,google_trends,7
+NAPA Auto Parts,Sonoma,7,0,0.0,0,0,0.0,google_trends,16
+NAPA Auto Parts,Talladega,8,0,0.0,0,0,0.0,google_trends,10
+NAPA Auto Parts,Texas,8,53,6.62,0,0,6.62,google_trends,9
+NAPA Auto Parts,Watkins Glen,30,55,1.83,0,0,1.83,google_trends,28

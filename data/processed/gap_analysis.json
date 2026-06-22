@@ -1,0 +1,28 @@
+{
+  "analysis_date": "2026-06-22T19:51:35.034146",
+  "dataset_summary": {
+    "total_rows": 144,
+    "unique_races": 36,
+    "unique_sponsors": 4,
+    "date_range": "2024-02-18 to 2024-11-10"
+  },
+  "completeness": {
+    "missing_combinations": 0,
+    "null_values": 0
+  },
+  "outliers": {
+    "reddit_mentions": 8,
+    "reddit_total_score": 0,
+    "youtube_total_views": 4,
+    "youtube_sponsor_views": 0,
+    "news_total_mentions": 8
+  },
+  "known_limitations": [
+    "Reddit data sourced from Google Trends (pytrends) instead of Reddit API due to 403 blocks \u2014 interest_score (0-100) used as public interest proxy",
+    "YouTube views counted at collection time (June 2026), not at race time (2024)",
+    "News mentions limited to English-language sources via manual Google search",
+    "Race dates approximated: spread evenly across Feb 18 \u2013 Nov 10 2024 (no Race_Date in source data)",
+    "YouTube race_number -2 (Daytona) corrected to 1 during standardization",
+    "YouTube coverage limited to races 1\u201334; races 35\u201336 have no YouTube data"
+  ]
+}

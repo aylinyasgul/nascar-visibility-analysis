@@ -1,0 +1,16 @@
+# Credentials
+config.py
+
+# Python temporary files
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Claude settings
+.claude/
+
+# Large external data file (regenerate from Kaggle source)
+data/external/nascar_race_data_full.csv

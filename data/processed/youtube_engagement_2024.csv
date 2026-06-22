@@ -1,0 +1,105 @@
+race_number,race_name,race_date,sponsor,total_race_views,sponsor_video_count,sponsor_video_views,sponsor_video_likes,view_share
+-2,Daytona,NaT,FedEx,120760176,0,0,0,0.0
+-2,Daytona,NaT,NAPA Auto Parts,120760176,0,0,0,0.0
+-2,Daytona,NaT,McDonald's,120760176,4,4240724,23200,3.5116908077378093
+-2,Daytona,NaT,Love's Travel Stops,120760176,0,0,0,0.0
+2,Atlanta,2024-02-25 00:00:00,FedEx,13059968,0,0,0,0.0
+2,Atlanta,2024-02-25 00:00:00,NAPA Auto Parts,13059968,0,0,0,0.0
+2,Atlanta,2024-02-25 00:00:00,McDonald's,13059968,2,2120388,11600,16.2357825072772
+2,Atlanta,2024-02-25 00:00:00,Love's Travel Stops,13059968,0,0,0,0.0
+3,Las Vegas,2024-03-04 00:00:00,FedEx,87750419,0,0,0,0.0
+3,Las Vegas,2024-03-04 00:00:00,NAPA Auto Parts,87750419,0,0,0,0.0
+3,Las Vegas,2024-03-04 00:00:00,McDonald's,87750419,2,2120388,11600,2.4163850431301075
+3,Las Vegas,2024-03-04 00:00:00,Love's Travel Stops,87750419,0,0,0,0.0
+4,Phoenix,2024-03-11 00:00:00,FedEx,3685047,0,0,0,0.0
+4,Phoenix,2024-03-11 00:00:00,NAPA Auto Parts,3685047,0,0,0,0.0
+4,Phoenix,2024-03-11 00:00:00,McDonald's,3685047,0,0,0,0.0
+4,Phoenix,2024-03-11 00:00:00,Love's Travel Stops,3685047,0,0,0,0.0
+5,Bristol,2024-03-19 00:00:00,FedEx,10377970,0,0,0,0.0
+5,Bristol,2024-03-19 00:00:00,NAPA Auto Parts,10377970,0,0,0,0.0
+5,Bristol,2024-03-19 00:00:00,McDonald's,10377970,0,0,0,0.0
+5,Bristol,2024-03-19 00:00:00,Love's Travel Stops,10377970,0,0,0,0.0
+6,COTA,2024-03-27 00:00:00,FedEx,11244309,0,0,0,0.0
+6,COTA,2024-03-27 00:00:00,NAPA Auto Parts,11244309,0,0,0,0.0
+6,COTA,2024-03-27 00:00:00,McDonald's,11244309,0,0,0,0.0
+6,COTA,2024-03-27 00:00:00,Love's Travel Stops,11244309,0,0,0,0.0
+7,Richmond,2024-04-03 00:00:00,FedEx,3544421,0,0,0,0.0
+7,Richmond,2024-04-03 00:00:00,NAPA Auto Parts,3544421,0,0,0,0.0
+7,Richmond,2024-04-03 00:00:00,McDonald's,3544421,0,0,0,0.0
+7,Richmond,2024-04-03 00:00:00,Love's Travel Stops,3544421,0,0,0,0.0
+8,Martinsville,2024-04-11 00:00:00,FedEx,3881277,0,0,0,0.0
+8,Martinsville,2024-04-11 00:00:00,NAPA Auto Parts,3881277,0,0,0,0.0
+8,Martinsville,2024-04-11 00:00:00,McDonald's,3881277,0,0,0,0.0
+8,Martinsville,2024-04-11 00:00:00,Love's Travel Stops,3881277,0,0,0,0.0
+9,Texas,2024-04-18 00:00:00,FedEx,11059863,0,0,0,0.0
+9,Texas,2024-04-18 00:00:00,NAPA Auto Parts,11059863,0,0,0,0.0
+9,Texas,2024-04-18 00:00:00,McDonald's,11059863,1,1060194,5800,9.585959609083766
+9,Texas,2024-04-18 00:00:00,Love's Travel Stops,11059863,0,0,0,0.0
+10,Talladega,2024-04-26 00:00:00,FedEx,34971366,0,0,0,0.0
+10,Talladega,2024-04-26 00:00:00,NAPA Auto Parts,34971366,0,0,0,0.0
+10,Talladega,2024-04-26 00:00:00,McDonald's,34971366,0,0,0,0.0
+10,Talladega,2024-04-26 00:00:00,Love's Travel Stops,34971366,0,0,0,0.0
+11,Dover,2024-05-04 00:00:00,FedEx,1779069,0,0,0,0.0
+11,Dover,2024-05-04 00:00:00,NAPA Auto Parts,1779069,0,0,0,0.0
+11,Dover,2024-05-04 00:00:00,McDonald's,1779069,0,0,0,0.0
+11,Dover,2024-05-04 00:00:00,Love's Travel Stops,1779069,0,0,0,0.0
+12,Kansas,2024-05-11 00:00:00,FedEx,9796175,0,0,0,0.0
+12,Kansas,2024-05-11 00:00:00,NAPA Auto Parts,9796175,0,0,0,0.0
+12,Kansas,2024-05-11 00:00:00,McDonald's,9796175,0,0,0,0.0
+12,Kansas,2024-05-11 00:00:00,Love's Travel Stops,9796175,0,0,0,0.0
+13,Darlington,2024-05-19 00:00:00,FedEx,3438875,0,0,0,0.0
+13,Darlington,2024-05-19 00:00:00,NAPA Auto Parts,3438875,0,0,0,0.0
+13,Darlington,2024-05-19 00:00:00,McDonald's,3438875,0,0,0,0.0
+13,Darlington,2024-05-19 00:00:00,Love's Travel Stops,3438875,0,0,0,0.0
+14,Charlotte,2024-05-26 00:00:00,FedEx,2926362,0,0,0,0.0
+14,Charlotte,2024-05-26 00:00:00,NAPA Auto Parts,2926362,0,0,0,0.0
+14,Charlotte,2024-05-26 00:00:00,McDonald's,2926362,0,0,0,0.0
+14,Charlotte,2024-05-26 00:00:00,Love's Travel Stops,2926362,0,0,0,0.0
+15,Gateway,2024-06-03 00:00:00,FedEx,427478,0,0,0,0.0
+15,Gateway,2024-06-03 00:00:00,NAPA Auto Parts,427478,0,0,0,0.0
+15,Gateway,2024-06-03 00:00:00,McDonald's,427478,0,0,0,0.0
+15,Gateway,2024-06-03 00:00:00,Love's Travel Stops,427478,0,0,0,0.0
+16,Sonoma,2024-06-11 00:00:00,FedEx,1459562,0,0,0,0.0
+16,Sonoma,2024-06-11 00:00:00,NAPA Auto Parts,1459562,0,0,0,0.0
+16,Sonoma,2024-06-11 00:00:00,McDonald's,1459562,0,0,0,0.0
+16,Sonoma,2024-06-11 00:00:00,Love's Travel Stops,1459562,0,0,0,0.0
+17,Iowa,2024-06-18 00:00:00,FedEx,943776,0,0,0,0.0
+17,Iowa,2024-06-18 00:00:00,NAPA Auto Parts,943776,0,0,0,0.0
+17,Iowa,2024-06-18 00:00:00,McDonald's,943776,0,0,0,0.0
+17,Iowa,2024-06-18 00:00:00,Love's Travel Stops,943776,0,0,0,0.0
+18,New Hampshire,2024-06-26 00:00:00,FedEx,779286,0,0,0,0.0
+18,New Hampshire,2024-06-26 00:00:00,NAPA Auto Parts,779286,0,0,0,0.0
+18,New Hampshire,2024-06-26 00:00:00,McDonald's,779286,0,0,0,0.0
+18,New Hampshire,2024-06-26 00:00:00,Love's Travel Stops,779286,0,0,0,0.0
+19,Nashville,2024-07-03 00:00:00,FedEx,1928745,0,0,0,0.0
+19,Nashville,2024-07-03 00:00:00,NAPA Auto Parts,1928745,0,0,0,0.0
+19,Nashville,2024-07-03 00:00:00,McDonald's,1928745,0,0,0,0.0
+19,Nashville,2024-07-03 00:00:00,Love's Travel Stops,1928745,0,0,0,0.0
+20,Chicago Street Course,2024-07-11 00:00:00,FedEx,6489514,0,0,0,0.0
+20,Chicago Street Course,2024-07-11 00:00:00,NAPA Auto Parts,6489514,0,0,0,0.0
+20,Chicago Street Course,2024-07-11 00:00:00,McDonald's,6489514,0,0,0,0.0
+20,Chicago Street Course,2024-07-11 00:00:00,Love's Travel Stops,6489514,0,0,0,0.0
+21,Pocono,2024-07-19 00:00:00,FedEx,1634805,0,0,0,0.0
+21,Pocono,2024-07-19 00:00:00,NAPA Auto Parts,1634805,0,0,0,0.0
+21,Pocono,2024-07-19 00:00:00,McDonald's,1634805,0,0,0,0.0
+21,Pocono,2024-07-19 00:00:00,Love's Travel Stops,1634805,0,0,0,0.0
+22,Indianapolis,2024-07-26 00:00:00,FedEx,8360020,0,0,0,0.0
+22,Indianapolis,2024-07-26 00:00:00,NAPA Auto Parts,8360020,0,0,0,0.0
+22,Indianapolis,2024-07-26 00:00:00,McDonald's,8360020,0,0,0,0.0
+22,Indianapolis,2024-07-26 00:00:00,Love's Travel Stops,8360020,0,0,0,0.0
+24,Michigan,2024-08-10 00:00:00,FedEx,12614339,0,0,0,0.0
+24,Michigan,2024-08-10 00:00:00,NAPA Auto Parts,12614339,0,0,0,0.0
+24,Michigan,2024-08-10 00:00:00,McDonald's,12614339,0,0,0,0.0
+24,Michigan,2024-08-10 00:00:00,Love's Travel Stops,12614339,0,0,0,0.0
+28,Watkins Glen,2024-09-10 00:00:00,FedEx,2375072,0,0,0,0.0
+28,Watkins Glen,2024-09-10 00:00:00,NAPA Auto Parts,2375072,0,0,0,0.0
+28,Watkins Glen,2024-09-10 00:00:00,McDonald's,2375072,0,0,0,0.0
+28,Watkins Glen,2024-09-10 00:00:00,Love's Travel Stops,2375072,0,0,0,0.0
+32,Charlotte Roval,2024-10-10 00:00:00,FedEx,1991384,0,0,0,0.0
+32,Charlotte Roval,2024-10-10 00:00:00,NAPA Auto Parts,1991384,0,0,0,0.0
+32,Charlotte Roval,2024-10-10 00:00:00,McDonald's,1991384,0,0,0,0.0
+32,Charlotte Roval,2024-10-10 00:00:00,Love's Travel Stops,1991384,0,0,0,0.0
+34,Homestead,2024-10-25 00:00:00,FedEx,1181966,0,0,0,0.0
+34,Homestead,2024-10-25 00:00:00,NAPA Auto Parts,1181966,0,0,0,0.0
+34,Homestead,2024-10-25 00:00:00,McDonald's,1181966,0,0,0,0.0
+34,Homestead,2024-10-25 00:00:00,Love's Travel Stops,1181966,0,0,0,0.0

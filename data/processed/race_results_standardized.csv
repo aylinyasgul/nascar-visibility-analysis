@@ -1,0 +1,145 @@
+year,race_number_raw,race_name,track_type,finish_position,start_position,car_number,driver,manufacturer,team,laps_completed,laps_led,status,points,stage_1_pos,stage_2_pos,stage_3_or_duel,stage_points,sponsor,race_number,positions_gained,race_date,race_date_str,merge_key
+2024,1,Daytona,superspeedway,5,24,23,Bubba Wallace,Toyota,23XI Racing,200,3,running,39.0,8.0,7.0,,7,McDonald's,1,19,2024-02-18,2024-02-18,1_McDonald's
+2024,1,Daytona,superspeedway,14,5,9,Chase Elliott,Chevrolet,Hendrick Motorsports,200,13,running,33.0,1.0,19.0,,10,NAPA Auto Parts,1,-9,2024-02-18,2024-02-18,1_NAPA Auto Parts
+2024,1,Daytona,superspeedway,19,8,11,Denny Hamlin,Toyota,Joe Gibbs Racing,200,10,running,22.0,7.0,22.0,,4,FedEx,1,-11,2024-02-18,2024-02-18,1_FedEx
+2024,1,Daytona,superspeedway,36,2,34,Michael Mcdowell,Ford,Front Row Motorsports,176,6,running,1.0,35.0,36.0,,0,Love's Travel Stops,1,-34,2024-02-18,2024-02-18,1_Love's Travel Stops
+2024,2,Atlanta,superspeedway,5,18,23,Bubba Wallace,Toyota,23XI Racing,260,3,running,35.0,8.0,25.0,,3,McDonald's,2,13,2024-02-25,2024-02-25,2_McDonald's
+2024,2,Atlanta,superspeedway,8,1,34,Michael Mcdowell,Ford,Front Row Motorsports,260,27,running,39.0,1.0,23.0,,10,Love's Travel Stops,2,-7,2024-02-25,2024-02-25,2_Love's Travel Stops
+2024,2,Atlanta,superspeedway,15,28,9,Chase Elliott,Chevrolet,Hendrick Motorsports,260,0,running,23.0,27.0,10.0,,1,NAPA Auto Parts,2,13,2024-02-25,2024-02-25,2_NAPA Auto Parts
+2024,2,Atlanta,superspeedway,23,13,11,Denny Hamlin,Toyota,Joe Gibbs Racing,259,15,running,14.0,25.0,19.0,,0,FedEx,2,-10,2024-02-25,2024-02-25,2_FedEx
+2024,3,Las Vegas,intermediate,8,28,11,Denny Hamlin,Toyota,Joe Gibbs Racing,267,16,running,43.0,5.0,3.0,,14,FedEx,3,20,2024-03-04,2024-03-04,3_FedEx
+2024,3,Las Vegas,intermediate,12,11,9,Chase Elliott,Chevrolet,Hendrick Motorsports,267,0,running,30.0,15.0,6.0,,5,NAPA Auto Parts,3,-1,2024-03-04,2024-03-04,3_NAPA Auto Parts
+2024,3,Las Vegas,intermediate,25,12,34,Michael Mcdowell,Ford,Front Row Motorsports,267,4,running,12.0,32.0,23.0,,0,Love's Travel Stops,3,-13,2024-03-04,2024-03-04,3_Love's Travel Stops
+2024,3,Las Vegas,intermediate,35,5,23,Bubba Wallace,Toyota,23XI Racing,254,0,running,2.0,18.0,34.0,,0,McDonald's,3,-30,2024-03-04,2024-03-04,3_McDonald's
+2024,4,Phoenix,short intermediate,8,9,34,Michael Mcdowell,Ford,Front Row Motorsports,312,0,running,32.0,8.0,19.0,,3,Love's Travel Stops,4,1,2024-03-11,2024-03-11,4_Love's Travel Stops
+2024,4,Phoenix,short intermediate,11,1,11,Denny Hamlin,Toyota,Joe Gibbs Racing,312,68,running,42.0,3.0,3.0,,16,FedEx,4,-10,2024-03-11,2024-03-11,4_FedEx
+2024,4,Phoenix,short intermediate,16,22,23,Bubba Wallace,Toyota,23XI Racing,312,0,running,21.0,18.0,16.0,,0,McDonald's,4,6,2024-03-11,2024-03-11,4_McDonald's
+2024,4,Phoenix,short intermediate,19,3,9,Chase Elliott,Chevrolet,Hendrick Motorsports,312,0,running,28.0,5.0,7.0,,10,NAPA Auto Parts,4,-16,2024-03-11,2024-03-11,4_NAPA Auto Parts
+2024,5,Bristol,short track,1,3,11,Denny Hamlin,Toyota,Joe Gibbs Racing,500,163,running,44.0,13.0,7.0,,4,FedEx,5,2,2024-03-19,2024-03-19,5_FedEx
+2024,5,Bristol,short track,8,5,9,Chase Elliott,Chevrolet,Hendrick Motorsports,499,5,running,29.0,15.0,22.0,,0,NAPA Auto Parts,5,-3,2024-03-19,2024-03-19,5_NAPA Auto Parts
+2024,5,Bristol,short track,11,7,34,Michael Mcdowell,Ford,Front Row Motorsports,499,0,running,26.0,22.0,23.0,,0,Love's Travel Stops,5,-4,2024-03-19,2024-03-19,5_Love's Travel Stops
+2024,5,Bristol,short track,29,9,23,Bubba Wallace,Toyota,23XI Racing,496,15,running,10.0,29.0,9.0,,2,McDonald's,5,-20,2024-03-19,2024-03-19,5_McDonald's
+2024,6,COTA,road course,14,8,11,Denny Hamlin,Toyota,Joe Gibbs Racing,68,3,running,33.0,16.0,1.0,,10,FedEx,6,-6,2024-03-27,2024-03-27,6_FedEx
+2024,6,COTA,road course,15,10,23,Bubba Wallace,Toyota,23XI Racing,68,0,running,22.0,32.0,27.0,,0,McDonald's,6,-5,2024-03-27,2024-03-27,6_McDonald's
+2024,6,COTA,road course,16,9,9,Chase Elliott,Chevrolet,Hendrick Motorsports,68,0,running,21.0,18.0,21.0,,0,NAPA Auto Parts,6,-7,2024-03-27,2024-03-27,6_NAPA Auto Parts
+2024,6,COTA,road course,38,27,34,Michael Mcdowell,Ford,Front Row Motorsports,51,0,steering,9.0,3.0,39.0,,8,Love's Travel Stops,6,-11,2024-03-27,2024-03-27,6_Love's Travel Stops
+2024,7,Richmond,short track,1,11,11,Denny Hamlin,Toyota,Joe Gibbs Racing,407,17,running,46.0,11.0,5.0,,6,FedEx,7,10,2024-04-03,2024-04-03,7_FedEx
+2024,7,Richmond,short track,5,2,9,Chase Elliott,Chevrolet,Hendrick Motorsports,407,5,running,36.0,7.0,13.0,,4,NAPA Auto Parts,7,-3,2024-04-03,2024-04-03,7_NAPA Auto Parts
+2024,7,Richmond,short track,13,5,23,Bubba Wallace,Toyota,23XI Racing,407,2,running,36.0,2.0,8.0,,12,McDonald's,7,-8,2024-04-03,2024-04-03,7_McDonald's
+2024,7,Richmond,short track,26,31,34,Michael Mcdowell,Ford,Front Row Motorsports,406,0,running,11.0,33.0,31.0,,0,Love's Travel Stops,7,5,2024-04-03,2024-04-03,7_Love's Travel Stops
+2024,8,Martinsville,short track,3,3,9,Chase Elliott,Chevrolet,Hendrick Motorsports,415,64,running,49.0,3.0,4.0,,15,NAPA Auto Parts,8,0,2024-04-11,2024-04-11,8_NAPA Auto Parts
+2024,8,Martinsville,short track,4,2,23,Bubba Wallace,Toyota,23XI Racing,415,0,running,51.0,2.0,2.0,,18,McDonald's,8,-2,2024-04-11,2024-04-11,8_McDonald's
+2024,8,Martinsville,short track,11,8,11,Denny Hamlin,Toyota,Joe Gibbs Racing,415,66,running,40.0,7.0,1.0,,14,FedEx,8,-3,2024-04-11,2024-04-11,8_FedEx
+2024,8,Martinsville,short track,21,35,34,Michael Mcdowell,Ford,Front Row Motorsports,414,0,running,16.0,30.0,28.0,,0,Love's Travel Stops,8,14,2024-04-11,2024-04-11,8_Love's Travel Stops
+2024,9,Texas,intermediate,1,24,9,Chase Elliott,Chevrolet,Hendrick Motorsports,276,39,running,45.0,7.0,10.0,,5,NAPA Auto Parts,9,23,2024-04-18,2024-04-18,9_NAPA Auto Parts
+2024,9,Texas,intermediate,7,10,23,Bubba Wallace,Toyota,23XI Racing,276,5,running,40.0,10.0,2.0,,10,McDonald's,9,3,2024-04-18,2024-04-18,9_McDonald's
+2024,9,Texas,intermediate,30,11,11,Denny Hamlin,Toyota,Joe Gibbs Racing,276,37,running,15.0,3.0,12.0,,8,FedEx,9,-19,2024-04-18,2024-04-18,9_FedEx
+2024,9,Texas,intermediate,35,13,34,Michael Mcdowell,Ford,Front Row Motorsports,143,0,accident,5.0,8.0,35.0,,3,Love's Travel Stops,9,-22,2024-04-18,2024-04-18,9_Love's Travel Stops
+2024,10,Talladega,superspeedway,15,9,9,Chase Elliott,Chevrolet,Hendrick Motorsports,188,5,running,34.0,2.0,8.0,,12,NAPA Auto Parts,10,-6,2024-04-26,2024-04-26,10_NAPA Auto Parts
+2024,10,Talladega,superspeedway,31,1,34,Michael Mcdowell,Ford,Front Row Motorsports,187,36,accident,6.0,14.0,22.0,,0,Love's Travel Stops,10,-30,2024-04-26,2024-04-26,10_Love's Travel Stops
+2024,10,Talladega,superspeedway,36,14,23,Bubba Wallace,Toyota,23XI Racing,154,0,accident,1.0,11.0,16.0,,0,McDonald's,10,-22,2024-04-26,2024-04-26,10_McDonald's
+2024,10,Talladega,superspeedway,37,23,11,Denny Hamlin,Toyota,Joe Gibbs Racing,154,4,accident,1.0,33.0,30.0,,0,FedEx,10,-14,2024-04-26,2024-04-26,10_FedEx
+2024,11,Dover,short intermediate,1,6,11,Denny Hamlin,Toyota,Joe Gibbs Racing,400,136,running,53.0,6.0,3.0,,13,FedEx,11,5,2024-05-04,2024-05-04,11_FedEx
+2024,11,Dover,short intermediate,5,29,9,Chase Elliott,Chevrolet,Hendrick Motorsports,400,0,running,40.0,9.0,5.0,,8,NAPA Auto Parts,11,24,2024-05-04,2024-05-04,11_NAPA Auto Parts
+2024,11,Dover,short intermediate,32,16,23,Bubba Wallace,Toyota,23XI Racing,329,1,accident,6.0,14.0,10.0,,1,McDonald's,11,-16,2024-05-04,2024-05-04,11_McDonald's
+2024,11,Dover,short intermediate,36,8,34,Michael Mcdowell,Ford,Front Row Motorsports,285,0,hub,1.0,30.0,30.0,,0,Love's Travel Stops,11,-28,2024-05-04,2024-05-04,11_Love's Travel Stops
+2024,12,Kansas,intermediate,3,9,9,Chase Elliott,Chevrolet,Hendrick Motorsports,268,0,running,35.0,10.0,11.0,,1,NAPA Auto Parts,12,6,2024-05-11,2024-05-11,12_NAPA Auto Parts
+2024,12,Kansas,intermediate,5,14,11,Denny Hamlin,Toyota,Joe Gibbs Racing,268,71,running,50.0,1.0,3.0,,18,FedEx,12,9,2024-05-11,2024-05-11,12_FedEx
+2024,12,Kansas,intermediate,10,8,34,Michael Mcdowell,Ford,Front Row Motorsports,268,0,running,27.0,11.0,15.0,,0,Love's Travel Stops,12,-2,2024-05-11,2024-05-11,12_Love's Travel Stops
+2024,12,Kansas,intermediate,17,23,23,Bubba Wallace,Toyota,23XI Racing,268,0,running,20.0,18.0,17.0,,0,McDonald's,12,6,2024-05-11,2024-05-11,12_McDonald's
+2024,13,Darlington,short intermediate,4,7,11,Denny Hamlin,Toyota,Joe Gibbs Racing,293,1,running,36.0,12.0,8.0,,3,FedEx,13,3,2024-05-19,2024-05-19,13_FedEx
+2024,13,Darlington,short intermediate,7,8,23,Bubba Wallace,Toyota,23XI Racing,293,6,running,33.0,10.0,9.0,,3,McDonald's,13,1,2024-05-19,2024-05-19,13_McDonald's
+2024,13,Darlington,short intermediate,10,16,34,Michael Mcdowell,Ford,Front Row Motorsports,293,0,running,27.0,19.0,18.0,,0,Love's Travel Stops,13,6,2024-05-19,2024-05-19,13_Love's Travel Stops
+2024,13,Darlington,short intermediate,12,31,9,Chase Elliott,Chevrolet,Hendrick Motorsports,293,0,running,25.0,26.0,16.0,,0,NAPA Auto Parts,13,19,2024-05-19,2024-05-19,13_NAPA Auto Parts
+2024,14,Charlotte,intermediate,5,11,11,Denny Hamlin,Toyota,Joe Gibbs Racing,249,0,running,45.0,25.0,4.0,5.0,13,FedEx,14,6,2024-05-26,2024-05-26,14_FedEx
+2024,14,Charlotte,intermediate,7,5,9,Chase Elliott,Chevrolet,Hendrick Motorsports,249,2,running,38.0,11.0,7.0,7.0,8,NAPA Auto Parts,14,-2,2024-05-26,2024-05-26,14_NAPA Auto Parts
+2024,14,Charlotte,intermediate,11,12,23,Bubba Wallace,Toyota,23XI Racing,249,0,running,39.0,6.0,3.0,11.0,13,McDonald's,14,1,2024-05-26,2024-05-26,14_McDonald's
+2024,14,Charlotte,intermediate,16,9,34,Michael Mcdowell,Ford,Front Row Motorsports,249,6,running,22.0,10.0,16.0,16.0,1,Love's Travel Stops,14,-7,2024-05-26,2024-05-26,14_Love's Travel Stops
+2024,15,Gateway,short intermediate,2,6,11,Denny Hamlin,Toyota,Joe Gibbs Racing,240,0,running,42.0,5.0,10.0,,7,FedEx,15,4,2024-06-03,2024-06-03,15_FedEx
+2024,15,Gateway,short intermediate,13,17,9,Chase Elliott,Chevrolet,Hendrick Motorsports,240,0,running,32.0,10.0,4.0,,8,NAPA Auto Parts,15,4,2024-06-03,2024-06-03,15_NAPA Auto Parts
+2024,15,Gateway,short intermediate,21,8,23,Bubba Wallace,Toyota,23XI Racing,240,0,running,16.0,12.0,23.0,,0,McDonald's,15,-13,2024-06-03,2024-06-03,15_McDonald's
+2024,15,Gateway,short intermediate,25,1,34,Michael Mcdowell,Ford,Front Row Motorsports,239,40,running,21.0,2.0,28.0,,9,Love's Travel Stops,15,-24,2024-06-03,2024-06-03,15_Love's Travel Stops
+2024,16,Sonoma,road course,2,12,34,Michael Mcdowell,Ford,Front Row Motorsports,110,0,running,40.0,6.0,16.0,,5,Love's Travel Stops,16,10,2024-06-11,2024-06-11,16_Love's Travel Stops
+2024,16,Sonoma,road course,4,4,9,Chase Elliott,Chevrolet,Hendrick Motorsports,110,3,running,40.0,4.0,31.0,,7,NAPA Auto Parts,16,0,2024-06-11,2024-06-11,16_NAPA Auto Parts
+2024,16,Sonoma,road course,20,18,23,Bubba Wallace,Toyota,23XI Racing,110,0,running,17.0,12.0,19.0,,0,McDonald's,16,-2,2024-06-11,2024-06-11,16_McDonald's
+2024,16,Sonoma,road course,38,25,11,Denny Hamlin,Toyota,Joe Gibbs Racing,2,0,engine,1.0,38.0,38.0,,0,FedEx,16,-13,2024-06-11,2024-06-11,16_FedEx
+2024,17,Iowa,short track,3,9,9,Chase Elliott,Chevrolet,Hendrick Motorsports,350,1,running,44.0,9.0,3.0,,10,NAPA Auto Parts,17,6,2024-06-18,2024-06-18,17_NAPA Auto Parts
+2024,17,Iowa,short track,17,16,23,Bubba Wallace,Toyota,23XI Racing,349,0,running,26.0,18.0,5.0,,6,McDonald's,17,-1,2024-06-18,2024-06-18,17_McDonald's
+2024,17,Iowa,short track,23,22,34,Michael Mcdowell,Ford,Front Row Motorsports,349,0,running,14.0,20.0,24.0,,0,Love's Travel Stops,17,-1,2024-06-18,2024-06-18,17_Love's Travel Stops
+2024,17,Iowa,short track,24,12,11,Denny Hamlin,Toyota,Joe Gibbs Racing,348,0,running,18.0,34.0,6.0,,5,FedEx,17,-12,2024-06-18,2024-06-18,17_FedEx
+2024,18,New Hampshire,short intermediate,15,25,34,Michael Mcdowell,Ford,Front Row Motorsports,305,0,running,22.0,20.0,23.0,,0,Love's Travel Stops,18,10,2024-06-26,2024-06-26,18_Love's Travel Stops
+2024,18,New Hampshire,short intermediate,18,1,9,Chase Elliott,Chevrolet,Hendrick Motorsports,305,41,running,29.0,3.0,9.0,,10,NAPA Auto Parts,18,-17,2024-06-26,2024-06-26,18_NAPA Auto Parts
+2024,18,New Hampshire,short intermediate,24,14,11,Denny Hamlin,Toyota,Joe Gibbs Racing,305,43,running,27.0,7.0,1.0,,14,FedEx,18,-10,2024-06-26,2024-06-26,18_FedEx
+2024,18,New Hampshire,short intermediate,34,17,23,Bubba Wallace,Toyota,23XI Racing,265,0,accident,3.0,13.0,17.0,,0,McDonald's,18,-17,2024-06-26,2024-06-26,18_McDonald's
+2024,19,Nashville,short intermediate,7,24,23,Bubba Wallace,Toyota,23XI Racing,331,0,running,31.0,10.0,27.0,,1,McDonald's,19,17,2024-07-03,2024-07-03,19_McDonald's
+2024,19,Nashville,short intermediate,12,1,11,Denny Hamlin,Toyota,Joe Gibbs Racing,331,70,running,41.0,2.0,4.0,,16,FedEx,19,-11,2024-07-03,2024-07-03,19_FedEx
+2024,19,Nashville,short intermediate,18,13,9,Chase Elliott,Chevrolet,Hendrick Motorsports,331,0,running,24.0,11.0,6.0,,5,NAPA Auto Parts,19,-5,2024-07-03,2024-07-03,19_NAPA Auto Parts
+2024,19,Nashville,short intermediate,35,14,34,Michael Mcdowell,Ford,Front Row Motorsports,239,31,transmission,2.0,28.0,16.0,,0,Love's Travel Stops,19,-21,2024-07-03,2024-07-03,19_Love's Travel Stops
+2024,20,Chicago Street Course,road course,5,3,34,Michael Mcdowell,Ford,Front Row Motorsports,58,0,running,32.0,36.0,26.0,,0,Love's Travel Stops,20,-2,2024-07-11,2024-07-11,20_Love's Travel Stops
+2024,20,Chicago Street Course,road course,13,6,23,Bubba Wallace,Toyota,23XI Racing,58,0,running,28.0,7.0,35.0,,4,McDonald's,20,-7,2024-07-11,2024-07-11,20_McDonald's
+2024,20,Chicago Street Course,road course,21,18,9,Chase Elliott,Chevrolet,Hendrick Motorsports,58,0,running,16.0,13.0,27.0,,0,NAPA Auto Parts,20,-3,2024-07-11,2024-07-11,20_NAPA Auto Parts
+2024,20,Chicago Street Course,road course,30,11,11,Denny Hamlin,Toyota,Joe Gibbs Racing,58,0,running,8.0,23.0,10.0,,1,FedEx,20,-19,2024-07-11,2024-07-11,20_FedEx
+2024,21,Pocono,long intermediate,2,4,11,Denny Hamlin,Toyota,Joe Gibbs Racing,160,31,running,54.0,2.0,1.0,,19,FedEx,21,2,2024-07-19,2024-07-19,21_FedEx
+2024,21,Pocono,long intermediate,9,11,9,Chase Elliott,Chevrolet,Hendrick Motorsports,160,0,running,43.0,5.0,2.0,,15,NAPA Auto Parts,21,2,2024-07-19,2024-07-19,21_NAPA Auto Parts
+2024,21,Pocono,long intermediate,10,29,23,Bubba Wallace,Toyota,23XI Racing,160,0,running,27.0,36.0,18.0,,0,McDonald's,21,19,2024-07-19,2024-07-19,21_McDonald's
+2024,21,Pocono,long intermediate,24,21,34,Michael Mcdowell,Ford,Front Row Motorsports,158,0,running,13.0,12.0,20.0,,0,Love's Travel Stops,21,-3,2024-07-19,2024-07-19,21_Love's Travel Stops
+2024,22,Indianapolis,long intermediate,5,17,23,Bubba Wallace,Toyota,23XI Racing,167,26,running,42.0,11.0,1.0,,10,McDonald's,22,12,2024-07-26,2024-07-26,22_McDonald's
+2024,22,Indianapolis,long intermediate,10,3,9,Chase Elliott,Chevrolet,Hendrick Motorsports,167,1,running,36.0,17.0,2.0,,9,NAPA Auto Parts,22,-7,2024-07-26,2024-07-26,22_NAPA Auto Parts
+2024,22,Indianapolis,long intermediate,16,8,34,Michael Mcdowell,Ford,Front Row Motorsports,167,1,running,26.0,6.0,28.0,,5,Love's Travel Stops,22,-8,2024-07-26,2024-07-26,22_Love's Travel Stops
+2024,22,Indianapolis,long intermediate,32,2,11,Denny Hamlin,Toyota,Joe Gibbs Racing,161,21,accident,23.0,1.0,3.0,,18,FedEx,22,-30,2024-07-26,2024-07-26,22_FedEx
+2024,23,Richmond,short track,2,1,11,Denny Hamlin,Toyota,Joe Gibbs Racing,408,124,running,52.0,2.0,3.0,,17,FedEx,23,-1,2024-08-03,2024-08-03,23_FedEx
+2024,23,Richmond,short track,4,8,23,Bubba Wallace,Toyota,23XI Racing,408,0,running,42.0,5.0,8.0,,9,McDonald's,23,4,2024-08-03,2024-08-03,23_McDonald's
+2024,23,Richmond,short track,9,4,9,Chase Elliott,Chevrolet,Hendrick Motorsports,408,5,running,34.0,6.0,10.0,,6,NAPA Auto Parts,23,-5,2024-08-03,2024-08-03,23_NAPA Auto Parts
+2024,23,Richmond,short track,15,28,34,Michael Mcdowell,Ford,Front Row Motorsports,408,0,running,27.0,29.0,6.0,,5,Love's Travel Stops,23,13,2024-08-03,2024-08-03,23_Love's Travel Stops
+2024,24,Michigan,long intermediate,9,1,11,Denny Hamlin,Toyota,Joe Gibbs Racing,206,0,running,28.0,22.0,26.0,,0,FedEx,24,-8,2024-08-10,2024-08-10,24_FedEx
+2024,24,Michigan,long intermediate,15,6,9,Chase Elliott,Chevrolet,Hendrick Motorsports,206,29,running,31.0,2.0,14.0,,9,NAPA Auto Parts,24,-9,2024-08-10,2024-08-10,24_NAPA Auto Parts
+2024,24,Michigan,long intermediate,19,17,34,Michael Mcdowell,Ford,Front Row Motorsports,206,0,running,18.0,34.0,32.0,,0,Love's Travel Stops,24,-2,2024-08-10,2024-08-10,24_Love's Travel Stops
+2024,24,Michigan,long intermediate,26,5,23,Bubba Wallace,Toyota,23XI Racing,205,5,running,18.0,4.0,13.0,,7,McDonald's,24,-21,2024-08-10,2024-08-10,24_McDonald's
+2024,25,Daytona,superspeedway,6,18,23,Bubba Wallace,Toyota,23XI Racing,164,16,running,32.0,12.0,10.0,,1,McDonald's,25,12,2024-08-18,2024-08-18,25_McDonald's
+2024,25,Daytona,superspeedway,30,1,34,Michael Mcdowell,Ford,Front Row Motorsports,151,26,accident,10.0,8.0,11.0,,3,Love's Travel Stops,25,-29,2024-08-18,2024-08-18,25_Love's Travel Stops
+2024,25,Daytona,superspeedway,36,10,9,Chase Elliott,Chevrolet,Hendrick Motorsports,61,0,accident,1.0,21.0,38.0,,0,NAPA Auto Parts,25,-26,2024-08-18,2024-08-18,25_NAPA Auto Parts
+2024,25,Daytona,superspeedway,38,19,11,Denny Hamlin,Toyota,Joe Gibbs Racing,59,0,accident,1.0,18.0,37.0,,0,FedEx,25,-19,2024-08-18,2024-08-18,25_FedEx
+2024,26,Darlington,short intermediate,7,14,11,Denny Hamlin,Toyota,Joe Gibbs Racing,367,21,running,43.0,6.0,3.0,,13,FedEx,26,7,2024-08-26,2024-08-26,26_FedEx
+2024,26,Darlington,short intermediate,11,20,9,Chase Elliott,Chevrolet,Hendrick Motorsports,367,0,running,26.0,19.0,22.0,,0,NAPA Auto Parts,26,9,2024-08-26,2024-08-26,26_NAPA Auto Parts
+2024,26,Darlington,short intermediate,16,1,23,Bubba Wallace,Toyota,23XI Racing,367,37,running,32.0,2.0,9.0,,11,McDonald's,26,-15,2024-08-26,2024-08-26,26_McDonald's
+2024,26,Darlington,short intermediate,28,31,34,Michael Mcdowell,Ford,Front Row Motorsports,363,0,running,9.0,25.0,27.0,,0,Love's Travel Stops,26,3,2024-08-26,2024-08-26,26_Love's Travel Stops
+2024,27,Atlanta,superspeedway,8,16,9,Chase Elliott,Chevrolet,Hendrick Motorsports,266,0,running,36.0,7.0,8.0,,7,NAPA Auto Parts,27,8,2024-09-02,2024-09-02,27_NAPA Auto Parts
+2024,27,Atlanta,superspeedway,22,1,34,Michael Mcdowell,Ford,Front Row Motorsports,266,30,running,15.0,14.0,17.0,,0,Love's Travel Stops,27,-21,2024-09-02,2024-09-02,27_Love's Travel Stops
+2024,27,Atlanta,superspeedway,24,38,11,Denny Hamlin,Toyota,Joe Gibbs Racing,266,0,running,13.0,34.0,29.0,,0,FedEx,27,14,2024-09-02,2024-09-02,27_FedEx
+2024,27,Atlanta,superspeedway,29,24,23,Bubba Wallace,Toyota,23XI Racing,266,8,running,8.0,33.0,33.0,,0,McDonald's,27,-5,2024-09-02,2024-09-02,27_McDonald's
+2024,28,Watkins Glen,road course,7,10,34,Michael Mcdowell,Ford,Front Row Motorsports,92,7,running,30.0,16.0,11.0,,0,Love's Travel Stops,28,3,2024-09-10,2024-09-10,28_Love's Travel Stops
+2024,28,Watkins Glen,road course,17,32,23,Bubba Wallace,Toyota,23XI Racing,92,0,running,20.0,12.0,12.0,,0,McDonald's,28,15,2024-09-10,2024-09-10,28_McDonald's
+2024,28,Watkins Glen,road course,19,14,9,Chase Elliott,Chevrolet,Hendrick Motorsports,92,0,running,23.0,6.0,25.0,,5,NAPA Auto Parts,28,-5,2024-09-10,2024-09-10,28_NAPA Auto Parts
+2024,28,Watkins Glen,road course,23,22,11,Denny Hamlin,Toyota,Joe Gibbs Racing,92,0,running,15.0,34.0,10.0,,1,FedEx,28,-1,2024-09-10,2024-09-10,28_FedEx
+2024,29,Bristol,short track,2,10,9,Chase Elliott,Chevrolet,Hendrick Motorsports,500,0,running,38.0,9.0,10.0,,3,NAPA Auto Parts,29,8,2024-09-17,2024-09-17,29_NAPA Auto Parts
+2024,29,Bristol,short track,3,11,23,Bubba Wallace,Toyota,23XI Racing,500,1,running,40.0,10.0,6.0,,6,McDonald's,29,8,2024-09-17,2024-09-17,29_McDonald's
+2024,29,Bristol,short track,4,8,11,Denny Hamlin,Toyota,Joe Gibbs Racing,500,0,running,46.0,6.0,3.0,,13,FedEx,29,4,2024-09-17,2024-09-17,29_FedEx
+2024,29,Bristol,short track,11,18,34,Michael Mcdowell,Ford,Front Row Motorsports,499,0,running,26.0,18.0,17.0,,0,Love's Travel Stops,29,7,2024-09-17,2024-09-17,29_Love's Travel Stops
+2024,30,Kansas,intermediate,8,8,11,Denny Hamlin,Toyota,Joe Gibbs Racing,267,1,running,36.0,4.0,11.0,,7,FedEx,30,0,2024-09-25,2024-09-25,30_FedEx
+2024,30,Kansas,intermediate,9,38,9,Chase Elliott,Chevrolet,Hendrick Motorsports,267,0,running,30.0,19.0,9.0,,2,NAPA Auto Parts,30,29,2024-09-25,2024-09-25,30_NAPA Auto Parts
+2024,30,Kansas,intermediate,17,13,23,Bubba Wallace,Toyota,23XI Racing,267,0,running,20.0,21.0,21.0,,0,McDonald's,30,-4,2024-09-25,2024-09-25,30_McDonald's
+2024,30,Kansas,intermediate,29,21,34,Michael Mcdowell,Ford,Front Row Motorsports,267,0,running,8.0,26.0,29.0,,0,Love's Travel Stops,30,-8,2024-09-25,2024-09-25,30_Love's Travel Stops
+2024,31,Talladega,superspeedway,9,26,23,Bubba Wallace,Toyota,23XI Racing,195,3,running,32.0,22.0,7.0,,4,McDonald's,31,17,2024-10-03,2024-10-03,31_McDonald's
+2024,31,Talladega,superspeedway,10,8,11,Denny Hamlin,Toyota,Joe Gibbs Racing,195,0,running,27.0,23.0,16.0,,0,FedEx,31,-2,2024-10-03,2024-10-03,31_FedEx
+2024,31,Talladega,superspeedway,29,11,9,Chase Elliott,Chevrolet,Hendrick Motorsports,190,1,running,17.0,19.0,2.0,,9,NAPA Auto Parts,31,-18,2024-10-03,2024-10-03,31_NAPA Auto Parts
+2024,31,Talladega,superspeedway,37,1,34,Michael Mcdowell,Ford,Front Row Motorsports,183,42,accident,1.0,18.0,34.0,,0,Love's Travel Stops,31,-36,2024-10-03,2024-10-03,31_Love's Travel Stops
+2024,32,Charlotte Roval,road course,5,7,9,Chase Elliott,Chevrolet,Hendrick Motorsports,109,0,running,48.0,3.0,3.0,,16,NAPA Auto Parts,32,2,2024-10-10,2024-10-10,32_NAPA Auto Parts
+2024,32,Charlotte Roval,road course,9,9,23,Bubba Wallace,Toyota,23XI Racing,109,0,running,35.0,14.0,4.0,,7,McDonald's,32,0,2024-10-10,2024-10-10,32_McDonald's
+2024,32,Charlotte Roval,road course,14,18,11,Denny Hamlin,Toyota,Joe Gibbs Racing,109,0,running,24.0,27.0,10.0,,1,FedEx,32,4,2024-10-10,2024-10-10,32_FedEx
+2024,32,Charlotte Roval,road course,15,21,34,Michael Mcdowell,Ford,Front Row Motorsports,109,0,running,26.0,12.0,7.0,,4,Love's Travel Stops,32,6,2024-10-10,2024-10-10,32_Love's Travel Stops
+2024,33,Las Vegas,intermediate,8,4,11,Denny Hamlin,Toyota,Joe Gibbs Racing,267,4,running,29.0,11.0,19.0,,0,FedEx,33,-4,2024-10-18,2024-10-18,33_FedEx
+2024,33,Las Vegas,intermediate,12,19,23,Bubba Wallace,Toyota,23XI Racing,267,0,running,27.0,21.0,9.0,,2,McDonald's,33,7,2024-10-18,2024-10-18,33_McDonald's
+2024,33,Las Vegas,intermediate,20,15,34,Michael Mcdowell,Ford,Front Row Motorsports,267,0,running,17.0,22.0,16.0,,0,Love's Travel Stops,33,-5,2024-10-18,2024-10-18,33_Love's Travel Stops
+2024,33,Las Vegas,intermediate,33,18,9,Chase Elliott,Chevrolet,Hendrick Motorsports,230,0,accident,4.0,12.0,33.0,,0,NAPA Auto Parts,33,-15,2024-10-18,2024-10-18,33_NAPA Auto Parts
+2024,34,Homestead,intermediate,3,4,11,Denny Hamlin,Toyota,Joe Gibbs Racing,267,21,running,48.0,7.0,1.0,,14,FedEx,34,1,2024-10-25,2024-10-25,34_FedEx
+2024,34,Homestead,intermediate,5,7,9,Chase Elliott,Chevrolet,Hendrick Motorsports,267,81,running,49.0,3.0,2.0,,17,NAPA Auto Parts,34,2,2024-10-25,2024-10-25,34_NAPA Auto Parts
+2024,34,Homestead,intermediate,14,24,34,Michael Mcdowell,Ford,Front Row Motorsports,267,0,running,23.0,30.0,17.0,,0,Love's Travel Stops,34,10,2024-10-25,2024-10-25,34_Love's Travel Stops
+2024,34,Homestead,intermediate,18,8,23,Bubba Wallace,Toyota,23XI Racing,267,2,running,28.0,2.0,16.0,,9,McDonald's,34,-10,2024-10-25,2024-10-25,34_McDonald's
+2024,35,Martinsville,short track,2,2,9,Chase Elliott,Chevrolet,Hendrick Motorsports,500,129,running,45.0,1.0,12.0,,10,NAPA Auto Parts,35,0,2024-11-02,2024-11-02,35_NAPA Auto Parts
+2024,35,Martinsville,short track,5,37,11,Denny Hamlin,Toyota,Joe Gibbs Racing,500,0,running,40.0,15.0,3.0,,8,FedEx,35,32,2024-11-02,2024-11-02,35_FedEx
+2024,35,Martinsville,short track,18,19,23,Bubba Wallace,Toyota,23XI Racing,499,6,running,19.0,24.0,19.0,,0,McDonald's,35,1,2024-11-02,2024-11-02,35_McDonald's
+2024,35,Martinsville,short track,33,17,34,Michael Mcdowell,Ford,Front Row Motorsports,490,0,running,4.0,22.0,18.0,,0,Love's Travel Stops,35,-16,2024-11-02,2024-11-02,35_Love's Travel Stops
+2024,36,Phoenix,short intermediate,7,29,23,Bubba Wallace,Toyota,23XI Racing,312,0,running,30.0,16.0,11.0,,0,McDonald's,36,22,2024-11-10,2024-11-10,36_McDonald's
+2024,36,Phoenix,short intermediate,8,5,9,Chase Elliott,Chevrolet,Hendrick Motorsports,312,7,running,38.0,5.0,8.0,,9,NAPA Auto Parts,36,-3,2024-11-10,2024-11-10,36_NAPA Auto Parts
+2024,36,Phoenix,short intermediate,11,14,11,Denny Hamlin,Toyota,Joe Gibbs Racing,312,0,running,35.0,8.0,5.0,,9,FedEx,36,3,2024-11-10,2024-11-10,36_FedEx
+2024,36,Phoenix,short intermediate,31,35,34,Michael Mcdowell,Ford,Front Row Motorsports,309,0,running,6.0,34.0,35.0,,0,Love's Travel Stops,36,4,2024-11-10,2024-11-10,36_Love's Travel Stops

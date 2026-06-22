@@ -1,0 +1,94 @@
+sponsor,race_number,race_name,total_mentions,weighted_mentions,primary_mentions,race_date,race_date_str,merge_key
+FedEx,1,Daytona 500,2,1.2,0,2024-02-18,2024-02-18,1_FedEx
+FedEx,2,Ambetter Health 400,1,0.6,0,2024-02-25,2024-02-25,2_FedEx
+FedEx,3,Pennzoil 400,1,0.6,0,2024-03-04,2024-03-04,3_FedEx
+FedEx,4,Shriners Children's 500,1,0.6,0,2024-03-11,2024-03-11,4_FedEx
+FedEx,5,Food City 500,1,0.6,0,2024-03-19,2024-03-19,5_FedEx
+FedEx,6,EchoPark Grand Prix COTA,1,0.6,1,2024-03-27,2024-03-27,6_FedEx
+FedEx,7,Cookout 400 Martinsville,1,0.6,0,2024-04-03,2024-04-03,7_FedEx
+FedEx,8,AutoTrader EchoPark 400 Texas,1,0.6,0,2024-04-11,2024-04-11,8_FedEx
+FedEx,9,GEICO 500 Talladega,1,0.6,0,2024-04-18,2024-04-18,9_FedEx
+FedEx,10,AdventHealth 400 Kansas,1,0.6,0,2024-04-26,2024-04-26,10_FedEx
+FedEx,11,Wurth 400 Dover,1,0.6,1,2024-05-04,2024-05-04,11_FedEx
+FedEx,12,Goodyear 400 Darlington Spring,1,0.6,0,2024-05-11,2024-05-11,12_FedEx
+FedEx,13,NASCAR All-Star Race,1,0.6,0,2024-05-19,2024-05-19,13_FedEx
+FedEx,14,Coca-Cola 600,2,1.6,0,2024-05-26,2024-05-26,14_FedEx
+FedEx,15,Enjoy Illinois 300 WWT Raceway,1,0.6,0,2024-06-03,2024-06-03,15_FedEx
+FedEx,16,Toyota Save Mart 350 Sonoma,1,0.6,0,2024-06-11,2024-06-11,16_FedEx
+FedEx,17,Iowa Corn 350,1,0.6,0,2024-06-18,2024-06-18,17_FedEx
+FedEx,18,New Hampshire 301,1,0.6,0,2024-06-26,2024-06-26,18_FedEx
+FedEx,19,Ally 400 Nashville,1,0.6,0,2024-07-03,2024-07-03,19_FedEx
+FedEx,20,Grant Park 165 Chicago,1,0.6,0,2024-07-11,2024-07-11,20_FedEx
+FedEx,21,GreatClips 200 Pocono,1,0.6,0,2024-07-19,2024-07-19,21_FedEx
+FedEx,22,Brickyard 400 Indianapolis,1,0.6,0,2024-07-26,2024-07-26,22_FedEx
+FedEx,23,Cook Out 400 Richmond,1,0.6,1,2024-08-03,2024-08-03,23_FedEx
+FedEx,24,FireKeepers Casino 400 Michigan,1,0.6,0,2024-08-10,2024-08-10,24_FedEx
+FedEx,25,Coke Zero Sugar 400 Daytona,1,0.6,0,2024-08-18,2024-08-18,25_FedEx
+FedEx,26,Go Bowling 250 Bristol Dirt,1,0.6,0,2024-08-26,2024-08-26,26_FedEx
+FedEx,27,Cook Out Southern 500,2,1.6,0,2024-09-02,2024-09-02,27_FedEx
+FedEx,28,Quaker State 400 Atlanta,1,0.6,0,2024-09-10,2024-09-10,28_FedEx
+FedEx,29,Go Bowling at the Glen Watkins Glen,1,0.6,0,2024-09-17,2024-09-17,29_FedEx
+FedEx,30,Bass Pro Shops Night Race Bristol,1,0.6,0,2024-09-25,2024-09-25,30_FedEx
+FedEx,31,Hollywood Casino 400 Kansas,1,0.6,0,2024-10-03,2024-10-03,31_FedEx
+FedEx,32,YellaWood 500 Talladega,1,0.6,0,2024-10-10,2024-10-10,32_FedEx
+FedEx,33,Bank of America ROVAL 400 Charlotte,1,0.6,0,2024-10-18,2024-10-18,33_FedEx
+FedEx,34,South Point 400 Las Vegas,1,0.6,0,2024-10-25,2024-10-25,34_FedEx
+FedEx,37,NASCAR Cup Championship Phoenix,5,3.0,5,,,37_FedEx
+Love's Travel Stops,1,Daytona 500,2,1.2,2,2024-02-18,2024-02-18,1_Love's Travel Stops
+Love's Travel Stops,2,Ambetter Health 400,1,0.6,0,2024-02-25,2024-02-25,2_Love's Travel Stops
+Love's Travel Stops,3,Pennzoil 400,1,0.6,1,2024-03-04,2024-03-04,3_Love's Travel Stops
+Love's Travel Stops,9,GEICO 500 Talladega,1,0.6,1,2024-04-18,2024-04-18,9_Love's Travel Stops
+Love's Travel Stops,14,Coca-Cola 600,1,0.6,0,2024-05-26,2024-05-26,14_Love's Travel Stops
+Love's Travel Stops,19,Ally 400 Nashville,1,0.6,1,2024-07-03,2024-07-03,19_Love's Travel Stops
+Love's Travel Stops,27,Cook Out Southern 500,1,0.6,0,2024-09-02,2024-09-02,27_Love's Travel Stops
+Love's Travel Stops,31,Hollywood Casino 400 Kansas,1,0.6,0,2024-10-03,2024-10-03,31_Love's Travel Stops
+Love's Travel Stops,32,YellaWood 500 Talladega,1,0.6,1,2024-10-10,2024-10-10,32_Love's Travel Stops
+Love's Travel Stops,35,Straight Talk Wireless 400 Homestead,1,0.6,1,2024-11-02,2024-11-02,35_Love's Travel Stops
+Love's Travel Stops,37,NASCAR Cup Championship Phoenix,1,0.6,0,,,37_Love's Travel Stops
+McDonald's,1,Daytona 500,2,1.2,1,2024-02-18,2024-02-18,1_McDonald's
+McDonald's,5,Food City 500,1,0.6,0,2024-03-19,2024-03-19,5_McDonald's
+McDonald's,6,EchoPark Grand Prix COTA,1,0.6,0,2024-03-27,2024-03-27,6_McDonald's
+McDonald's,14,Coca-Cola 600,1,0.6,0,2024-05-26,2024-05-26,14_McDonald's
+McDonald's,17,Iowa Corn 350,1,0.6,1,2024-06-18,2024-06-18,17_McDonald's
+McDonald's,23,Cook Out 400 Richmond,1,0.6,1,2024-08-03,2024-08-03,23_McDonald's
+McDonald's,24,FireKeepers Casino 400 Michigan,1,0.6,1,2024-08-10,2024-08-10,24_McDonald's
+McDonald's,27,Cook Out Southern 500,2,2.0,1,2024-09-02,2024-09-02,27_McDonald's
+McDonald's,28,Quaker State 400 Atlanta,1,0.6,0,2024-09-10,2024-09-10,28_McDonald's
+McDonald's,35,Straight Talk Wireless 400 Homestead,1,0.6,1,2024-11-02,2024-11-02,35_McDonald's
+McDonald's,37,NASCAR Cup Championship Phoenix,2,1.6,0,,,37_McDonald's
+NAPA Auto Parts,1,Daytona 500,2,1.2,1,2024-02-18,2024-02-18,1_NAPA Auto Parts
+NAPA Auto Parts,2,Ambetter Health 400,1,0.6,0,2024-02-25,2024-02-25,2_NAPA Auto Parts
+NAPA Auto Parts,3,Pennzoil 400,1,0.6,0,2024-03-04,2024-03-04,3_NAPA Auto Parts
+NAPA Auto Parts,4,Shriners Children's 500,1,0.6,0,2024-03-11,2024-03-11,4_NAPA Auto Parts
+NAPA Auto Parts,5,Food City 500,1,0.6,0,2024-03-19,2024-03-19,5_NAPA Auto Parts
+NAPA Auto Parts,6,EchoPark Grand Prix COTA,1,0.6,0,2024-03-27,2024-03-27,6_NAPA Auto Parts
+NAPA Auto Parts,7,Cookout 400 Martinsville,1,0.6,0,2024-04-03,2024-04-03,7_NAPA Auto Parts
+NAPA Auto Parts,8,AutoTrader EchoPark 400 Texas,1,0.6,0,2024-04-11,2024-04-11,8_NAPA Auto Parts
+NAPA Auto Parts,9,GEICO 500 Talladega,1,0.6,0,2024-04-18,2024-04-18,9_NAPA Auto Parts
+NAPA Auto Parts,10,AdventHealth 400 Kansas,1,0.6,0,2024-04-26,2024-04-26,10_NAPA Auto Parts
+NAPA Auto Parts,11,Wurth 400 Dover,1,0.6,0,2024-05-04,2024-05-04,11_NAPA Auto Parts
+NAPA Auto Parts,12,Goodyear 400 Darlington Spring,1,0.6,0,2024-05-11,2024-05-11,12_NAPA Auto Parts
+NAPA Auto Parts,14,Coca-Cola 600,2,1.6,0,2024-05-26,2024-05-26,14_NAPA Auto Parts
+NAPA Auto Parts,15,Enjoy Illinois 300 WWT Raceway,1,0.6,0,2024-06-03,2024-06-03,15_NAPA Auto Parts
+NAPA Auto Parts,16,Toyota Save Mart 350 Sonoma,1,0.6,0,2024-06-11,2024-06-11,16_NAPA Auto Parts
+NAPA Auto Parts,17,Iowa Corn 350,1,0.6,0,2024-06-18,2024-06-18,17_NAPA Auto Parts
+NAPA Auto Parts,18,New Hampshire 301,1,0.6,0,2024-06-26,2024-06-26,18_NAPA Auto Parts
+NAPA Auto Parts,19,Ally 400 Nashville,1,0.6,0,2024-07-03,2024-07-03,19_NAPA Auto Parts
+NAPA Auto Parts,20,Grant Park 165 Chicago,1,0.6,0,2024-07-11,2024-07-11,20_NAPA Auto Parts
+NAPA Auto Parts,21,GreatClips 200 Pocono,1,0.6,0,2024-07-19,2024-07-19,21_NAPA Auto Parts
+NAPA Auto Parts,22,Brickyard 400 Indianapolis,1,0.6,0,2024-07-26,2024-07-26,22_NAPA Auto Parts
+NAPA Auto Parts,23,Cook Out 400 Richmond,1,0.6,0,2024-08-03,2024-08-03,23_NAPA Auto Parts
+NAPA Auto Parts,24,FireKeepers Casino 400 Michigan,1,0.6,0,2024-08-10,2024-08-10,24_NAPA Auto Parts
+NAPA Auto Parts,25,Coke Zero Sugar 400 Daytona,1,0.6,0,2024-08-18,2024-08-18,25_NAPA Auto Parts
+NAPA Auto Parts,26,Go Bowling 250 Bristol Dirt,1,0.6,0,2024-08-26,2024-08-26,26_NAPA Auto Parts
+NAPA Auto Parts,27,Cook Out Southern 500,1,0.6,0,2024-09-02,2024-09-02,27_NAPA Auto Parts
+NAPA Auto Parts,28,Quaker State 400 Atlanta,1,0.6,0,2024-09-10,2024-09-10,28_NAPA Auto Parts
+NAPA Auto Parts,29,Go Bowling at the Glen Watkins Glen,1,0.6,0,2024-09-17,2024-09-17,29_NAPA Auto Parts
+NAPA Auto Parts,30,Bass Pro Shops Night Race Bristol,1,0.6,0,2024-09-25,2024-09-25,30_NAPA Auto Parts
+NAPA Auto Parts,31,Hollywood Casino 400 Kansas,1,0.6,0,2024-10-03,2024-10-03,31_NAPA Auto Parts
+NAPA Auto Parts,32,YellaWood 500 Talladega,1,0.6,0,2024-10-10,2024-10-10,32_NAPA Auto Parts
+NAPA Auto Parts,33,Bank of America ROVAL 400 Charlotte,1,0.6,0,2024-10-18,2024-10-18,33_NAPA Auto Parts
+NAPA Auto Parts,34,South Point 400 Las Vegas,1,0.6,0,2024-10-25,2024-10-25,34_NAPA Auto Parts
+NAPA Auto Parts,35,Straight Talk Wireless 400 Homestead,1,0.6,0,2024-11-02,2024-11-02,35_NAPA Auto Parts
+NAPA Auto Parts,36,Xfinity 500 Martinsville,1,0.6,0,2024-11-10,2024-11-10,36_NAPA Auto Parts
+NAPA Auto Parts,37,NASCAR Cup Championship Phoenix,2,1.6,0,,,37_NAPA Auto Parts

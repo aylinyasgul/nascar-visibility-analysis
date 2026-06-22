@@ -1,0 +1,1399 @@
+year,race_num,track,track_type,fin,start,car_num,driver,manu,team_name,laps,laps_led,status,points,stage_1,stage_2,stage_3_or_duel,stage_points
+2024,-1,Daytona,superspeedway,1,19,45,Tyler Reddick,Toyota,23XI Racing,60,1,running,,,,1.0,10
+2024,-1,Daytona,superspeedway,2,3,9,Chase Elliott,Chevrolet,Hendrick Motorsports,60,0,running,,,,2.0,9
+2024,-1,Daytona,superspeedway,3,9,48,Alex Bowman,Chevrolet,Hendrick Motorsports,60,0,running,,,,3.0,8
+2024,-1,Daytona,superspeedway,4,20,77,Carson Hocevar,Chevrolet,Spire Motorsports,60,0,running,,,,4.0,7
+2024,-1,Daytona,superspeedway,5,12,43,Erik Jones,Toyota,Legacy Motor Club,60,5,running,,,,5.0,6
+2024,-1,Daytona,superspeedway,6,10,99,Daniel Suarez,Chevrolet,Trackhouse Racing,60,2,running,,,,6.0,5
+2024,-1,Daytona,superspeedway,7,1,22,Joey Logano,Ford,Team Penske,60,1,running,,,,7.0,4
+2024,-1,Daytona,superspeedway,8,15,54,Ty Gibbs,Toyota,Joe Gibbs Racing,60,0,running,,,,8.0,3
+2024,-1,Daytona,superspeedway,9,2,5,Kyle Larson,Chevrolet,Hendrick Motorsports,60,20,running,,,,9.0,2
+2024,-1,Daytona,superspeedway,10,8,17,Chris Buescher,Ford,RFK Racing,60,0,running,,,,10.0,1
+2024,-1,Daytona,superspeedway,11,5,1,Ross Chastain,Chevrolet,Trackhouse Racing,60,0,running,,,,,0
+2024,-1,Daytona,superspeedway,12,18,84,Jimmie Johnson,Toyota,Legacy Motor Club,60,0,running,,,,,0
+2024,-1,Daytona,superspeedway,13,7,41,Ryan Preece,Ford,Stewart-Haas Racing,60,0,running,,,,,0
+2024,-1,Daytona,superspeedway,14,14,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,60,14,running,,,,,0
+2024,-1,Daytona,superspeedway,15,17,7,Corey LaJoie,Chevrolet,Spire Motorsports,60,1,running,,,,,0
+2024,-1,Daytona,superspeedway,16,21,44,J.J. Yeley,Chevrolet,NY Racing Team,60,0,running,,,,,0
+2024,-1,Daytona,superspeedway,17,6,38,Todd Gilliland,Ford,Front Row Motorsports,60,1,running,,,,,0
+2024,-1,Daytona,superspeedway,18,4,3,Austin Dillon,Chevrolet,Richard Childress Racing,60,0,running,,,,,0
+2024,-1,Daytona,superspeedway,19,11,62,Anthony Alfredo,Chevrolet,Beard Motorsports,59,0,running,,,,,0
+2024,-1,Daytona,superspeedway,20,16,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,51,15,dvp,,,,,0
+2024,-1,Daytona,superspeedway,21,13,31,Daniel Hemric,Chevrolet,Kaulig Racing,49,0,accident,,,,,0
+2024,-2,Daytona,superspeedway,1,16,20,Christopher Bell,Toyota,Joe Gibbs Racing,60,1,running,,,,1.0,10
+2024,-2,Daytona,superspeedway,2,2,2,Austin Cindric,Ford,Team Penske,60,0,running,,,,2.0,9
+2024,-2,Daytona,superspeedway,3,17,11,Denny Hamlin,Toyota,Joe Gibbs Racing,60,5,running,,,,3.0,8
+2024,-2,Daytona,superspeedway,4,19,42,John Hunter Nemechek,Toyota,Legacy Motor Club,60,0,running,,,,4.0,7
+2024,-2,Daytona,superspeedway,5,5,21,Harrison Burton,Ford,Wood Brothers Racing,60,1,running,,,,5.0,6
+2024,-2,Daytona,superspeedway,6,18,71,Zane Smith,Chevrolet,Spire Motorsports,60,0,running,,,,6.0,5
+2024,-2,Daytona,superspeedway,7,12,6,Brad Keselowski,Ford,RFK Racing,60,0,running,,,,7.0,4
+2024,-2,Daytona,superspeedway,8,3,24,William Byron,Chevrolet,Hendrick Motorsports,60,5,running,,,,8.0,3
+2024,-2,Daytona,superspeedway,9,7,14,Chase Briscoe,Ford,Stewart-Haas Racing,60,0,running,,,,9.0,2
+2024,-2,Daytona,superspeedway,10,15,51,Justin Haley,Ford,Rick Ware Racing,60,0,running,,,,10.0,1
+2024,-2,Daytona,superspeedway,11,14,23,Bubba Wallace,Toyota,23XI Racing,60,21,running,,,,,0
+2024,-2,Daytona,superspeedway,12,21,36,Kaz Grala,Ford,Front Row Motorsports,60,0,running,,,,,0
+2024,-2,Daytona,superspeedway,13,10,16,A.J. Allmendinger,Chevrolet,Kaulig Racing,60,2,running,,,,,0
+2024,-2,Daytona,superspeedway,14,20,78,B.J. McLeod,Chevrolet,Live Fast Motorsports,60,0,running,,,,,0
+2024,-2,Daytona,superspeedway,15,13,60,David Ragan,Ford,RFK Racing,60,0,running,,,,,0
+2024,-2,Daytona,superspeedway,16,1,34,Michael McDowell,Ford,Front Row Motorsports,60,17,running,,,,,0
+2024,-2,Daytona,superspeedway,17,11,4,Josh Berry,Ford,Stewart-Haas Racing,48,0,fuel pump,,,,,0
+2024,-2,Daytona,superspeedway,18,9,12,Ryan Blaney,Ford,Team Penske,47,1,accident,,,,,0
+2024,-2,Daytona,superspeedway,19,4,8,Kyle Busch,Chevrolet,Richard Childress Racing,47,0,accident,,,,,0
+2024,-2,Daytona,superspeedway,20,6,15,Riley Herbst,Ford,Rick Ware Racing,47,7,accident,,,,,0
+2024,-2,Daytona,superspeedway,21,8,10,Noah Gragson,Ford,Stewart-Haas Racing,47,0,accident,,,,,0
+2024,1,Daytona,superspeedway,1,18,24,William Byron,Chevrolet,Hendrick Motorsports,200,4,running,51.0,5.0,6.0,,11
+2024,1,Daytona,superspeedway,2,7,48,Alex Bowman,Chevrolet,Hendrick Motorsports,200,0,running,42.0,4.0,18.0,,7
+2024,1,Daytona,superspeedway,3,4,20,Christopher Bell,Toyota,Joe Gibbs Racing,200,22,running,34.0,30.0,20.0,,0
+2024,1,Daytona,superspeedway,4,29,7,Corey LaJoie,Chevrolet,Spire Motorsports,200,1,running,33.0,13.0,11.0,,0
+2024,1,Daytona,superspeedway,5,24,23,Bubba Wallace,Toyota,23XI Racing,200,3,running,39.0,8.0,7.0,,7
+2024,1,Daytona,superspeedway,6,28,16,A.J. Allmendinger,Chevrolet,Kaulig Racing,200,9,running,0.0,34.0,9.0,,0
+2024,1,Daytona,superspeedway,7,10,42,John Hunter Nemechek,Toyota,Legacy Motor Club,200,0,running,30.0,15.0,30.0,,0
+2024,1,Daytona,superspeedway,8,11,43,Erik Jones,Toyota,Legacy Motor Club,200,0,running,29.0,17.0,13.0,,0
+2024,1,Daytona,superspeedway,9,38,10,Noah Gragson,Ford,Stewart-Haas Racing,200,5,running,28.0,28.0,24.0,,0
+2024,1,Daytona,superspeedway,10,20,14,Chase Briscoe,Ford,Stewart-Haas Racing,200,0,running,27.0,18.0,25.0,,0
+2024,1,Daytona,superspeedway,11,17,5,Kyle Larson,Chevrolet,Hendrick Motorsports,200,7,running,35.0,2.0,16.0,,9
+2024,1,Daytona,superspeedway,12,34,8,Kyle Busch,Chevrolet,Richard Childress Racing,200,12,running,37.0,6.0,4.0,,12
+2024,1,Daytona,superspeedway,13,14,71,Zane Smith,Chevrolet,Spire Motorsports,200,0,running,24.0,23.0,29.0,,0
+2024,1,Daytona,superspeedway,14,5,9,Chase Elliott,Chevrolet,Hendrick Motorsports,200,13,running,33.0,1.0,19.0,,10
+2024,1,Daytona,superspeedway,15,27,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,200,0,running,24.0,9.0,14.0,,2
+2024,1,Daytona,superspeedway,16,37,31,Daniel Hemric,Chevrolet,Kaulig Racing,200,0,running,21.0,31.0,15.0,,0
+2024,1,Daytona,superspeedway,17,15,54,Ty Gibbs,Toyota,Joe Gibbs Racing,200,0,running,20.0,16.0,31.0,,0
+2024,1,Daytona,superspeedway,18,19,17,Chris Buescher,Ford,RFK Racing,200,0,running,20.0,22.0,10.0,,1
+2024,1,Daytona,superspeedway,19,8,11,Denny Hamlin,Toyota,Joe Gibbs Racing,200,10,running,22.0,7.0,22.0,,4
+2024,1,Daytona,superspeedway,20,40,60,David Ragan,Ford,RFK Racing,200,2,running,17.0,26.0,26.0,,0
+2024,1,Daytona,superspeedway,21,21,1,Ross Chastain,Chevrolet,Trackhouse Racing,199,14,accident,24.0,3.0,17.0,,8
+2024,1,Daytona,superspeedway,22,6,2,Austin Cindric,Ford,Team Penske,199,13,accident,24.0,14.0,2.0,,9
+2024,1,Daytona,superspeedway,23,25,41,Ryan Preece,Ford,Stewart-Haas Racing,199,0,running,14.0,27.0,32.0,,0
+2024,1,Daytona,superspeedway,24,36,15,Riley Herbst,Ford,Rick Ware Racing,199,0,running,0.0,24.0,27.0,,0
+2024,1,Daytona,superspeedway,25,30,4,Josh Berry,Ford,Stewart-Haas Racing,199,1,running,12.0,29.0,33.0,,0
+2024,1,Daytona,superspeedway,26,22,51,Justin Haley,Ford,Rick Ware Racing,199,0,running,11.0,25.0,34.0,,0
+2024,1,Daytona,superspeedway,27,39,62,Anthony Alfredo,Chevrolet,Beard Motorsports,198,0,running,0.0,21.0,28.0,,0
+2024,1,Daytona,superspeedway,28,23,84,Jimmie Johnson,Toyota,Legacy Motor Club,196,0,running,9.0,36.0,35.0,,0
+2024,1,Daytona,superspeedway,29,3,45,Tyler Reddick,Toyota,23XI Racing,192,0,accident,14.0,12.0,5.0,,6
+2024,1,Daytona,superspeedway,30,32,12,Ryan Blaney,Ford,Team Penske,192,12,accident,17.0,32.0,1.0,,10
+2024,1,Daytona,superspeedway,31,35,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,192,0,accident,9.0,19.0,8.0,,3
+2024,1,Daytona,superspeedway,32,1,22,Joey Logano,Ford,Team Penske,191,45,accident,5.0,11.0,21.0,,0
+2024,1,Daytona,superspeedway,33,16,6,Brad Keselowski,Ford,RFK Racing,191,3,accident,4.0,20.0,12.0,,0
+2024,1,Daytona,superspeedway,34,13,99,Daniel Suarez,Chevrolet,Trackhouse Racing,191,2,accident,12.0,10.0,3.0,,9
+2024,1,Daytona,superspeedway,35,31,38,Todd Gilliland,Ford,Front Row Motorsports,191,16,accident,2.0,33.0,23.0,,0
+2024,1,Daytona,superspeedway,36,2,34,Michael McDowell,Ford,Front Row Motorsports,176,6,running,1.0,35.0,36.0,,0
+2024,1,Daytona,superspeedway,37,33,3,Austin Dillon,Chevrolet,Richard Childress Racing,146,0,running,1.0,37.0,37.0,,0
+2024,1,Daytona,superspeedway,38,26,36,Kaz Grala,Ford,Front Row Motorsports,5,0,accident,1.0,40.0,40.0,,0
+2024,1,Daytona,superspeedway,39,12,21,Harrison Burton,Ford,Wood Brothers Racing,5,0,accident,1.0,38.0,38.0,,0
+2024,1,Daytona,superspeedway,40,9,77,Carson Hocevar,Chevrolet,Spire Motorsports,5,0,accident,1.0,39.0,39.0,,0
+2024,2,Atlanta,superspeedway,1,23,99,Daniel Suarez,Chevrolet,Trackhouse Racing,260,9,running,47.0,19.0,4.0,,7
+2024,2,Atlanta,superspeedway,2,6,12,Ryan Blaney,Ford,Team Penske,260,31,running,52.0,2.0,3.0,,17
+2024,2,Atlanta,superspeedway,3,3,8,Kyle Busch,Chevrolet,Richard Childress Racing,260,28,running,40.0,5.0,24.0,,6
+2024,2,Atlanta,superspeedway,4,8,2,Austin Cindric,Ford,Team Penske,260,32,running,43.0,18.0,1.0,,10
+2024,2,Atlanta,superspeedway,5,18,23,Bubba Wallace,Toyota,23XI Racing,260,3,running,35.0,8.0,25.0,,3
+2024,2,Atlanta,superspeedway,6,27,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,260,1,running,35.0,7.0,27.0,,4
+2024,2,Atlanta,superspeedway,7,21,1,Ross Chastain,Chevrolet,Trackhouse Racing,260,0,running,38.0,3.0,28.0,,8
+2024,2,Atlanta,superspeedway,8,1,34,Michael McDowell,Ford,Front Row Motorsports,260,27,running,39.0,1.0,23.0,,10
+2024,2,Atlanta,superspeedway,9,7,17,Chris Buescher,Ford,RFK Racing,260,1,running,28.0,13.0,16.0,,0
+2024,2,Atlanta,superspeedway,10,25,54,Ty Gibbs,Toyota,Joe Gibbs Racing,260,0,running,27.0,20.0,12.0,,0
+2024,2,Atlanta,superspeedway,11,16,21,Harrison Burton,Ford,Wood Brothers Racing,260,0,running,29.0,17.0,8.0,,3
+2024,2,Atlanta,superspeedway,12,12,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,260,9,running,36.0,6.0,5.0,,11
+2024,2,Atlanta,superspeedway,13,32,7,Corey LaJoie,Chevrolet,Spire Motorsports,260,0,running,24.0,15.0,11.0,,0
+2024,2,Atlanta,superspeedway,14,33,15,Kaz Grala,Ford,Rick Ware Racing,260,0,running,23.0,28.0,13.0,,0
+2024,2,Atlanta,superspeedway,15,28,9,Chase Elliott,Chevrolet,Hendrick Motorsports,260,0,running,23.0,27.0,10.0,,1
+2024,2,Atlanta,superspeedway,16,20,41,Ryan Preece,Ford,Stewart-Haas Racing,260,0,running,-14.0,31.0,22.0,,0
+2024,2,Atlanta,superspeedway,17,11,24,William Byron,Chevrolet,Hendrick Motorsports,260,0,running,22.0,9.0,26.0,,2
+2024,2,Atlanta,superspeedway,18,26,31,Daniel Hemric,Chevrolet,Kaulig Racing,260,0,running,19.0,22.0,21.0,,0
+2024,2,Atlanta,superspeedway,19,35,77,Carson Hocevar,Chevrolet,Spire Motorsports,260,0,running,18.0,21.0,15.0,,0
+2024,2,Atlanta,superspeedway,20,31,51,Justin Haley,Ford,Rick Ware Racing,260,0,running,17.0,23.0,14.0,,0
+2024,2,Atlanta,superspeedway,21,34,42,John Hunter Nemechek,Toyota,Legacy Motor Club,260,0,running,16.0,30.0,20.0,,0
+2024,2,Atlanta,superspeedway,22,10,3,Austin Dillon,Chevrolet,Richard Childress Racing,260,0,running,15.0,32.0,18.0,,0
+2024,2,Atlanta,superspeedway,23,13,11,Denny Hamlin,Toyota,Joe Gibbs Racing,259,15,running,14.0,25.0,19.0,,0
+2024,2,Atlanta,superspeedway,24,36,78,B.J. McLeod,Chevrolet,Live Fast Motorsports,257,0,running,0.0,29.0,30.0,,0
+2024,2,Atlanta,superspeedway,25,37,43,Erik Jones,Toyota,Legacy Motor Club,256,0,running,12.0,26.0,31.0,,0
+2024,2,Atlanta,superspeedway,26,4,38,Todd Gilliland,Ford,Front Row Motorsports,256,58,running,17.0,10.0,6.0,,6
+2024,2,Atlanta,superspeedway,27,17,48,Alex Bowman,Chevrolet,Hendrick Motorsports,255,0,running,10.0,34.0,32.0,,0
+2024,2,Atlanta,superspeedway,28,2,22,Joey Logano,Ford,Team Penske,252,27,running,9.0,12.0,17.0,,0
+2024,2,Atlanta,superspeedway,29,14,4,Josh Berry,Ford,Stewart-Haas Racing,250,0,accident,8.0,16.0,29.0,,0
+2024,2,Atlanta,superspeedway,30,19,45,Tyler Reddick,Toyota,23XI Racing,243,0,running,7.0,35.0,33.0,,0
+2024,2,Atlanta,superspeedway,31,9,14,Chase Briscoe,Ford,Stewart-Haas Racing,239,0,accident,8.0,11.0,9.0,,2
+2024,2,Atlanta,superspeedway,32,5,5,Kyle Larson,Chevrolet,Hendrick Motorsports,222,17,accident,21.0,4.0,2.0,,16
+2024,2,Atlanta,superspeedway,33,24,6,Brad Keselowski,Ford,RFK Racing,218,2,accident,8.0,24.0,7.0,,4
+2024,2,Atlanta,superspeedway,34,22,20,Christopher Bell,Toyota,Joe Gibbs Racing,148,0,accident,3.0,36.0,34.0,,0
+2024,2,Atlanta,superspeedway,35,29,71,Zane Smith,Chevrolet,Spire Motorsports,75,0,dvp,0.0,14.0,35.0,,0
+2024,2,Atlanta,superspeedway,36,15,10,Noah Gragson,Ford,Stewart-Haas Racing,66,0,steering,-34.0,33.0,36.0,,0
+2024,2,Atlanta,superspeedway,37,30,16,Josh Williams,Chevrolet,Kaulig Racing,2,0,accident,0.0,37.0,37.0,,0
+2024,3,Las Vegas,intermediate,1,2,5,Kyle Larson,Chevrolet,Hendrick Motorsports,267,181,running,60.0,1.0,1.0,,20
+2024,3,Las Vegas,intermediate,2,18,45,Tyler Reddick,Toyota,23XI Racing,267,1,running,53.0,2.0,2.0,,18
+2024,3,Las Vegas,intermediate,3,15,12,Ryan Blaney,Ford,Team Penske,267,0,running,41.0,11.0,4.0,,7
+2024,3,Las Vegas,intermediate,4,20,1,Ross Chastain,Chevrolet,Trackhouse Racing,267,2,running,36.0,8.0,27.0,,3
+2024,3,Las Vegas,intermediate,5,8,54,Ty Gibbs,Toyota,Joe Gibbs Racing,267,0,running,37.0,6.0,30.0,,5
+2024,3,Las Vegas,intermediate,6,30,10,Noah Gragson,Ford,Stewart-Haas Racing,267,0,running,31.0,16.0,13.0,,0
+2024,3,Las Vegas,intermediate,7,7,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,267,4,running,44.0,3.0,5.0,,14
+2024,3,Las Vegas,intermediate,8,28,11,Denny Hamlin,Toyota,Joe Gibbs Racing,267,16,running,43.0,5.0,3.0,,14
+2024,3,Las Vegas,intermediate,9,1,22,Joey Logano,Ford,Team Penske,267,2,running,30.0,13.0,9.0,,2
+2024,3,Las Vegas,intermediate,10,4,24,William Byron,Chevrolet,Hendrick Motorsports,267,15,running,27.0,34.0,14.0,,0
+2024,3,Las Vegas,intermediate,11,16,99,Daniel Suarez,Chevrolet,Trackhouse Racing,267,15,running,26.0,17.0,17.0,,0
+2024,3,Las Vegas,intermediate,12,11,9,Chase Elliott,Chevrolet,Hendrick Motorsports,267,0,running,30.0,15.0,6.0,,5
+2024,3,Las Vegas,intermediate,13,25,6,Brad Keselowski,Ford,RFK Racing,267,0,running,24.0,21.0,15.0,,0
+2024,3,Las Vegas,intermediate,14,22,43,Erik Jones,Toyota,Legacy Motor Club,267,0,running,24.0,31.0,10.0,,1
+2024,3,Las Vegas,intermediate,15,14,77,Carson Hocevar,Chevrolet,Spire Motorsports,267,0,running,22.0,14.0,21.0,,0
+2024,3,Las Vegas,intermediate,16,19,3,Austin Dillon,Chevrolet,Richard Childress Racing,267,0,running,25.0,25.0,7.0,,4
+2024,3,Las Vegas,intermediate,17,13,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,267,0,running,20.0,27.0,25.0,,0
+2024,3,Las Vegas,intermediate,18,23,48,Alex Bowman,Chevrolet,Hendrick Motorsports,267,3,running,22.0,12.0,8.0,,3
+2024,3,Las Vegas,intermediate,19,34,31,Daniel Hemric,Chevrolet,Kaulig Racing,267,1,running,18.0,23.0,31.0,,0
+2024,3,Las Vegas,intermediate,20,26,4,Josh Berry,Ford,Stewart-Haas Racing,267,0,running,17.0,30.0,18.0,,0
+2024,3,Las Vegas,intermediate,21,6,14,Chase Briscoe,Ford,Stewart-Haas Racing,267,1,running,16.0,20.0,11.0,,0
+2024,3,Las Vegas,intermediate,22,27,42,John Hunter Nemechek,Toyota,Legacy Motor Club,267,0,running,15.0,19.0,24.0,,0
+2024,3,Las Vegas,intermediate,23,36,41,Ryan Preece,Ford,Stewart-Haas Racing,267,0,running,14.0,26.0,20.0,,0
+2024,3,Las Vegas,intermediate,24,31,38,Todd Gilliland,Ford,Front Row Motorsports,267,0,running,13.0,29.0,19.0,,0
+2024,3,Las Vegas,intermediate,25,12,34,Michael McDowell,Ford,Front Row Motorsports,267,4,running,12.0,32.0,23.0,,0
+2024,3,Las Vegas,intermediate,26,21,8,Kyle Busch,Chevrolet,Richard Childress Racing,267,18,running,18.0,4.0,16.0,,7
+2024,3,Las Vegas,intermediate,27,35,51,Justin Haley,Ford,Rick Ware Racing,267,0,running,10.0,28.0,29.0,,0
+2024,3,Las Vegas,intermediate,28,33,16,Derek Kraus,Chevrolet,Kaulig Racing,267,2,running,9.0,24.0,26.0,,0
+2024,3,Las Vegas,intermediate,29,3,2,Austin Cindric,Ford,Team Penske,267,0,running,10.0,9.0,32.0,,2
+2024,3,Las Vegas,intermediate,30,29,21,Harrison Burton,Ford,Wood Brothers Racing,267,0,running,7.0,22.0,22.0,,0
+2024,3,Las Vegas,intermediate,31,32,15,Kaz Grala,Ford,Rick Ware Racing,267,0,running,6.0,33.0,28.0,,0
+2024,3,Las Vegas,intermediate,32,17,7,Corey LaJoie,Chevrolet,Spire Motorsports,266,0,running,9.0,7.0,12.0,,4
+2024,3,Las Vegas,intermediate,33,10,20,Christopher Bell,Toyota,Joe Gibbs Racing,265,0,running,5.0,10.0,33.0,,1
+2024,3,Las Vegas,intermediate,34,37,44,J.J. Yeley,Chevrolet,NY Racing Team,261,0,running,0.0,35.0,35.0,,0
+2024,3,Las Vegas,intermediate,35,5,23,Bubba Wallace,Toyota,23XI Racing,254,0,running,2.0,18.0,34.0,,0
+2024,3,Las Vegas,intermediate,36,24,71,Zane Smith,Chevrolet,Spire Motorsports,254,0,running,1.0,36.0,36.0,,0
+2024,3,Las Vegas,intermediate,37,9,17,Chris Buescher,Ford,RFK Racing,27,2,accident,1.0,37.0,37.0,,0
+2024,4,Phoenix,short intermediate,1,13,20,Christopher Bell,Toyota,Joe Gibbs Racing,312,50,running,50.0,13.0,1.0,,10
+2024,4,Phoenix,short intermediate,2,14,17,Chris Buescher,Ford,RFK Racing,312,0,running,36.0,17.0,10.0,,1
+2024,4,Phoenix,short intermediate,3,2,54,Ty Gibbs,Toyota,Joe Gibbs Racing,312,57,running,43.0,2.0,17.0,,9
+2024,4,Phoenix,short intermediate,4,18,6,Brad Keselowski,Ford,RFK Racing,312,0,running,35.0,14.0,9.0,,2
+2024,4,Phoenix,short intermediate,5,16,12,Ryan Blaney,Ford,Team Penske,312,0,running,41.0,7.0,6.0,,9
+2024,4,Phoenix,short intermediate,6,12,1,Ross Chastain,Chevrolet,Trackhouse Racing,312,0,running,31.0,19.0,15.0,,0
+2024,4,Phoenix,short intermediate,7,11,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,312,55,running,37.0,10.0,5.0,,7
+2024,4,Phoenix,short intermediate,8,9,34,Michael McDowell,Ford,Front Row Motorsports,312,0,running,32.0,8.0,19.0,,3
+2024,4,Phoenix,short intermediate,9,8,14,Chase Briscoe,Ford,Stewart-Haas Racing,312,0,running,30.0,9.0,18.0,,2
+2024,4,Phoenix,short intermediate,10,6,45,Tyler Reddick,Toyota,23XI Racing,312,68,running,46.0,1.0,2.0,,19
+2024,4,Phoenix,short intermediate,11,1,11,Denny Hamlin,Toyota,Joe Gibbs Racing,312,68,running,42.0,3.0,3.0,,16
+2024,4,Phoenix,short intermediate,12,7,10,Noah Gragson,Ford,Stewart-Haas Racing,312,0,running,28.0,12.0,8.0,,3
+2024,4,Phoenix,short intermediate,13,15,99,Daniel Suarez,Chevrolet,Trackhouse Racing,312,0,running,24.0,16.0,11.0,,0
+2024,4,Phoenix,short intermediate,14,17,5,Kyle Larson,Chevrolet,Hendrick Motorsports,312,0,running,23.0,11.0,14.0,,0
+2024,4,Phoenix,short intermediate,15,10,77,Carson Hocevar,Chevrolet,Spire Motorsports,312,0,running,22.0,15.0,25.0,,0
+2024,4,Phoenix,short intermediate,16,22,23,Bubba Wallace,Toyota,23XI Racing,312,0,running,21.0,18.0,16.0,,0
+2024,4,Phoenix,short intermediate,17,29,38,Todd Gilliland,Ford,Front Row Motorsports,312,14,running,20.0,26.0,29.0,,0
+2024,4,Phoenix,short intermediate,18,5,24,William Byron,Chevrolet,Hendrick Motorsports,312,0,running,31.0,6.0,4.0,,12
+2024,4,Phoenix,short intermediate,19,3,9,Chase Elliott,Chevrolet,Hendrick Motorsports,312,0,running,28.0,5.0,7.0,,10
+2024,4,Phoenix,short intermediate,20,25,48,Alex Bowman,Chevrolet,Hendrick Motorsports,312,0,running,17.0,23.0,12.0,,0
+2024,4,Phoenix,short intermediate,21,20,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,312,0,running,16.0,34.0,30.0,,0
+2024,4,Phoenix,short intermediate,22,31,8,Kyle Busch,Chevrolet,Richard Childress Racing,311,0,running,15.0,22.0,24.0,,0
+2024,4,Phoenix,short intermediate,23,27,41,Ryan Preece,Ford,Stewart-Haas Racing,311,0,running,14.0,21.0,20.0,,0
+2024,4,Phoenix,short intermediate,24,33,51,Justin Haley,Ford,Rick Ware Racing,311,0,running,13.0,30.0,26.0,,0
+2024,4,Phoenix,short intermediate,25,19,42,John Hunter Nemechek,Toyota,Legacy Motor Club,311,0,running,12.0,24.0,23.0,,0
+2024,4,Phoenix,short intermediate,26,36,4,Josh Berry,Ford,Stewart-Haas Racing,310,0,running,11.0,20.0,27.0,,0
+2024,4,Phoenix,short intermediate,27,24,21,Harrison Burton,Ford,Wood Brothers Racing,310,0,running,10.0,29.0,28.0,,0
+2024,4,Phoenix,short intermediate,28,21,31,Daniel Hemric,Chevrolet,Kaulig Racing,310,0,running,9.0,28.0,34.0,,0
+2024,4,Phoenix,short intermediate,29,28,71,Zane Smith,Chevrolet,Spire Motorsports,309,0,running,8.0,31.0,32.0,,0
+2024,4,Phoenix,short intermediate,30,32,15,Kaz Grala,Ford,Rick Ware Racing,309,0,running,7.0,33.0,33.0,,0
+2024,4,Phoenix,short intermediate,31,4,43,Erik Jones,Toyota,Legacy Motor Club,305,0,running,13.0,4.0,13.0,,7
+2024,4,Phoenix,short intermediate,32,30,3,Austin Dillon,Chevrolet,Richard Childress Racing,304,0,running,5.0,35.0,35.0,,0
+2024,4,Phoenix,short intermediate,33,35,7,Corey LaJoie,Chevrolet,Spire Motorsports,204,0,accident,4.0,27.0,22.0,,0
+2024,4,Phoenix,short intermediate,34,23,22,Joey Logano,Ford,Team Penske,203,0,accident,3.0,25.0,21.0,,0
+2024,4,Phoenix,short intermediate,35,26,16,Derek Kraus,Chevrolet,Kaulig Racing,203,0,accident,2.0,32.0,31.0,,0
+2024,4,Phoenix,short intermediate,36,34,2,Austin Cindric,Ford,Team Penske,6,0,accident,1.0,36.0,36.0,,0
+2024,5,Bristol,short track,1,3,11,Denny Hamlin,Toyota,Joe Gibbs Racing,500,163,running,44.0,13.0,7.0,,4
+2024,5,Bristol,short track,2,11,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,500,54,running,44.0,7.0,6.0,,9
+2024,5,Bristol,short track,3,17,6,Brad Keselowski,Ford,RFK Racing,500,1,running,50.0,4.0,2.0,,16
+2024,5,Bristol,short track,4,29,48,Alex Bowman,Chevrolet,Hendrick Motorsports,500,3,running,33.0,19.0,16.0,,0
+2024,5,Bristol,short track,5,10,5,Kyle Larson,Chevrolet,Hendrick Motorsports,500,19,running,44.0,2.0,8.0,,12
+2024,5,Bristol,short track,6,26,42,John Hunter Nemechek,Toyota,Legacy Motor Club,499,0,running,44.0,5.0,4.0,,13
+2024,5,Bristol,short track,7,34,17,Chris Buescher,Ford,RFK Racing,499,17,running,38.0,3.0,24.0,,8
+2024,5,Bristol,short track,8,5,9,Chase Elliott,Chevrolet,Hendrick Motorsports,499,5,running,29.0,15.0,22.0,,0
+2024,5,Bristol,short track,9,19,54,Ty Gibbs,Toyota,Joe Gibbs Racing,499,137,running,48.0,1.0,1.0,,20
+2024,5,Bristol,short track,10,12,20,Christopher Bell,Toyota,Joe Gibbs Racing,499,29,running,36.0,8.0,5.0,,9
+2024,5,Bristol,short track,11,7,34,Michael McDowell,Ford,Front Row Motorsports,499,0,running,26.0,22.0,23.0,,0
+2024,5,Bristol,short track,12,2,4,Josh Berry,Ford,Stewart-Haas Racing,499,25,running,26.0,10.0,12.0,,1
+2024,5,Bristol,short track,13,6,14,Chase Briscoe,Ford,Stewart-Haas Racing,498,0,running,24.0,27.0,14.0,,0
+2024,5,Bristol,short track,14,25,41,Ryan Preece,Ford,Stewart-Haas Racing,498,0,running,26.0,9.0,10.0,,3
+2024,5,Bristol,short track,15,36,1,Ross Chastain,Chevrolet,Trackhouse Racing,498,0,running,22.0,23.0,21.0,,0
+2024,5,Bristol,short track,16,1,12,Ryan Blaney,Ford,Team Penske,498,14,running,26.0,6.0,25.0,,5
+2024,5,Bristol,short track,17,32,51,Justin Haley,Ford,Rick Ware Racing,498,0,running,20.0,14.0,20.0,,0
+2024,5,Bristol,short track,18,28,99,Daniel Suarez,Chevrolet,Trackhouse Racing,498,0,running,19.0,17.0,17.0,,0
+2024,5,Bristol,short track,19,33,15,Kaz Grala,Ford,Rick Ware Racing,498,0,running,18.0,18.0,11.0,,0
+2024,5,Bristol,short track,20,15,43,Erik Jones,Toyota,Legacy Motor Club,498,0,running,17.0,20.0,15.0,,0
+2024,5,Bristol,short track,21,18,7,Corey LaJoie,Chevrolet,Spire Motorsports,498,4,running,16.0,25.0,27.0,,0
+2024,5,Bristol,short track,22,4,22,Joey Logano,Ford,Team Penske,498,5,running,23.0,11.0,3.0,,8
+2024,5,Bristol,short track,23,30,16,A.J. Allmendinger,Chevrolet,Kaulig Racing,498,0,running,0.0,26.0,26.0,,0
+2024,5,Bristol,short track,24,31,3,Austin Dillon,Chevrolet,Richard Childress Racing,498,0,running,13.0,33.0,30.0,,0
+2024,5,Bristol,short track,25,14,8,Kyle Busch,Chevrolet,Richard Childress Racing,498,5,running,12.0,28.0,32.0,,0
+2024,5,Bristol,short track,26,24,38,Todd Gilliland,Ford,Front Row Motorsports,497,0,running,11.0,16.0,13.0,,0
+2024,5,Bristol,short track,27,35,77,Carson Hocevar,Chevrolet,Spire Motorsports,497,0,running,10.0,21.0,28.0,,0
+2024,5,Bristol,short track,28,20,31,Daniel Hemric,Chevrolet,Kaulig Racing,496,0,running,9.0,24.0,18.0,,0
+2024,5,Bristol,short track,29,9,23,Bubba Wallace,Toyota,23XI Racing,496,15,running,10.0,29.0,9.0,,2
+2024,5,Bristol,short track,30,23,45,Tyler Reddick,Toyota,23XI Racing,495,4,running,7.0,34.0,33.0,,0
+2024,5,Bristol,short track,31,21,2,Austin Cindric,Ford,Team Penske,495,0,running,6.0,30.0,29.0,,0
+2024,5,Bristol,short track,32,13,21,Harrison Burton,Ford,Wood Brothers Racing,495,0,running,5.0,32.0,19.0,,0
+2024,5,Bristol,short track,33,27,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,495,0,running,4.0,12.0,34.0,,0
+2024,5,Bristol,short track,34,22,10,Noah Gragson,Ford,Stewart-Haas Racing,494,0,running,3.0,31.0,31.0,,0
+2024,5,Bristol,short track,35,8,24,William Byron,Chevrolet,Hendrick Motorsports,492,0,running,2.0,36.0,35.0,,0
+2024,5,Bristol,short track,36,16,71,Zane Smith,Chevrolet,Spire Motorsports,192,0,accident,1.0,35.0,36.0,,0
+2024,6,COTA,road course,1,1,24,William Byron,Chevrolet,Hendrick Motorsports,68,42,running,47.0,7.0,8.0,,7
+2024,6,COTA,road course,2,4,20,Christopher Bell,Toyota,Joe Gibbs Racing,68,9,running,45.0,1.0,20.0,,10
+2024,6,COTA,road course,3,2,54,Ty Gibbs,Toyota,Joe Gibbs Racing,68,1,running,37.0,8.0,11.0,,3
+2024,6,COTA,road course,4,17,48,Alex Bowman,Chevrolet,Hendrick Motorsports,68,0,running,33.0,19.0,14.0,,0
+2024,6,COTA,road course,5,3,45,Tyler Reddick,Toyota,23XI Racing,68,1,running,34.0,9.0,13.0,,2
+2024,6,COTA,road course,6,14,13,A.J. Allmendinger,Chevrolet,Kaulig Racing,68,0,running,0.0,14.0,22.0,,0
+2024,6,COTA,road course,7,6,1,Ross Chastain,Chevrolet,Trackhouse Racing,68,10,running,31.0,10.0,12.0,,1
+2024,6,COTA,road course,8,20,17,Chris Buescher,Ford,RFK Racing,68,0,running,29.0,26.0,18.0,,0
+2024,6,COTA,road course,9,16,8,Kyle Busch,Chevrolet,Richard Childress Racing,68,0,running,28.0,13.0,17.0,,0
+2024,6,COTA,road course,10,7,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,68,2,running,35.0,37.0,3.0,,8
+2024,6,COTA,road course,11,35,22,Joey Logano,Ford,Team Penske,68,0,running,26.0,24.0,24.0,,0
+2024,6,COTA,road course,12,28,12,Ryan Blaney,Ford,Team Penske,68,0,running,34.0,23.0,2.0,,9
+2024,6,COTA,road course,13,32,14,Chase Briscoe,Ford,Stewart-Haas Racing,68,0,running,24.0,35.0,25.0,,0
+2024,6,COTA,road course,14,8,11,Denny Hamlin,Toyota,Joe Gibbs Racing,68,3,running,33.0,16.0,1.0,,10
+2024,6,COTA,road course,15,10,23,Bubba Wallace,Toyota,23XI Racing,68,0,running,22.0,32.0,27.0,,0
+2024,6,COTA,road course,16,9,9,Chase Elliott,Chevrolet,Hendrick Motorsports,68,0,running,21.0,18.0,21.0,,0
+2024,6,COTA,road course,17,15,5,Kyle Larson,Chevrolet,Hendrick Motorsports,68,0,running,20.0,15.0,15.0,,0
+2024,6,COTA,road course,18,11,2,Austin Cindric,Ford,Team Penske,68,0,running,26.0,4.0,28.0,,7
+2024,6,COTA,road course,19,34,71,Zane Smith,Chevrolet,Spire Motorsports,68,0,running,18.0,31.0,26.0,,0
+2024,6,COTA,road course,20,12,16,Shane Van Gisbergen,Chevrolet,Kaulig Racing,68,0,running,0.0,20.0,31.0,,0
+2024,6,COTA,road course,21,22,42,John Hunter Nemechek,Toyota,Legacy Motor Club,68,0,running,20.0,38.0,7.0,,4
+2024,6,COTA,road course,22,18,77,Carson Hocevar,Chevrolet,Spire Motorsports,68,0,running,15.0,22.0,23.0,,0
+2024,6,COTA,road course,23,24,41,Ryan Preece,Ford,Stewart-Haas Racing,68,0,running,20.0,30.0,5.0,,6
+2024,6,COTA,road course,24,5,7,Corey LaJoie,Chevrolet,Spire Motorsports,68,0,running,13.0,27.0,29.0,,0
+2024,6,COTA,road course,25,21,3,Austin Dillon,Chevrolet,Richard Childress Racing,68,0,running,18.0,5.0,16.0,,6
+2024,6,COTA,road course,26,26,38,Todd Gilliland,Ford,Front Row Motorsports,68,0,running,18.0,25.0,4.0,,7
+2024,6,COTA,road course,27,23,15,Kaz Grala,Ford,Rick Ware Racing,68,0,running,10.0,17.0,37.0,,0
+2024,6,COTA,road course,28,30,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,68,0,running,14.0,6.0,34.0,,5
+2024,6,COTA,road course,29,25,50,Kamui Kobayashi,Toyota,23XI Racing,68,0,running,8.0,28.0,36.0,,0
+2024,6,COTA,road course,30,29,21,Harrison Burton,Ford,Wood Brothers Racing,68,0,running,7.0,34.0,32.0,,0
+2024,6,COTA,road course,31,19,99,Daniel Suarez,Chevrolet,Trackhouse Racing,68,0,running,15.0,2.0,35.0,,9
+2024,6,COTA,road course,32,38,43,Erik Jones,Toyota,Legacy Motor Club,68,0,running,5.0,36.0,33.0,,0
+2024,6,COTA,road course,33,36,6,Brad Keselowski,Ford,RFK Racing,68,0,running,9.0,12.0,6.0,,5
+2024,6,COTA,road course,34,39,10,Noah Gragson,Ford,Stewart-Haas Racing,67,0,running,3.0,29.0,30.0,,0
+2024,6,COTA,road course,35,31,4,Josh Berry,Ford,Stewart-Haas Racing,67,0,running,3.0,33.0,10.0,,1
+2024,6,COTA,road course,36,37,66,Timmy Hill,Ford,MBM Motorsports,66,0,running,0.0,39.0,38.0,,0
+2024,6,COTA,road course,37,33,31,Daniel Hemric,Chevrolet,Kaulig Racing,66,0,running,3.0,11.0,9.0,,2
+2024,6,COTA,road course,38,27,34,Michael McDowell,Ford,Front Row Motorsports,51,0,steering,9.0,3.0,39.0,,8
+2024,6,COTA,road course,39,13,51,Justin Haley,Ford,Rick Ware Racing,68,0,running/DQ,1.0,21.0,19.0,,0
+2024,7,Richmond,short track,1,11,11,Denny Hamlin,Toyota,Joe Gibbs Racing,407,17,running,46.0,11.0,5.0,,6
+2024,7,Richmond,short track,2,10,22,Joey Logano,Ford,Team Penske,407,0,running,49.0,5.0,3.0,,14
+2024,7,Richmond,short track,3,1,5,Kyle Larson,Chevrolet,Hendrick Motorsports,407,144,running,51.0,1.0,4.0,,17
+2024,7,Richmond,short track,4,7,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,407,228,running,50.0,4.0,1.0,,17
+2024,7,Richmond,short track,5,2,9,Chase Elliott,Chevrolet,Hendrick Motorsports,407,5,running,36.0,7.0,13.0,,4
+2024,7,Richmond,short track,6,29,20,Christopher Bell,Toyota,Joe Gibbs Racing,407,9,running,36.0,19.0,6.0,,5
+2024,7,Richmond,short track,7,13,24,William Byron,Chevrolet,Hendrick Motorsports,407,0,running,32.0,12.0,9.0,,2
+2024,7,Richmond,short track,8,23,6,Brad Keselowski,Ford,RFK Racing,407,0,running,29.0,20.0,11.0,,0
+2024,7,Richmond,short track,9,14,17,Chris Buescher,Ford,RFK Racing,407,0,running,32.0,13.0,7.0,,4
+2024,7,Richmond,short track,10,19,45,Tyler Reddick,Toyota,23XI Racing,407,0,running,28.0,16.0,10.0,,1
+2024,7,Richmond,short track,11,30,4,Josh Berry,Ford,Stewart-Haas Racing,407,2,running,37.0,9.0,2.0,,11
+2024,7,Richmond,short track,12,17,10,Noah Gragson,Ford,Stewart-Haas Racing,407,0,running,25.0,17.0,12.0,,0
+2024,7,Richmond,short track,13,5,23,Bubba Wallace,Toyota,23XI Racing,407,2,running,36.0,2.0,8.0,,12
+2024,7,Richmond,short track,14,27,43,Erik Jones,Toyota,Legacy Motor Club,407,0,running,23.0,32.0,14.0,,0
+2024,7,Richmond,short track,15,3,1,Ross Chastain,Chevrolet,Trackhouse Racing,407,0,running,25.0,8.0,15.0,,3
+2024,7,Richmond,short track,16,8,54,Ty Gibbs,Toyota,Joe Gibbs Racing,407,0,running,21.0,15.0,18.0,,0
+2024,7,Richmond,short track,17,4,48,Alex Bowman,Chevrolet,Hendrick Motorsports,407,0,running,28.0,3.0,19.0,,8
+2024,7,Richmond,short track,18,32,14,Chase Briscoe,Ford,Stewart-Haas Racing,407,0,running,19.0,29.0,17.0,,0
+2024,7,Richmond,short track,19,12,12,Ryan Blaney,Ford,Team Penske,407,0,running,18.0,26.0,26.0,,0
+2024,7,Richmond,short track,20,15,8,Kyle Busch,Chevrolet,Richard Childress Racing,407,0,running,17.0,27.0,16.0,,0
+2024,7,Richmond,short track,21,6,38,Todd Gilliland,Ford,Front Row Motorsports,407,0,running,21.0,6.0,22.0,,5
+2024,7,Richmond,short track,22,20,99,Daniel Suarez,Chevrolet,Trackhouse Racing,407,0,running,15.0,14.0,20.0,,0
+2024,7,Richmond,short track,23,9,2,Austin Cindric,Ford,Team Penske,406,0,running,14.0,28.0,23.0,,0
+2024,7,Richmond,short track,24,22,3,Austin Dillon,Chevrolet,Richard Childress Racing,406,0,running,13.0,24.0,27.0,,0
+2024,7,Richmond,short track,25,18,42,John Hunter Nemechek,Toyota,Legacy Motor Club,406,0,running,12.0,23.0,24.0,,0
+2024,7,Richmond,short track,26,31,34,Michael McDowell,Ford,Front Row Motorsports,406,0,running,11.0,33.0,31.0,,0
+2024,7,Richmond,short track,27,25,77,Carson Hocevar,Chevrolet,Spire Motorsports,406,0,running,10.0,31.0,29.0,,0
+2024,7,Richmond,short track,28,16,41,Ryan Preece,Ford,Stewart-Haas Racing,406,0,running,10.0,10.0,32.0,,1
+2024,7,Richmond,short track,29,33,16,Ty Dillon,Chevrolet,Kaulig Racing,406,0,running,0.0,35.0,21.0,,0
+2024,7,Richmond,short track,30,34,31,Daniel Hemric,Chevrolet,Kaulig Racing,405,0,running,7.0,34.0,30.0,,0
+2024,7,Richmond,short track,31,35,15,Kaz Grala,Ford,Rick Ware Racing,405,0,running,6.0,25.0,33.0,,0
+2024,7,Richmond,short track,32,36,51,Justin Haley,Ford,Rick Ware Racing,405,0,running,5.0,21.0,36.0,,0
+2024,7,Richmond,short track,33,24,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,405,0,running,4.0,18.0,28.0,,0
+2024,7,Richmond,short track,34,26,21,Harrison Burton,Ford,Wood Brothers Racing,405,0,running,3.0,30.0,35.0,,0
+2024,7,Richmond,short track,35,28,71,Zane Smith,Chevrolet,Spire Motorsports,404,0,running,2.0,22.0,25.0,,0
+2024,7,Richmond,short track,36,21,7,Corey LaJoie,Chevrolet,Spire Motorsports,404,0,running,1.0,36.0,34.0,,0
+2024,8,Martinsville,short track,1,18,24,William Byron,Chevrolet,Hendrick Motorsports,415,88,running,46.0,8.0,8.0,,6
+2024,8,Martinsville,short track,2,1,5,Kyle Larson,Chevrolet,Hendrick Motorsports,415,86,running,53.0,1.0,3.0,,18
+2024,8,Martinsville,short track,3,3,9,Chase Elliott,Chevrolet,Hendrick Motorsports,415,64,running,49.0,3.0,4.0,,15
+2024,8,Martinsville,short track,4,2,23,Bubba Wallace,Toyota,23XI Racing,415,0,running,51.0,2.0,2.0,,18
+2024,8,Martinsville,short track,5,9,12,Ryan Blaney,Ford,Team Penske,415,0,running,32.0,12.0,20.0,,0
+2024,8,Martinsville,short track,6,6,22,Joey Logano,Ford,Team Penske,415,84,running,42.0,6.0,5.0,,11
+2024,8,Martinsville,short track,7,19,45,Tyler Reddick,Toyota,23XI Racing,415,0,running,30.0,17.0,12.0,,0
+2024,8,Martinsville,short track,8,10,48,Alex Bowman,Chevrolet,Hendrick Motorsports,415,0,running,34.0,11.0,6.0,,5
+2024,8,Martinsville,short track,9,22,41,Ryan Preece,Ford,Stewart-Haas Racing,415,0,running,28.0,19.0,14.0,,0
+2024,8,Martinsville,short track,10,5,14,Chase Briscoe,Ford,Stewart-Haas Racing,415,8,running,38.0,4.0,7.0,,11
+2024,8,Martinsville,short track,11,8,11,Denny Hamlin,Toyota,Joe Gibbs Racing,415,66,running,40.0,7.0,1.0,,14
+2024,8,Martinsville,short track,12,17,43,Erik Jones,Toyota,Legacy Motor Club,415,0,running,25.0,20.0,18.0,,0
+2024,8,Martinsville,short track,13,16,38,Todd Gilliland,Ford,Front Row Motorsports,415,0,running,24.0,16.0,19.0,,0
+2024,8,Martinsville,short track,14,12,1,Ross Chastain,Chevrolet,Trackhouse Racing,415,0,running,25.0,13.0,9.0,,2
+2024,8,Martinsville,short track,15,30,17,Chris Buescher,Ford,RFK Racing,414,0,running,22.0,26.0,22.0,,0
+2024,8,Martinsville,short track,16,11,8,Kyle Busch,Chevrolet,Richard Childress Racing,414,0,running,22.0,10.0,13.0,,1
+2024,8,Martinsville,short track,17,25,77,Carson Hocevar,Chevrolet,Spire Motorsports,414,0,running,20.0,24.0,16.0,,0
+2024,8,Martinsville,short track,18,4,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,414,0,running,25.0,5.0,11.0,,6
+2024,8,Martinsville,short track,19,15,54,Ty Gibbs,Toyota,Joe Gibbs Racing,414,0,running,18.0,18.0,17.0,,0
+2024,8,Martinsville,short track,20,26,10,Noah Gragson,Ford,Stewart-Haas Racing,414,0,running,17.0,27.0,26.0,,0
+2024,8,Martinsville,short track,21,35,34,Michael McDowell,Ford,Front Row Motorsports,414,0,running,16.0,30.0,28.0,,0
+2024,8,Martinsville,short track,22,21,99,Daniel Suarez,Chevrolet,Trackhouse Racing,414,13,running,15.0,21.0,21.0,,0
+2024,8,Martinsville,short track,23,14,2,Austin Cindric,Ford,Team Penske,414,6,running,14.0,15.0,15.0,,0
+2024,8,Martinsville,short track,24,13,6,Brad Keselowski,Ford,RFK Racing,414,0,running,13.0,14.0,25.0,,0
+2024,8,Martinsville,short track,25,7,4,Josh Berry,Ford,Stewart-Haas Racing,413,0,running,15.0,9.0,10.0,,3
+2024,8,Martinsville,short track,26,31,15,Kaz Grala,Ford,Rick Ware Racing,413,0,running,11.0,32.0,30.0,,0
+2024,8,Martinsville,short track,27,33,16,Josh Williams,Chevrolet,Kaulig Racing,413,0,running,0.0,34.0,31.0,,0
+2024,8,Martinsville,short track,28,36,31,Daniel Hemric,Chevrolet,Kaulig Racing,413,0,running,9.0,35.0,27.0,,0
+2024,8,Martinsville,short track,29,23,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,413,0,running,8.0,22.0,24.0,,0
+2024,8,Martinsville,short track,30,27,51,Justin Haley,Ford,Rick Ware Racing,413,0,running,7.0,36.0,34.0,,0
+2024,8,Martinsville,short track,31,24,71,Zane Smith,Chevrolet,Spire Motorsports,412,0,running,6.0,25.0,23.0,,0
+2024,8,Martinsville,short track,32,32,7,Corey LaJoie,Chevrolet,Spire Motorsports,412,0,running,5.0,28.0,35.0,,0
+2024,8,Martinsville,short track,33,34,21,Harrison Burton,Ford,Wood Brothers Racing,412,0,running,4.0,33.0,32.0,,0
+2024,8,Martinsville,short track,34,28,3,Austin Dillon,Chevrolet,Richard Childress Racing,412,0,running,3.0,31.0,33.0,,0
+2024,8,Martinsville,short track,35,20,20,Christopher Bell,Toyota,Joe Gibbs Racing,411,0,running,2.0,23.0,36.0,,0
+2024,8,Martinsville,short track,36,29,42,John Hunter Nemechek,Toyota,Legacy Motor Club,396,0,accident,1.0,29.0,29.0,,0
+2024,8,Martinsville,short track,37,37,66,David Starr,Ford,MBM Motorsports,311,0,power steering,0.0,37.0,37.0,,0
+2024,9,Texas,intermediate,1,24,9,Chase Elliott,Chevrolet,Hendrick Motorsports,276,39,running,45.0,7.0,10.0,,5
+2024,9,Texas,intermediate,2,22,6,Brad Keselowski,Ford,RFK Racing,276,0,running,40.0,28.0,6.0,,5
+2024,9,Texas,intermediate,3,6,24,William Byron,Chevrolet,Hendrick Motorsports,276,0,running,36.0,9.0,13.0,,2
+2024,9,Texas,intermediate,4,4,45,Tyler Reddick,Toyota,23XI Racing,276,37,running,40.0,4.0,11.0,,7
+2024,9,Texas,intermediate,5,17,99,Daniel Suarez,Chevrolet,Trackhouse Racing,276,0,running,32.0,32.0,22.0,,0
+2024,9,Texas,intermediate,6,5,14,Chase Briscoe,Ford,Stewart-Haas Racing,276,0,running,43.0,5.0,5.0,,12
+2024,9,Texas,intermediate,7,10,23,Bubba Wallace,Toyota,23XI Racing,276,5,running,40.0,10.0,2.0,,10
+2024,9,Texas,intermediate,8,15,3,Austin Dillon,Chevrolet,Richard Childress Racing,276,0,running,29.0,31.0,25.0,,0
+2024,9,Texas,intermediate,9,35,8,Kyle Busch,Chevrolet,Richard Childress Racing,276,0,running,28.0,33.0,19.0,,0
+2024,9,Texas,intermediate,10,16,77,Carson Hocevar,Chevrolet,Spire Motorsports,276,0,running,27.0,29.0,16.0,,0
+2024,9,Texas,intermediate,11,20,22,Joey Logano,Ford,Team Penske,276,14,running,26.0,19.0,20.0,,0
+2024,9,Texas,intermediate,12,26,41,Ryan Preece,Ford,Stewart-Haas Racing,276,0,running,25.0,24.0,24.0,,0
+2024,9,Texas,intermediate,13,2,54,Ty Gibbs,Toyota,Joe Gibbs Racing,276,5,running,26.0,21.0,9.0,,2
+2024,9,Texas,intermediate,14,9,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,276,0,running,23.0,12.0,21.0,,0
+2024,9,Texas,intermediate,15,19,17,Chris Buescher,Ford,RFK Racing,276,0,running,22.0,17.0,18.0,,0
+2024,9,Texas,intermediate,16,36,16,Ty Dillon,Chevrolet,Kaulig Racing,276,0,running,0.0,37.0,32.0,,0
+2024,9,Texas,intermediate,17,3,20,Christopher Bell,Toyota,Joe Gibbs Racing,276,1,running,29.0,2.0,29.0,,9
+2024,9,Texas,intermediate,18,21,10,Noah Gragson,Ford,Stewart-Haas Racing,276,0,running,19.0,20.0,14.0,,0
+2024,9,Texas,intermediate,19,27,43,Erik Jones,Toyota,Legacy Motor Club,276,0,running,25.0,27.0,4.0,,7
+2024,9,Texas,intermediate,20,38,31,Daniel Hemric,Chevrolet,Kaulig Racing,276,0,running,17.0,15.0,31.0,,0
+2024,9,Texas,intermediate,21,1,5,Kyle Larson,Chevrolet,Hendrick Motorsports,276,77,running,26.0,1.0,33.0,,10
+2024,9,Texas,intermediate,22,23,7,Corey LaJoie,Chevrolet,Spire Motorsports,276,0,running,15.0,30.0,28.0,,0
+2024,9,Texas,intermediate,23,31,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,276,0,running,17.0,23.0,8.0,,3
+2024,9,Texas,intermediate,24,32,51,Justin Haley,Ford,Rick Ware Racing,276,0,running,13.0,35.0,17.0,,0
+2024,9,Texas,intermediate,25,8,2,Austin Cindric,Ford,Team Penske,276,0,running,12.0,14.0,23.0,,0
+2024,9,Texas,intermediate,26,18,71,Zane Smith,Chevrolet,Spire Motorsports,276,0,running,11.0,25.0,15.0,,0
+2024,9,Texas,intermediate,27,33,15,Kaz Grala,Ford,Rick Ware Racing,276,0,running,10.0,38.0,34.0,,0
+2024,9,Texas,intermediate,28,29,21,Harrison Burton,Ford,Wood Brothers Racing,276,7,running,13.0,34.0,7.0,,4
+2024,9,Texas,intermediate,29,37,84,Jimmie Johnson,Toyota,Legacy Motor Club,276,0,running,8.0,36.0,27.0,,0
+2024,9,Texas,intermediate,30,11,11,Denny Hamlin,Toyota,Joe Gibbs Racing,276,37,running,15.0,3.0,12.0,,8
+2024,9,Texas,intermediate,31,28,38,Todd Gilliland,Ford,Front Row Motorsports,276,3,running,6.0,13.0,30.0,,0
+2024,9,Texas,intermediate,32,12,1,Ross Chastain,Chevrolet,Trackhouse Racing,275,33,accident,15.0,11.0,1.0,,10
+2024,9,Texas,intermediate,33,7,12,Ryan Blaney,Ford,Team Penske,268,17,running,17.0,6.0,3.0,,13
+2024,9,Texas,intermediate,34,30,42,John Hunter Nemechek,Toyota,Legacy Motor Club,226,0,accident,3.0,22.0,26.0,,0
+2024,9,Texas,intermediate,35,13,34,Michael McDowell,Ford,Front Row Motorsports,143,0,accident,5.0,8.0,35.0,,3
+2024,9,Texas,intermediate,36,25,4,Josh Berry,Ford,Stewart-Haas Racing,136,0,accident,1.0,26.0,36.0,,0
+2024,9,Texas,intermediate,37,14,48,Alex Bowman,Chevrolet,Hendrick Motorsports,100,0,accident,1.0,18.0,37.0,,0
+2024,9,Texas,intermediate,38,34,33,Austin Hill,Chevrolet,Richard Childress Racing,98,1,power steering,0.0,16.0,38.0,,0
+2024,10,Talladega,superspeedway,1,18,45,Tyler Reddick,Toyota,23XI Racing,188,13,running,47.0,9.0,6.0,,7
+2024,10,Talladega,superspeedway,2,22,6,Brad Keselowski,Ford,RFK Racing,188,2,running,38.0,8.0,23.0,,3
+2024,10,Talladega,superspeedway,3,36,10,Noah Gragson,Ford,Stewart-Haas Racing,188,5,running,34.0,12.0,12.0,,0
+2024,10,Talladega,superspeedway,4,33,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,188,0,running,33.0,27.0,11.0,,0
+2024,10,Talladega,superspeedway,5,12,48,Alex Bowman,Chevrolet,Hendrick Motorsports,188,0,running,33.0,10.0,14.0,,1
+2024,10,Talladega,superspeedway,6,24,62,Anthony Alfredo,Chevrolet,Beard Motorsports,188,4,running,0.0,30.0,36.0,,0
+2024,10,Talladega,superspeedway,7,13,24,William Byron,Chevrolet,Hendrick Motorsports,188,0,running,38.0,3.0,20.0,,8
+2024,10,Talladega,superspeedway,8,3,38,Todd Gilliland,Ford,Front Row Motorsports,188,0,running,29.0,13.0,24.0,,0
+2024,10,Talladega,superspeedway,9,19,31,Daniel Hemric,Chevrolet,Kaulig Racing,188,8,running,28.0,19.0,19.0,,0
+2024,10,Talladega,superspeedway,10,16,21,Harrison Burton,Ford,Wood Brothers Racing,188,0,running,32.0,6.0,28.0,,5
+2024,10,Talladega,superspeedway,11,6,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,188,16,running,26.0,25.0,21.0,,0
+2024,10,Talladega,superspeedway,12,26,14,Chase Briscoe,Ford,Stewart-Haas Racing,188,3,running,25.0,35.0,32.0,,0
+2024,10,Talladega,superspeedway,13,32,1,Ross Chastain,Chevrolet,Trackhouse Racing,188,6,running,30.0,18.0,5.0,,6
+2024,10,Talladega,superspeedway,14,11,41,Ryan Preece,Ford,Stewart-Haas Racing,188,0,running,25.0,26.0,9.0,,2
+2024,10,Talladega,superspeedway,15,9,9,Chase Elliott,Chevrolet,Hendrick Motorsports,188,5,running,34.0,2.0,8.0,,12
+2024,10,Talladega,superspeedway,16,29,4,Josh Berry,Ford,Stewart-Haas Racing,188,3,running,21.0,21.0,18.0,,0
+2024,10,Talladega,superspeedway,17,35,77,Carson Hocevar,Chevrolet,Spire Motorsports,188,1,running,20.0,15.0,25.0,,0
+2024,10,Talladega,superspeedway,18,31,7,Corey LaJoie,Chevrolet,Spire Motorsports,188,0,running,19.0,22.0,33.0,,0
+2024,10,Talladega,superspeedway,19,7,22,Joey Logano,Ford,Team Penske,188,22,running,28.0,32.0,1.0,,10
+2024,10,Talladega,superspeedway,20,21,12,Ryan Blaney,Ford,Team Penske,188,1,running,24.0,4.0,34.0,,7
+2024,10,Talladega,superspeedway,21,38,5,Kyle Larson,Chevrolet,Hendrick Motorsports,188,0,running,24.0,34.0,3.0,,8
+2024,10,Talladega,superspeedway,22,15,54,Ty Gibbs,Toyota,Joe Gibbs Racing,188,1,running,16.0,17.0,10.0,,1
+2024,10,Talladega,superspeedway,23,2,2,Austin Cindric,Ford,Team Penske,188,16,running,33.0,1.0,2.0,,19
+2024,10,Talladega,superspeedway,24,34,15,Cody Ware,Ford,Rick Ware Racing,188,0,running,13.0,24.0,31.0,,0
+2024,10,Talladega,superspeedway,25,8,17,Chris Buescher,Ford,RFK Racing,188,6,running,16.0,16.0,7.0,,4
+2024,10,Talladega,superspeedway,26,25,99,Daniel Suarez,Chevrolet,Trackhouse Racing,188,0,running,11.0,37.0,17.0,,0
+2024,10,Talladega,superspeedway,27,4,8,Kyle Busch,Chevrolet,Richard Childress Racing,188,4,running,16.0,5.0,13.0,,6
+2024,10,Talladega,superspeedway,28,17,16,Shane Van Gisbergen,Chevrolet,Kaulig Racing,188,3,running,0.0,23.0,26.0,,0
+2024,10,Talladega,superspeedway,29,30,71,Zane Smith,Chevrolet,Spire Motorsports,188,0,running,8.0,38.0,37.0,,0
+2024,10,Talladega,superspeedway,30,5,3,Austin Dillon,Chevrolet,Richard Childress Racing,188,0,running,14.0,28.0,4.0,,7
+2024,10,Talladega,superspeedway,31,1,34,Michael McDowell,Ford,Front Row Motorsports,187,36,accident,6.0,14.0,22.0,,0
+2024,10,Talladega,superspeedway,32,37,78,B.J. McLeod,Chevrolet,Live Fast Motorsports,187,5,running,0.0,36.0,38.0,,0
+2024,10,Talladega,superspeedway,33,20,42,John Hunter Nemechek,Toyota,Legacy Motor Club,184,20,running,4.0,31.0,29.0,,0
+2024,10,Talladega,superspeedway,34,27,51,Justin Haley,Ford,Rick Ware Racing,184,4,running,3.0,29.0,27.0,,0
+2024,10,Talladega,superspeedway,35,28,43,Erik Jones,Toyota,Legacy Motor Club,154,0,accident,2.0,20.0,15.0,,0
+2024,10,Talladega,superspeedway,36,14,23,Bubba Wallace,Toyota,23XI Racing,154,0,accident,1.0,11.0,16.0,,0
+2024,10,Talladega,superspeedway,37,23,11,Denny Hamlin,Toyota,Joe Gibbs Racing,154,4,accident,1.0,33.0,30.0,,0
+2024,10,Talladega,superspeedway,38,10,20,Christopher Bell,Toyota,Joe Gibbs Racing,132,0,accident,5.0,7.0,35.0,,4
+2024,11,Dover,short intermediate,1,6,11,Denny Hamlin,Toyota,Joe Gibbs Racing,400,136,running,53.0,6.0,3.0,,13
+2024,11,Dover,short intermediate,2,21,5,Kyle Larson,Chevrolet,Hendrick Motorsports,400,39,running,51.0,5.0,1.0,,16
+2024,11,Dover,short intermediate,3,15,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,400,69,running,51.0,1.0,4.0,,17
+2024,11,Dover,short intermediate,4,1,8,Kyle Busch,Chevrolet,Richard Childress Racing,400,34,running,42.0,7.0,6.0,,9
+2024,11,Dover,short intermediate,5,29,9,Chase Elliott,Chevrolet,Hendrick Motorsports,400,0,running,40.0,9.0,5.0,,8
+2024,11,Dover,short intermediate,6,5,10,Noah Gragson,Ford,Stewart-Haas Racing,400,0,running,31.0,12.0,19.0,,0
+2024,11,Dover,short intermediate,7,2,12,Ryan Blaney,Ford,Team Penske,400,47,running,40.0,4.0,8.0,,10
+2024,11,Dover,short intermediate,8,9,48,Alex Bowman,Chevrolet,Hendrick Motorsports,400,0,running,41.0,8.0,2.0,,12
+2024,11,Dover,short intermediate,9,14,31,Daniel Hemric,Chevrolet,Kaulig Racing,400,5,running,28.0,22.0,22.0,,0
+2024,11,Dover,short intermediate,10,19,54,Ty Gibbs,Toyota,Joe Gibbs Racing,400,0,running,27.0,17.0,11.0,,0
+2024,11,Dover,short intermediate,11,4,45,Tyler Reddick,Toyota,23XI Racing,400,0,running,38.0,3.0,7.0,,12
+2024,11,Dover,short intermediate,12,22,1,Ross Chastain,Chevrolet,Trackhouse Racing,400,0,running,25.0,16.0,16.0,,0
+2024,11,Dover,short intermediate,13,10,16,A.J. Allmendinger,Chevrolet,Kaulig Racing,400,0,running,0.0,11.0,12.0,,0
+2024,11,Dover,short intermediate,14,12,4,Josh Berry,Ford,Stewart-Haas Racing,400,0,running,23.0,18.0,15.0,,0
+2024,11,Dover,short intermediate,15,11,2,Austin Cindric,Ford,Team Penske,400,0,running,22.0,20.0,20.0,,0
+2024,11,Dover,short intermediate,16,13,22,Joey Logano,Ford,Team Penske,400,0,running,21.0,21.0,18.0,,0
+2024,11,Dover,short intermediate,17,18,17,Chris Buescher,Ford,RFK Racing,400,0,running,20.0,15.0,14.0,,0
+2024,11,Dover,short intermediate,18,31,99,Daniel Suarez,Chevrolet,Trackhouse Racing,399,0,running,19.0,28.0,25.0,,0
+2024,11,Dover,short intermediate,19,7,14,Chase Briscoe,Ford,Stewart-Haas Racing,399,0,running,18.0,24.0,21.0,,0
+2024,11,Dover,short intermediate,20,34,42,John Hunter Nemechek,Toyota,Legacy Motor Club,398,0,running,17.0,27.0,24.0,,0
+2024,11,Dover,short intermediate,21,25,7,Corey LaJoie,Chevrolet,Spire Motorsports,398,33,running,16.0,23.0,26.0,,0
+2024,11,Dover,short intermediate,22,20,77,Carson Hocevar,Chevrolet,Spire Motorsports,397,0,running,15.0,26.0,28.0,,0
+2024,11,Dover,short intermediate,23,36,51,Justin Haley,Ford,Rick Ware Racing,397,0,running,14.0,31.0,27.0,,0
+2024,11,Dover,short intermediate,24,37,71,Zane Smith,Chevrolet,Spire Motorsports,397,0,running,13.0,33.0,31.0,,0
+2024,11,Dover,short intermediate,25,32,43,Corey Heim,Toyota,Legacy Motor Club,397,0,running,0.0,25.0,23.0,,0
+2024,11,Dover,short intermediate,26,26,21,Harrison Burton,Ford,Wood Brothers Racing,397,0,running,11.0,29.0,29.0,,0
+2024,11,Dover,short intermediate,27,23,3,Austin Dillon,Chevrolet,Richard Childress Racing,396,0,running,10.0,35.0,33.0,,0
+2024,11,Dover,short intermediate,28,27,84,Jimmie Johnson,Toyota,Legacy Motor Club,395,0,running,9.0,32.0,32.0,,0
+2024,11,Dover,short intermediate,29,35,15,Kaz Grala,Ford,Rick Ware Racing,394,0,running,8.0,34.0,35.0,,0
+2024,11,Dover,short intermediate,30,24,6,Brad Keselowski,Ford,RFK Racing,383,0,running,7.0,13.0,34.0,,0
+2024,11,Dover,short intermediate,31,30,38,Todd Gilliland,Ford,Front Row Motorsports,379,0,running,6.0,36.0,36.0,,0
+2024,11,Dover,short intermediate,32,16,23,Bubba Wallace,Toyota,23XI Racing,329,1,accident,6.0,14.0,10.0,,1
+2024,11,Dover,short intermediate,33,3,24,William Byron,Chevrolet,Hendrick Motorsports,329,36,accident,13.0,2.0,17.0,,9
+2024,11,Dover,short intermediate,34,33,20,Christopher Bell,Toyota,Joe Gibbs Racing,328,0,accident,3.0,19.0,13.0,,0
+2024,11,Dover,short intermediate,35,17,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,320,0,accident,5.0,10.0,9.0,,3
+2024,11,Dover,short intermediate,36,8,34,Michael McDowell,Ford,Front Row Motorsports,285,0,hub,1.0,30.0,30.0,,0
+2024,11,Dover,short intermediate,37,28,41,Ryan Preece,Ford,Stewart-Haas Racing,66,0,fire,1.0,37.0,37.0,,0
+2024,12,Kansas,intermediate,1,4,5,Kyle Larson,Chevrolet,Hendrick Motorsports,268,64,running,57.0,3.0,2.0,,17
+2024,12,Kansas,intermediate,2,12,17,Chris Buescher,Ford,RFK Racing,268,53,running,51.0,5.0,1.0,,16
+2024,12,Kansas,intermediate,3,9,9,Chase Elliott,Chevrolet,Hendrick Motorsports,268,0,running,35.0,10.0,11.0,,1
+2024,12,Kansas,intermediate,4,13,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,268,0,running,43.0,7.0,5.0,,10
+2024,12,Kansas,intermediate,5,14,11,Denny Hamlin,Toyota,Joe Gibbs Racing,268,71,running,50.0,1.0,3.0,,18
+2024,12,Kansas,intermediate,6,1,20,Christopher Bell,Toyota,Joe Gibbs Racing,268,5,running,38.0,4.0,12.0,,7
+2024,12,Kansas,intermediate,7,18,48,Alex Bowman,Chevrolet,Hendrick Motorsports,268,0,running,34.0,17.0,7.0,,4
+2024,12,Kansas,intermediate,8,5,8,Kyle Busch,Chevrolet,Richard Childress Racing,268,14,running,39.0,8.0,4.0,,10
+2024,12,Kansas,intermediate,9,3,10,Noah Gragson,Ford,Stewart-Haas Racing,268,0,running,31.0,9.0,10.0,,3
+2024,12,Kansas,intermediate,10,8,34,Michael McDowell,Ford,Front Row Motorsports,268,0,running,27.0,11.0,15.0,,0
+2024,12,Kansas,intermediate,11,30,6,Brad Keselowski,Ford,RFK Racing,268,1,running,26.0,14.0,13.0,,0
+2024,12,Kansas,intermediate,12,26,12,Ryan Blaney,Ford,Team Penske,268,0,running,25.0,16.0,18.0,,0
+2024,12,Kansas,intermediate,13,29,42,John Hunter Nemechek,Toyota,Legacy Motor Club,268,0,running,24.0,20.0,32.0,,0
+2024,12,Kansas,intermediate,14,25,38,Todd Gilliland,Ford,Front Row Motorsports,268,4,running,23.0,24.0,23.0,,0
+2024,12,Kansas,intermediate,15,17,4,Josh Berry,Ford,Stewart-Haas Racing,268,0,running,22.0,31.0,28.0,,0
+2024,12,Kansas,intermediate,16,21,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,268,0,running,21.0,22.0,20.0,,0
+2024,12,Kansas,intermediate,17,23,23,Bubba Wallace,Toyota,23XI Racing,268,0,running,20.0,18.0,17.0,,0
+2024,12,Kansas,intermediate,18,35,51,Justin Haley,Ford,Rick Ware Racing,268,0,running,19.0,26.0,26.0,,0
+2024,12,Kansas,intermediate,19,2,1,Ross Chastain,Chevrolet,Trackhouse Racing,268,43,running,29.0,2.0,9.0,,11
+2024,12,Kansas,intermediate,20,15,45,Tyler Reddick,Toyota,23XI Racing,268,7,running,20.0,15.0,8.0,,3
+2024,12,Kansas,intermediate,21,10,14,Chase Briscoe,Ford,Stewart-Haas Racing,268,0,running,16.0,33.0,30.0,,0
+2024,12,Kansas,intermediate,22,20,43,Corey Heim,Toyota,Legacy Motor Club,268,0,running,0.0,38.0,35.0,,0
+2024,12,Kansas,intermediate,23,36,24,William Byron,Chevrolet,Hendrick Motorsports,268,0,running,14.0,13.0,14.0,,0
+2024,12,Kansas,intermediate,24,22,77,Carson Hocevar,Chevrolet,Spire Motorsports,268,0,running,13.0,19.0,19.0,,0
+2024,12,Kansas,intermediate,25,16,3,Austin Dillon,Chevrolet,Richard Childress Racing,268,0,running,12.0,23.0,22.0,,0
+2024,12,Kansas,intermediate,26,28,7,Corey LaJoie,Chevrolet,Spire Motorsports,268,0,running,11.0,29.0,27.0,,0
+2024,12,Kansas,intermediate,27,27,99,Daniel Suarez,Chevrolet,Trackhouse Racing,268,0,running,10.0,27.0,31.0,,0
+2024,12,Kansas,intermediate,28,32,41,Ryan Preece,Ford,Stewart-Haas Racing,268,0,running,9.0,34.0,29.0,,0
+2024,12,Kansas,intermediate,29,24,71,Zane Smith,Chevrolet,Spire Motorsports,268,0,running,8.0,25.0,24.0,,0
+2024,12,Kansas,intermediate,30,33,31,Daniel Hemric,Chevrolet,Kaulig Racing,268,0,running,7.0,28.0,33.0,,0
+2024,12,Kansas,intermediate,31,38,16,Derek Kraus,Chevrolet,Kaulig Racing,268,6,running,6.0,37.0,38.0,,0
+2024,12,Kansas,intermediate,32,6,54,Ty Gibbs,Toyota,Joe Gibbs Racing,267,0,running,15.0,6.0,6.0,,10
+2024,12,Kansas,intermediate,33,34,33,Austin Hill,Chevrolet,Richard Childress Racing,267,0,running,0.0,32.0,34.0,,0
+2024,12,Kansas,intermediate,34,11,22,Joey Logano,Ford,Team Penske,266,0,running,3.0,21.0,21.0,,0
+2024,12,Kansas,intermediate,35,37,15,Riley Herbst,Ford,Rick Ware Racing,266,0,running,0.0,36.0,37.0,,0
+2024,12,Kansas,intermediate,36,31,21,Harrison Burton,Ford,Wood Brothers Racing,262,0,running,1.0,35.0,36.0,,0
+2024,12,Kansas,intermediate,37,7,2,Austin Cindric,Ford,Team Penske,184,0,accident,1.0,12.0,16.0,,0
+2024,12,Kansas,intermediate,38,19,84,Jimmie Johnson,Toyota,Legacy Motor Club,175,0,accident,1.0,30.0,25.0,,0
+2024,13,Darlington,short intermediate,1,2,6,Brad Keselowski,Ford,RFK Racing,293,37,running,57.0,3.0,2.0,,17
+2024,13,Darlington,short intermediate,2,4,54,Ty Gibbs,Toyota,Joe Gibbs Racing,293,34,running,52.0,2.0,3.0,,17
+2024,13,Darlington,short intermediate,3,33,4,Josh Berry,Ford,Stewart-Haas Racing,293,0,running,34.0,17.0,12.0,,0
+2024,13,Darlington,short intermediate,4,7,11,Denny Hamlin,Toyota,Joe Gibbs Racing,293,1,running,36.0,12.0,8.0,,3
+2024,13,Darlington,short intermediate,5,13,14,Chase Briscoe,Ford,Stewart-Haas Racing,293,0,running,32.0,14.0,11.0,,0
+2024,13,Darlington,short intermediate,6,5,24,William Byron,Chevrolet,Hendrick Motorsports,293,2,running,38.0,9.0,6.0,,7
+2024,13,Darlington,short intermediate,7,8,23,Bubba Wallace,Toyota,23XI Racing,293,6,running,33.0,10.0,9.0,,3
+2024,13,Darlington,short intermediate,8,18,48,Alex Bowman,Chevrolet,Hendrick Motorsports,293,0,running,29.0,16.0,19.0,,0
+2024,13,Darlington,short intermediate,9,28,51,Justin Haley,Ford,Rick Ware Racing,293,0,running,28.0,25.0,14.0,,0
+2024,13,Darlington,short intermediate,10,16,34,Michael McDowell,Ford,Front Row Motorsports,293,0,running,27.0,19.0,18.0,,0
+2024,13,Darlington,short intermediate,11,9,1,Ross Chastain,Chevrolet,Trackhouse Racing,293,0,running,27.0,15.0,10.0,,1
+2024,13,Darlington,short intermediate,12,31,9,Chase Elliott,Chevrolet,Hendrick Motorsports,293,0,running,25.0,26.0,16.0,,0
+2024,13,Darlington,short intermediate,13,12,20,Christopher Bell,Toyota,Joe Gibbs Racing,293,0,running,24.0,13.0,25.0,,0
+2024,13,Darlington,short intermediate,14,36,10,Noah Gragson,Ford,Stewart-Haas Racing,293,0,running,0.0,24.0,15.0,,0
+2024,13,Darlington,short intermediate,15,15,38,Todd Gilliland,Ford,Front Row Motorsports,293,0,running,27.0,6.0,13.0,,5
+2024,13,Darlington,short intermediate,16,24,7,Corey LaJoie,Chevrolet,Spire Motorsports,293,0,running,21.0,21.0,21.0,,0
+2024,13,Darlington,short intermediate,17,26,41,Ryan Preece,Ford,Stewart-Haas Racing,293,0,running,20.0,31.0,20.0,,0
+2024,13,Darlington,short intermediate,18,34,15,Kaz Grala,Ford,Rick Ware Racing,293,0,running,19.0,34.0,32.0,,0
+2024,13,Darlington,short intermediate,19,30,43,Erik Jones,Toyota,Legacy Motor Club,293,0,running,18.0,23.0,26.0,,0
+2024,13,Darlington,short intermediate,20,25,2,Austin Cindric,Ford,Team Penske,293,0,running,17.0,18.0,17.0,,0
+2024,13,Darlington,short intermediate,21,14,22,Joey Logano,Ford,Team Penske,293,0,running,23.0,11.0,4.0,,7
+2024,13,Darlington,short intermediate,22,35,21,Harrison Burton,Ford,Wood Brothers Racing,293,0,running,15.0,32.0,24.0,,0
+2024,13,Darlington,short intermediate,23,20,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,293,0,running,14.0,29.0,31.0,,0
+2024,13,Darlington,short intermediate,24,19,99,Daniel Suarez,Chevrolet,Trackhouse Racing,293,0,running,13.0,35.0,33.0,,0
+2024,13,Darlington,short intermediate,25,10,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,293,0,running,18.0,5.0,22.0,,6
+2024,13,Darlington,short intermediate,26,21,77,Carson Hocevar,Chevrolet,Spire Motorsports,293,2,running,11.0,27.0,27.0,,0
+2024,13,Darlington,short intermediate,27,11,8,Kyle Busch,Chevrolet,Richard Childress Racing,293,0,running,10.0,22.0,23.0,,0
+2024,13,Darlington,short intermediate,28,23,3,Austin Dillon,Chevrolet,Richard Childress Racing,293,0,running,9.0,28.0,28.0,,0
+2024,13,Darlington,short intermediate,29,32,16,Derek Kraus,Chevrolet,Kaulig Racing,292,0,running,8.0,36.0,30.0,,0
+2024,13,Darlington,short intermediate,30,3,17,Chris Buescher,Ford,RFK Racing,291,21,running,15.0,7.0,7.0,,8
+2024,13,Darlington,short intermediate,31,22,42,John Hunter Nemechek,Toyota,Legacy Motor Club,291,0,running,6.0,20.0,34.0,,0
+2024,13,Darlington,short intermediate,32,1,45,Tyler Reddick,Toyota,23XI Racing,291,174,running,22.0,4.0,1.0,,17
+2024,13,Darlington,short intermediate,33,29,31,Daniel Hemric,Chevrolet,Kaulig Racing,290,0,running,4.0,30.0,29.0,,0
+2024,13,Darlington,short intermediate,34,6,5,Kyle Larson,Chevrolet,Hendrick Motorsports,252,15,accident,19.0,1.0,5.0,,16
+2024,13,Darlington,short intermediate,35,27,71,Zane Smith,Chevrolet,Spire Motorsports,161,0,accident,2.0,33.0,35.0,,0
+2024,13,Darlington,short intermediate,36,17,12,Ryan Blaney,Ford,Team Penske,129,1,dvp,4.0,8.0,36.0,,3
+2024,14,Charlotte,intermediate,1,3,20,Christopher Bell,Toyota,Joe Gibbs Racing,249,90,running,67.0,4.0,1.0,1.0,27
+2024,14,Charlotte,intermediate,2,30,6,Brad Keselowski,Ford,RFK Racing,249,1,running,53.0,8.0,5.0,2.0,18
+2024,14,Charlotte,intermediate,3,2,24,William Byron,Chevrolet,Hendrick Motorsports,249,49,running,61.0,1.0,2.0,3.0,27
+2024,14,Charlotte,intermediate,4,8,45,Tyler Reddick,Toyota,23XI Racing,249,0,running,41.0,29.0,10.0,4.0,8
+2024,14,Charlotte,intermediate,5,11,11,Denny Hamlin,Toyota,Joe Gibbs Racing,249,0,running,45.0,25.0,4.0,5.0,13
+2024,14,Charlotte,intermediate,6,1,54,Ty Gibbs,Toyota,Joe Gibbs Racing,249,74,running,45.0,2.0,13.0,6.0,14
+2024,14,Charlotte,intermediate,7,5,9,Chase Elliott,Chevrolet,Hendrick Motorsports,249,2,running,38.0,11.0,7.0,7.0,8
+2024,14,Charlotte,intermediate,8,7,1,Ross Chastain,Chevrolet,Trackhouse Racing,249,10,running,34.0,13.0,9.0,8.0,5
+2024,14,Charlotte,intermediate,9,6,48,Alex Bowman,Chevrolet,Hendrick Motorsports,249,0,running,43.0,3.0,6.0,9.0,15
+2024,14,Charlotte,intermediate,10,13,4,Josh Berry,Ford,Stewart-Haas Racing,249,7,running,33.0,9.0,8.0,10.0,6
+2024,14,Charlotte,intermediate,11,12,23,Bubba Wallace,Toyota,23XI Racing,249,0,running,39.0,6.0,3.0,11.0,13
+2024,14,Charlotte,intermediate,12,4,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,249,8,running,31.0,5.0,12.0,12.0,6
+2024,14,Charlotte,intermediate,13,10,5,Justin Allgaier,Chevrolet,Hendrick Motorsports,249,0,running,0.0,26.0,23.0,13.0,0
+2024,14,Charlotte,intermediate,14,28,22,Joey Logano,Ford,Team Penske,249,0,running,23.0,18.0,19.0,14.0,0
+2024,14,Charlotte,intermediate,15,15,8,Kyle Busch,Chevrolet,Richard Childress Racing,249,0,running,22.0,32.0,15.0,15.0,0
+2024,14,Charlotte,intermediate,16,9,34,Michael McDowell,Ford,Front Row Motorsports,249,6,running,22.0,10.0,16.0,16.0,1
+2024,14,Charlotte,intermediate,17,35,38,Todd Gilliland,Ford,Front Row Motorsports,249,0,running,20.0,30.0,24.0,17.0,0
+2024,14,Charlotte,intermediate,18,24,31,Daniel Hemric,Chevrolet,Kaulig Racing,249,0,running,19.0,20.0,17.0,18.0,0
+2024,14,Charlotte,intermediate,19,34,43,Erik Jones,Toyota,Legacy Motor Club,249,0,running,18.0,22.0,18.0,19.0,0
+2024,14,Charlotte,intermediate,20,17,2,Austin Cindric,Ford,Team Penske,249,0,running,17.0,16.0,26.0,20.0,0
+2024,14,Charlotte,intermediate,21,20,77,Carson Hocevar,Chevrolet,Spire Motorsports,249,0,running,16.0,21.0,32.0,21.0,0
+2024,14,Charlotte,intermediate,22,22,51,Justin Haley,Ford,Rick Ware Racing,249,0,running,15.0,14.0,20.0,22.0,0
+2024,14,Charlotte,intermediate,23,39,17,Chris Buescher,Ford,RFK Racing,249,0,running,14.0,15.0,11.0,23.0,0
+2024,14,Charlotte,intermediate,24,14,99,Daniel Suarez,Chevrolet,Trackhouse Racing,249,0,running,13.0,12.0,14.0,24.0,0
+2024,14,Charlotte,intermediate,25,18,14,Chase Briscoe,Ford,Stewart-Haas Racing,249,0,running,12.0,19.0,21.0,25.0,0
+2024,14,Charlotte,intermediate,26,31,41,Ryan Preece,Ford,Stewart-Haas Racing,249,0,running,11.0,34.0,30.0,26.0,0
+2024,14,Charlotte,intermediate,27,27,3,Austin Dillon,Chevrolet,Richard Childress Racing,249,0,running,10.0,23.0,28.0,27.0,0
+2024,14,Charlotte,intermediate,28,36,16,Shane Van Gisbergen,Chevrolet,Kaulig Racing,249,2,running,0.0,31.0,27.0,28.0,0
+2024,14,Charlotte,intermediate,29,29,84,Jimmie Johnson,Toyota,Legacy Motor Club,249,0,running,8.0,27.0,33.0,29.0,0
+2024,14,Charlotte,intermediate,30,26,42,John Hunter Nemechek,Toyota,Legacy Motor Club,249,0,running,7.0,24.0,22.0,30.0,0
+2024,14,Charlotte,intermediate,31,23,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,249,0,running,6.0,33.0,25.0,31.0,0
+2024,14,Charlotte,intermediate,32,32,21,Harrison Burton,Ford,Wood Brothers Racing,249,0,running,5.0,28.0,29.0,32.0,0
+2024,14,Charlotte,intermediate,33,25,71,Zane Smith,Chevrolet,Spire Motorsports,249,0,running,4.0,35.0,31.0,33.0,0
+2024,14,Charlotte,intermediate,34,33,15,Kaz Grala,Ford,Rick Ware Racing,249,0,running,3.0,36.0,34.0,34.0,0
+2024,14,Charlotte,intermediate,35,21,7,Corey LaJoie,Chevrolet,Spire Motorsports,249,0,running,2.0,38.0,35.0,35.0,0
+2024,14,Charlotte,intermediate,36,38,50,Ty Dillon,Chevrolet,Team AmeriVet,247,0,running,0.0,39.0,36.0,36.0,0
+2024,14,Charlotte,intermediate,37,37,66,B.J. McLeod,Ford,MBM Motorsports,241,0,running,0.0,40.0,37.0,37.0,0
+2024,14,Charlotte,intermediate,38,19,10,Noah Gragson,Ford,Stewart-Haas Racing,170,0,accident,1.0,17.0,38.0,38.0,0
+2024,14,Charlotte,intermediate,39,16,12,Ryan Blaney,Ford,Team Penske,143,0,accident,5.0,7.0,39.0,39.0,4
+2024,14,Charlotte,intermediate,40,40,44,J.J. Yeley,Chevrolet,NY Racing Team,114,0,steering,0.0,37.0,40.0,40.0,0
+2024,15,Gateway,short intermediate,1,2,2,Austin Cindric,Ford,Team Penske,240,53,running,56.0,4.0,2.0,,16
+2024,15,Gateway,short intermediate,2,6,11,Denny Hamlin,Toyota,Joe Gibbs Racing,240,0,running,42.0,5.0,10.0,,7
+2024,15,Gateway,short intermediate,3,7,6,Brad Keselowski,Ford,RFK Racing,240,17,running,40.0,26.0,5.0,,6
+2024,15,Gateway,short intermediate,4,5,45,Tyler Reddick,Toyota,23XI Racing,240,0,running,36.0,8.0,20.0,,3
+2024,15,Gateway,short intermediate,5,12,22,Joey Logano,Ford,Team Penske,240,1,running,39.0,9.0,6.0,,7
+2024,15,Gateway,short intermediate,6,18,3,Austin Dillon,Chevrolet,Richard Childress Racing,240,0,running,33.0,28.0,9.0,,2
+2024,15,Gateway,short intermediate,7,4,20,Christopher Bell,Toyota,Joe Gibbs Racing,240,80,running,50.0,1.0,1.0,,20
+2024,15,Gateway,short intermediate,8,20,77,Carson Hocevar,Chevrolet,Spire Motorsports,240,0,running,32.0,20.0,8.0,,3
+2024,15,Gateway,short intermediate,9,21,51,Justin Haley,Ford,Rick Ware Racing,240,0,running,28.0,21.0,26.0,,0
+2024,15,Gateway,short intermediate,10,13,5,Kyle Larson,Chevrolet,Hendrick Motorsports,240,7,running,27.0,11.0,15.0,,0
+2024,15,Gateway,short intermediate,11,9,54,Ty Gibbs,Toyota,Joe Gibbs Racing,240,0,running,30.0,7.0,13.0,,4
+2024,15,Gateway,short intermediate,12,16,1,Ross Chastain,Chevrolet,Trackhouse Racing,240,0,running,25.0,14.0,22.0,,0
+2024,15,Gateway,short intermediate,13,17,9,Chase Elliott,Chevrolet,Hendrick Motorsports,240,0,running,32.0,10.0,4.0,,8
+2024,15,Gateway,short intermediate,14,26,17,Chris Buescher,Ford,RFK Racing,240,0,running,23.0,29.0,25.0,,0
+2024,15,Gateway,short intermediate,15,11,24,William Byron,Chevrolet,Hendrick Motorsports,240,0,running,27.0,6.0,19.0,,5
+2024,15,Gateway,short intermediate,16,35,38,Todd Gilliland,Ford,Front Row Motorsports,240,6,running,21.0,16.0,32.0,,0
+2024,15,Gateway,short intermediate,17,23,14,Chase Briscoe,Ford,Stewart-Haas Racing,240,0,running,24.0,23.0,7.0,,4
+2024,15,Gateway,short intermediate,18,28,31,Daniel Hemric,Chevrolet,Kaulig Racing,240,0,running,19.0,35.0,12.0,,0
+2024,15,Gateway,short intermediate,19,36,71,Zane Smith,Chevrolet,Spire Motorsports,240,0,running,18.0,25.0,16.0,,0
+2024,15,Gateway,short intermediate,20,24,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,240,0,running,17.0,31.0,21.0,,0
+2024,15,Gateway,short intermediate,21,8,23,Bubba Wallace,Toyota,23XI Racing,240,0,running,16.0,12.0,23.0,,0
+2024,15,Gateway,short intermediate,22,27,10,Noah Gragson,Ford,Stewart-Haas Racing,240,0,running,15.0,27.0,17.0,,0
+2024,15,Gateway,short intermediate,23,31,99,Daniel Suarez,Chevrolet,Trackhouse Racing,240,0,running,14.0,30.0,27.0,,0
+2024,15,Gateway,short intermediate,24,3,12,Ryan Blaney,Ford,Team Penske,240,20,running,29.0,3.0,3.0,,16
+2024,15,Gateway,short intermediate,25,1,34,Michael McDowell,Ford,Front Row Motorsports,239,40,running,21.0,2.0,28.0,,9
+2024,15,Gateway,short intermediate,26,22,43,Erik Jones,Toyota,Legacy Motor Club,239,0,running,11.0,19.0,29.0,,0
+2024,15,Gateway,short intermediate,27,33,42,John Hunter Nemechek,Toyota,Legacy Motor Club,239,0,running,10.0,24.0,31.0,,0
+2024,15,Gateway,short intermediate,28,14,48,Alex Bowman,Chevrolet,Hendrick Motorsports,239,0,running,9.0,13.0,30.0,,0
+2024,15,Gateway,short intermediate,29,32,41,Ryan Preece,Ford,Stewart-Haas Racing,239,0,running,8.0,15.0,24.0,,0
+2024,15,Gateway,short intermediate,30,25,16,Derek Kraus,Chevrolet,Kaulig Racing,239,0,running,7.0,34.0,33.0,,0
+2024,15,Gateway,short intermediate,31,30,21,Harrison Burton,Ford,Wood Brothers Racing,239,0,running,6.0,32.0,11.0,,0
+2024,15,Gateway,short intermediate,32,15,7,Corey LaJoie,Chevrolet,Spire Motorsports,239,0,running,5.0,33.0,18.0,,0
+2024,15,Gateway,short intermediate,33,34,15,Cody Ware,Ford,Rick Ware Racing,238,0,running,4.0,36.0,34.0,,0
+2024,15,Gateway,short intermediate,34,19,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,237,1,running,3.0,17.0,35.0,,0
+2024,15,Gateway,short intermediate,35,10,8,Kyle Busch,Chevrolet,Richard Childress Racing,139,15,accident,2.0,18.0,14.0,,0
+2024,15,Gateway,short intermediate,36,29,4,Josh Berry,Ford,Stewart-Haas Racing,109,0,accident,1.0,22.0,36.0,,0
+2024,16,Sonoma,road course,1,5,5,Kyle Larson,Chevrolet,Hendrick Motorsports,110,19,running,48.0,3.0,25.0,,8
+2024,16,Sonoma,road course,2,12,34,Michael McDowell,Ford,Front Row Motorsports,110,0,running,40.0,6.0,16.0,,5
+2024,16,Sonoma,road course,3,26,17,Chris Buescher,Ford,RFK Racing,110,32,running,44.0,28.0,1.0,,10
+2024,16,Sonoma,road course,4,4,9,Chase Elliott,Chevrolet,Hendrick Motorsports,110,3,running,40.0,4.0,31.0,,7
+2024,16,Sonoma,road course,5,9,1,Ross Chastain,Chevrolet,Trackhouse Racing,110,0,running,36.0,7.0,26.0,,4
+2024,16,Sonoma,road course,6,11,16,A.J. Allmendinger,Chevrolet,Kaulig Racing,110,3,running,0.0,15.0,5.0,,0
+2024,16,Sonoma,road course,7,3,12,Ryan Blaney,Ford,Team Penske,110,1,running,39.0,2.0,30.0,,9
+2024,16,Sonoma,road course,8,2,45,Tyler Reddick,Toyota,23XI Racing,110,35,running,39.0,1.0,29.0,,10
+2024,16,Sonoma,road course,9,15,20,Christopher Bell,Toyota,Joe Gibbs Racing,110,0,running,28.0,25.0,15.0,,0
+2024,16,Sonoma,road course,10,14,38,Todd Gilliland,Ford,Front Row Motorsports,110,0,running,31.0,10.0,8.0,,4
+2024,16,Sonoma,road course,11,17,7,Corey LaJoie,Chevrolet,Spire Motorsports,110,0,running,28.0,9.0,18.0,,2
+2024,16,Sonoma,road course,12,29,8,Kyle Busch,Chevrolet,Richard Childress Racing,110,1,running,32.0,18.0,4.0,,7
+2024,16,Sonoma,road course,13,35,6,Brad Keselowski,Ford,RFK Racing,110,0,running,29.0,26.0,6.0,,5
+2024,16,Sonoma,road course,14,7,99,Daniel Suarez,Chevrolet,Trackhouse Racing,110,0,running,26.0,8.0,32.0,,3
+2024,16,Sonoma,road course,15,8,48,Alex Bowman,Chevrolet,Hendrick Motorsports,110,0,running,28.0,5.0,33.0,,6
+2024,16,Sonoma,road course,16,20,71,Zane Smith,Chevrolet,Spire Motorsports,110,0,running,21.0,22.0,34.0,,0
+2024,16,Sonoma,road course,17,13,77,Carson Hocevar,Chevrolet,Spire Motorsports,110,0,running,20.0,11.0,14.0,,0
+2024,16,Sonoma,road course,18,30,41,Ryan Preece,Ford,Stewart-Haas Racing,110,0,running,28.0,24.0,2.0,,9
+2024,16,Sonoma,road course,19,38,43,Erik Jones,Toyota,Legacy Motor Club,110,0,running,22.0,23.0,7.0,,4
+2024,16,Sonoma,road course,20,18,23,Bubba Wallace,Toyota,23XI Racing,110,0,running,17.0,12.0,19.0,,0
+2024,16,Sonoma,road course,21,1,22,Joey Logano,Ford,Team Penske,110,16,running,18.0,30.0,9.0,,2
+2024,16,Sonoma,road course,22,28,2,Austin Cindric,Ford,Team Penske,110,0,running,15.0,14.0,22.0,,0
+2024,16,Sonoma,road course,23,36,15,Kaz Grala,Ford,Rick Ware Racing,110,0,running,14.0,33.0,23.0,,0
+2024,16,Sonoma,road course,24,33,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,110,0,running,13.0,32.0,11.0,,0
+2024,16,Sonoma,road course,25,22,21,Harrison Burton,Ford,Wood Brothers Racing,110,0,running,13.0,34.0,10.0,,1
+2024,16,Sonoma,road course,26,19,10,Noah Gragson,Ford,Stewart-Haas Racing,110,0,running,11.0,13.0,20.0,,0
+2024,16,Sonoma,road course,27,21,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,110,1,running,18.0,19.0,3.0,,8
+2024,16,Sonoma,road course,28,34,31,Daniel Hemric,Chevrolet,Kaulig Racing,109,0,running,9.0,29.0,12.0,,0
+2024,16,Sonoma,road course,29,37,42,John Hunter Nemechek,Toyota,Legacy Motor Club,109,0,running,8.0,36.0,28.0,,0
+2024,16,Sonoma,road course,30,6,24,William Byron,Chevrolet,Hendrick Motorsports,108,0,running,7.0,21.0,27.0,,0
+2024,16,Sonoma,road course,31,24,33,William Brown,Chevrolet,Richard Childress Racing,107,0,running,6.0,27.0,35.0,,0
+2024,16,Sonoma,road course,32,32,4,Josh Berry,Ford,Stewart-Haas Racing,95,0,suspension,5.0,20.0,24.0,,0
+2024,16,Sonoma,road course,33,27,51,Justin Haley,Ford,Rick Ware Racing,88,0,steering,4.0,31.0,13.0,,0
+2024,16,Sonoma,road course,34,23,14,Chase Briscoe,Ford,Stewart-Haas Racing,73,0,transmission,3.0,35.0,17.0,,0
+2024,16,Sonoma,road course,35,31,60,Cameron Waters,Ford,RFK Racing,66,0,suspension,2.0,17.0,21.0,,0
+2024,16,Sonoma,road course,36,16,3,Austin Dillon,Chevrolet,Richard Childress Racing,39,0,dvp,1.0,16.0,36.0,,0
+2024,16,Sonoma,road course,37,10,54,Ty Gibbs,Toyota,Joe Gibbs Racing,16,0,dvp,1.0,37.0,37.0,,0
+2024,16,Sonoma,road course,38,25,11,Denny Hamlin,Toyota,Joe Gibbs Racing,2,0,engine,1.0,38.0,38.0,,0
+2024,17,Iowa,short track,1,2,12,Ryan Blaney,Ford,Team Penske,350,201,running,57.0,1.0,4.0,,17
+2024,17,Iowa,short track,2,4,24,William Byron,Chevrolet,Hendrick Motorsports,350,0,running,42.0,4.0,11.0,,7
+2024,17,Iowa,short track,3,9,9,Chase Elliott,Chevrolet,Hendrick Motorsports,350,1,running,44.0,9.0,3.0,,10
+2024,17,Iowa,short track,4,10,20,Christopher Bell,Toyota,Joe Gibbs Racing,350,7,running,33.0,17.0,18.0,,0
+2024,17,Iowa,short track,5,35,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,350,4,running,32.0,22.0,13.0,,0
+2024,17,Iowa,short track,6,11,22,Joey Logano,Ford,Team Penske,350,0,running,36.0,6.0,17.0,,5
+2024,17,Iowa,short track,7,3,4,Josh Berry,Ford,Stewart-Haas Racing,350,32,running,45.0,5.0,2.0,,15
+2024,17,Iowa,short track,8,33,48,Alex Bowman,Chevrolet,Hendrick Motorsports,350,0,running,29.0,11.0,16.0,,0
+2024,17,Iowa,short track,9,13,99,Daniel Suarez,Chevrolet,Trackhouse Racing,350,4,running,36.0,3.0,14.0,,8
+2024,17,Iowa,short track,10,5,6,Brad Keselowski,Ford,RFK Racing,350,5,running,32.0,8.0,9.0,,5
+2024,17,Iowa,short track,11,17,1,Ross Chastain,Chevrolet,Trackhouse Racing,350,0,running,26.0,12.0,19.0,,0
+2024,17,Iowa,short track,12,14,38,Todd Gilliland,Ford,Front Row Motorsports,350,0,running,28.0,30.0,8.0,,3
+2024,17,Iowa,short track,13,19,51,Justin Haley,Ford,Rick Ware Racing,350,0,running,25.0,28.0,10.0,,1
+2024,17,Iowa,short track,14,20,77,Carson Hocevar,Chevrolet,Spire Motorsports,350,0,running,23.0,26.0,15.0,,0
+2024,17,Iowa,short track,15,31,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,349,0,running,22.0,21.0,30.0,,0
+2024,17,Iowa,short track,16,23,10,Noah Gragson,Ford,Stewart-Haas Racing,349,0,running,21.0,13.0,26.0,,0
+2024,17,Iowa,short track,17,16,23,Bubba Wallace,Toyota,23XI Racing,349,0,running,26.0,18.0,5.0,,6
+2024,17,Iowa,short track,18,15,17,Chris Buescher,Ford,RFK Racing,349,16,running,23.0,29.0,7.0,,4
+2024,17,Iowa,short track,19,36,3,Austin Dillon,Chevrolet,Richard Childress Racing,349,0,running,18.0,27.0,28.0,,0
+2024,17,Iowa,short track,20,25,21,Harrison Burton,Ford,Wood Brothers Racing,349,0,running,17.0,14.0,21.0,,0
+2024,17,Iowa,short track,21,24,7,Corey LaJoie,Chevrolet,Spire Motorsports,349,0,running,20.0,7.0,23.0,,4
+2024,17,Iowa,short track,22,8,45,Tyler Reddick,Toyota,23XI Racing,349,0,running,15.0,15.0,25.0,,0
+2024,17,Iowa,short track,23,22,34,Michael McDowell,Ford,Front Row Motorsports,349,0,running,14.0,20.0,24.0,,0
+2024,17,Iowa,short track,24,12,11,Denny Hamlin,Toyota,Joe Gibbs Racing,348,0,running,18.0,34.0,6.0,,5
+2024,17,Iowa,short track,25,27,54,Ty Gibbs,Toyota,Joe Gibbs Racing,348,0,running,12.0,19.0,31.0,,0
+2024,17,Iowa,short track,26,34,42,John Hunter Nemechek,Toyota,Legacy Motor Club,348,0,running,11.0,25.0,27.0,,0
+2024,17,Iowa,short track,27,29,41,Ryan Preece,Ford,Stewart-Haas Racing,348,0,running,10.0,24.0,20.0,,0
+2024,17,Iowa,short track,28,6,14,Chase Briscoe,Ford,Stewart-Haas Racing,348,0,running,9.0,16.0,29.0,,0
+2024,17,Iowa,short track,29,30,31,Daniel Hemric,Chevrolet,Kaulig Racing,348,0,running,8.0,35.0,32.0,,0
+2024,17,Iowa,short track,30,21,2,Austin Cindric,Ford,Team Penske,347,0,running,7.0,23.0,22.0,,0
+2024,17,Iowa,short track,31,26,71,Zane Smith,Chevrolet,Spire Motorsports,347,0,running,6.0,32.0,33.0,,0
+2024,17,Iowa,short track,32,32,43,Erik Jones,Toyota,Legacy Motor Club,347,0,running,5.0,31.0,35.0,,0
+2024,17,Iowa,short track,33,28,15,Kaz Grala,Ford,Rick Ware Racing,345,0,running,4.0,33.0,34.0,,0
+2024,17,Iowa,short track,34,1,5,Kyle Larson,Chevrolet,Hendrick Motorsports,314,80,running,22.0,2.0,1.0,,19
+2024,17,Iowa,short track,35,7,8,Kyle Busch,Chevrolet,Richard Childress Racing,272,0,water pump,3.0,10.0,12.0,,1
+2024,17,Iowa,short track,36,18,16,A.J. Allmendinger,Chevrolet,Kaulig Racing,54,0,accident,0.0,36.0,36.0,,0
+2024,18,New Hampshire,short intermediate,1,4,20,Christopher Bell,Toyota,Joe Gibbs Racing,305,149,running,57.0,1.0,4.0,,17
+2024,18,New Hampshire,short intermediate,2,23,14,Chase Briscoe,Ford,Stewart-Haas Racing,305,0,running,35.0,27.0,22.0,,0
+2024,18,New Hampshire,short intermediate,3,10,4,Josh Berry,Ford,Stewart-Haas Racing,305,0,running,43.0,5.0,8.0,,9
+2024,18,New Hampshire,short intermediate,4,19,5,Kyle Larson,Chevrolet,Hendrick Motorsports,305,0,running,37.0,12.0,7.0,,4
+2024,18,New Hampshire,short intermediate,5,15,17,Chris Buescher,Ford,RFK Racing,305,0,running,32.0,18.0,11.0,,0
+2024,18,New Hampshire,short intermediate,6,12,45,Tyler Reddick,Toyota,23XI Racing,305,53,running,33.0,9.0,14.0,,2
+2024,18,New Hampshire,short intermediate,7,13,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,305,0,running,30.0,24.0,28.0,,0
+2024,18,New Hampshire,short intermediate,8,28,42,John Hunter Nemechek,Toyota,Legacy Motor Club,305,0,running,29.0,30.0,32.0,,0
+2024,18,New Hampshire,short intermediate,9,7,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,305,0,running,42.0,6.0,2.0,,14
+2024,18,New Hampshire,short intermediate,10,8,1,Ross Chastain,Chevrolet,Trackhouse Racing,305,0,running,31.0,8.0,10.0,,4
+2024,18,New Hampshire,short intermediate,11,31,41,Ryan Preece,Ford,Stewart-Haas Racing,305,0,running,26.0,26.0,21.0,,0
+2024,18,New Hampshire,short intermediate,12,16,38,Todd Gilliland,Ford,Front Row Motorsports,305,19,running,30.0,14.0,6.0,,5
+2024,18,New Hampshire,short intermediate,13,32,43,Erik Jones,Toyota,Legacy Motor Club,305,0,running,24.0,25.0,24.0,,0
+2024,18,New Hampshire,short intermediate,14,27,21,Harrison Burton,Ford,Wood Brothers Racing,305,0,running,23.0,23.0,20.0,,0
+2024,18,New Hampshire,short intermediate,15,25,34,Michael McDowell,Ford,Front Row Motorsports,305,0,running,22.0,20.0,23.0,,0
+2024,18,New Hampshire,short intermediate,16,18,54,Ty Gibbs,Toyota,Joe Gibbs Racing,305,0,running,21.0,11.0,13.0,,0
+2024,18,New Hampshire,short intermediate,17,20,77,Carson Hocevar,Chevrolet,Spire Motorsports,305,0,running,20.0,19.0,27.0,,0
+2024,18,New Hampshire,short intermediate,18,1,9,Chase Elliott,Chevrolet,Hendrick Motorsports,305,41,running,29.0,3.0,9.0,,10
+2024,18,New Hampshire,short intermediate,19,29,2,Austin Cindric,Ford,Team Penske,305,0,running,18.0,28.0,19.0,,0
+2024,18,New Hampshire,short intermediate,20,36,16,Ty Dillon,Chevrolet,Kaulig Racing,305,0,running,0.0,36.0,31.0,,0
+2024,18,New Hampshire,short intermediate,21,11,99,Daniel Suarez,Chevrolet,Trackhouse Racing,305,0,running,16.0,31.0,34.0,,0
+2024,18,New Hampshire,short intermediate,22,35,15,Kaz Grala,Ford,Rick Ware Racing,305,0,running,15.0,35.0,30.0,,0
+2024,18,New Hampshire,short intermediate,23,26,7,Corey LaJoie,Chevrolet,Spire Motorsports,305,0,running,14.0,21.0,16.0,,0
+2024,18,New Hampshire,short intermediate,24,14,11,Denny Hamlin,Toyota,Joe Gibbs Racing,305,43,running,27.0,7.0,1.0,,14
+2024,18,New Hampshire,short intermediate,25,2,12,Ryan Blaney,Ford,Team Penske,305,0,running,25.0,4.0,5.0,,13
+2024,18,New Hampshire,short intermediate,26,3,24,William Byron,Chevrolet,Hendrick Motorsports,305,0,running,11.0,15.0,18.0,,0
+2024,18,New Hampshire,short intermediate,27,21,10,Noah Gragson,Ford,Stewart-Haas Racing,305,0,running,10.0,22.0,15.0,,0
+2024,18,New Hampshire,short intermediate,28,9,6,Brad Keselowski,Ford,RFK Racing,305,0,running,9.0,16.0,25.0,,0
+2024,18,New Hampshire,short intermediate,29,24,51,Justin Haley,Ford,Rick Ware Racing,305,0,running,8.0,17.0,12.0,,0
+2024,18,New Hampshire,short intermediate,30,34,71,Zane Smith,Chevrolet,Spire Motorsports,304,0,running,7.0,32.0,35.0,,0
+2024,18,New Hampshire,short intermediate,31,33,31,Daniel Hemric,Chevrolet,Kaulig Racing,303,0,running,6.0,34.0,33.0,,0
+2024,18,New Hampshire,short intermediate,32,6,22,Joey Logano,Ford,Team Penske,302,0,running,22.0,2.0,3.0,,17
+2024,18,New Hampshire,short intermediate,33,22,3,Austin Dillon,Chevrolet,Richard Childress Racing,268,0,accident,4.0,29.0,26.0,,0
+2024,18,New Hampshire,short intermediate,34,17,23,Bubba Wallace,Toyota,23XI Racing,265,0,accident,3.0,13.0,17.0,,0
+2024,18,New Hampshire,short intermediate,35,30,8,Kyle Busch,Chevrolet,Richard Childress Racing,222,0,accident,2.0,33.0,29.0,,0
+2024,18,New Hampshire,short intermediate,36,5,48,Alex Bowman,Chevrolet,Hendrick Motorsports,142,0,engine,2.0,10.0,36.0,,1
+2024,19,Nashville,short intermediate,1,26,22,Joey Logano,Ford,Team Penske,331,9,running,40.0,21.0,21.0,,0
+2024,19,Nashville,short intermediate,2,36,71,Zane Smith,Chevrolet,Spire Motorsports,331,0,running,35.0,33.0,33.0,,0
+2024,19,Nashville,short intermediate,3,6,45,Tyler Reddick,Toyota,23XI Racing,331,16,running,51.0,3.0,2.0,,17
+2024,19,Nashville,short intermediate,4,22,41,Ryan Preece,Ford,Stewart-Haas Racing,331,0,running,33.0,25.0,26.0,,0
+2024,19,Nashville,short intermediate,5,9,17,Chris Buescher,Ford,RFK Racing,331,0,running,37.0,8.0,9.0,,5
+2024,19,Nashville,short intermediate,6,18,12,Ryan Blaney,Ford,Team Penske,331,26,running,34.0,14.0,8.0,,3
+2024,19,Nashville,short intermediate,7,24,23,Bubba Wallace,Toyota,23XI Racing,331,0,running,31.0,10.0,27.0,,1
+2024,19,Nashville,short intermediate,8,4,5,Kyle Larson,Chevrolet,Hendrick Motorsports,331,0,running,44.0,4.0,3.0,,15
+2024,19,Nashville,short intermediate,9,37,31,Daniel Hemric,Chevrolet,Kaulig Racing,331,0,running,28.0,32.0,35.0,,0
+2024,19,Nashville,short intermediate,10,16,10,Noah Gragson,Ford,Stewart-Haas Racing,331,0,running,28.0,16.0,10.0,,1
+2024,19,Nashville,short intermediate,11,28,16,A.J. Allmendinger,Chevrolet,Kaulig Racing,331,1,running,0.0,30.0,23.0,,0
+2024,19,Nashville,short intermediate,12,1,11,Denny Hamlin,Toyota,Joe Gibbs Racing,331,70,running,41.0,2.0,4.0,,16
+2024,19,Nashville,short intermediate,13,33,51,Justin Haley,Ford,Rick Ware Racing,331,0,running,24.0,36.0,31.0,,0
+2024,19,Nashville,short intermediate,14,12,48,Alex Bowman,Chevrolet,Hendrick Motorsports,331,0,running,23.0,13.0,22.0,,0
+2024,19,Nashville,short intermediate,15,10,2,Austin Cindric,Ford,Team Penske,331,0,running,22.0,17.0,25.0,,0
+2024,19,Nashville,short intermediate,16,15,77,Carson Hocevar,Chevrolet,Spire Motorsports,331,0,running,21.0,19.0,14.0,,0
+2024,19,Nashville,short intermediate,17,32,38,Todd Gilliland,Ford,Front Row Motorsports,331,0,running,20.0,35.0,19.0,,0
+2024,19,Nashville,short intermediate,18,13,9,Chase Elliott,Chevrolet,Hendrick Motorsports,331,0,running,24.0,11.0,6.0,,5
+2024,19,Nashville,short intermediate,19,7,24,William Byron,Chevrolet,Hendrick Motorsports,331,0,running,22.0,7.0,13.0,,4
+2024,19,Nashville,short intermediate,20,21,7,Corey LaJoie,Chevrolet,Spire Motorsports,331,0,running,17.0,20.0,30.0,,0
+2024,19,Nashville,short intermediate,21,19,14,Chase Briscoe,Ford,Stewart-Haas Racing,331,0,running,16.0,27.0,17.0,,0
+2024,19,Nashville,short intermediate,22,31,99,Daniel Suarez,Chevrolet,Trackhouse Racing,331,0,running,15.0,24.0,18.0,,0
+2024,19,Nashville,short intermediate,23,8,54,Ty Gibbs,Toyota,Joe Gibbs Racing,331,2,running,19.0,6.0,11.0,,5
+2024,19,Nashville,short intermediate,24,17,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,331,0,running,19.0,9.0,7.0,,6
+2024,19,Nashville,short intermediate,25,5,6,Brad Keselowski,Ford,RFK Racing,330,0,running,24.0,5.0,5.0,,12
+2024,19,Nashville,short intermediate,26,2,4,Josh Berry,Ford,Stewart-Haas Racing,327,0,accident,11.0,12.0,29.0,,0
+2024,19,Nashville,short intermediate,27,27,8,Kyle Busch,Chevrolet,Richard Childress Racing,319,0,accident,10.0,26.0,24.0,,0
+2024,19,Nashville,short intermediate,28,25,21,Harrison Burton,Ford,Wood Brothers Racing,312,0,accident,9.0,23.0,32.0,,0
+2024,19,Nashville,short intermediate,29,29,50,Corey Heim,Toyota,23XI Racing,312,0,accident,0.0,22.0,12.0,,0
+2024,19,Nashville,short intermediate,30,23,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,312,0,accident,7.0,34.0,34.0,,0
+2024,19,Nashville,short intermediate,31,35,42,John Hunter Nemechek,Toyota,Legacy Motor Club,306,0,accident,6.0,37.0,37.0,,0
+2024,19,Nashville,short intermediate,32,11,3,Austin Dillon,Chevrolet,Richard Childress Racing,305,0,accident,5.0,18.0,36.0,,0
+2024,19,Nashville,short intermediate,33,20,1,Ross Chastain,Chevrolet,Trackhouse Racing,304,45,accident,4.0,15.0,15.0,,0
+2024,19,Nashville,short intermediate,34,34,43,Erik Jones,Toyota,Legacy Motor Club,287,0,suspension,3.0,31.0,20.0,,0
+2024,19,Nashville,short intermediate,35,14,34,Michael McDowell,Ford,Front Row Motorsports,239,31,transmission,2.0,28.0,16.0,,0
+2024,19,Nashville,short intermediate,36,3,20,Christopher Bell,Toyota,Joe Gibbs Racing,227,131,accident,21.0,1.0,1.0,,20
+2024,19,Nashville,short intermediate,37,30,15,Riley Herbst,Ford,Rick Ware Racing,201,0,accident,0.0,29.0,28.0,,0
+2024,19,Nashville,short intermediate,38,38,66,Chad Finchum,Ford,MBM Motorsports,132,0,electrical,0.0,38.0,38.0,,0
+2024,20,Chicago Street Course,road course,1,8,48,Alex Bowman,Chevrolet,Hendrick Motorsports,58,8,running,54.0,6.0,2.0,,14
+2024,20,Chicago Street Course,road course,2,4,45,Tyler Reddick,Toyota,23XI Racing,58,0,running,37.0,9.0,17.0,,2
+2024,20,Chicago Street Course,road course,3,2,54,Ty Gibbs,Toyota,Joe Gibbs Racing,58,17,running,42.0,3.0,15.0,,8
+2024,20,Chicago Street Course,road course,4,38,60,Joey Hand,Ford,RFK Racing,58,7,running,43.0,18.0,1.0,,10
+2024,20,Chicago Street Course,road course,5,3,34,Michael McDowell,Ford,Front Row Motorsports,58,0,running,32.0,36.0,26.0,,0
+2024,20,Chicago Street Course,road course,6,33,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,58,0,running,34.0,15.0,8.0,,3
+2024,20,Chicago Street Course,road course,7,26,38,Todd Gilliland,Ford,Front Row Motorsports,58,0,running,33.0,8.0,16.0,,3
+2024,20,Chicago Street Course,road course,8,27,24,William Byron,Chevrolet,Hendrick Motorsports,58,0,running,29.0,32.0,28.0,,0
+2024,20,Chicago Street Course,road course,9,19,8,Kyle Busch,Chevrolet,Richard Childress Racing,58,0,running,28.0,14.0,25.0,,0
+2024,20,Chicago Street Course,road course,10,17,12,Ryan Blaney,Ford,Team Penske,58,0,running,27.0,33.0,29.0,,0
+2024,20,Chicago Street Course,road course,11,9,99,Daniel Suarez,Chevrolet,Trackhouse Racing,58,0,running,27.0,10.0,32.0,,1
+2024,20,Chicago Street Course,road course,12,35,31,Daniel Hemric,Chevrolet,Kaulig Racing,58,0,running,29.0,25.0,7.0,,4
+2024,20,Chicago Street Course,road course,13,6,23,Bubba Wallace,Toyota,23XI Racing,58,0,running,28.0,7.0,35.0,,4
+2024,20,Chicago Street Course,road course,14,28,10,Noah Gragson,Ford,Stewart-Haas Racing,58,0,running,28.0,26.0,6.0,,5
+2024,20,Chicago Street Course,road course,15,21,2,Austin Cindric,Ford,Team Penske,58,0,running,22.0,39.0,33.0,,0
+2024,20,Chicago Street Course,road course,16,23,51,Justin Haley,Ford,Rick Ware Racing,58,0,running,21.0,19.0,20.0,,0
+2024,20,Chicago Street Course,road course,17,30,71,Zane Smith,Chevrolet,Spire Motorsports,58,3,running,20.0,27.0,37.0,,0
+2024,20,Chicago Street Course,road course,18,10,6,Brad Keselowski,Ford,RFK Racing,58,0,running,27.0,24.0,3.0,,8
+2024,20,Chicago Street Course,road course,19,15,3,Austin Dillon,Chevrolet,Richard Childress Racing,58,0,running,18.0,30.0,31.0,,0
+2024,20,Chicago Street Course,road course,20,16,17,Chris Buescher,Ford,RFK Racing,58,0,running,17.0,21.0,21.0,,0
+2024,20,Chicago Street Course,road course,21,18,9,Chase Elliott,Chevrolet,Hendrick Motorsports,58,0,running,16.0,13.0,27.0,,0
+2024,20,Chicago Street Course,road course,22,14,1,Ross Chastain,Chevrolet,Trackhouse Racing,58,0,running,15.0,12.0,22.0,,0
+2024,20,Chicago Street Course,road course,23,32,22,Joey Logano,Ford,Team Penske,58,0,running,14.0,38.0,34.0,,0
+2024,20,Chicago Street Course,road course,24,13,77,Carson Hocevar,Chevrolet,Spire Motorsports,58,0,running,20.0,17.0,4.0,,7
+2024,20,Chicago Street Course,road course,25,31,21,Harrison Burton,Ford,Wood Brothers Racing,58,0,running,14.0,40.0,9.0,,2
+2024,20,Chicago Street Course,road course,26,40,15,Kaz Grala,Ford,Rick Ware Racing,58,0,running,11.0,20.0,24.0,,0
+2024,20,Chicago Street Course,road course,27,20,7,Corey LaJoie,Chevrolet,Spire Motorsports,58,0,running,10.0,29.0,36.0,,0
+2024,20,Chicago Street Course,road course,28,39,66,Josh Bilicki,Ford,MBM Motorsports,58,0,running,0.0,31.0,12.0,,0
+2024,20,Chicago Street Course,road course,29,25,43,Erik Jones,Toyota,Legacy Motor Club,58,0,running,8.0,34.0,38.0,,0
+2024,20,Chicago Street Course,road course,30,11,11,Denny Hamlin,Toyota,Joe Gibbs Racing,58,0,running,8.0,23.0,10.0,,1
+2024,20,Chicago Street Course,road course,31,34,33,Austin Hill,Chevrolet,Richard Childress Racing,58,0,running,0.0,22.0,30.0,,0
+2024,20,Chicago Street Course,road course,32,22,14,Chase Briscoe,Ford,Stewart-Haas Racing,58,0,running,12.0,4.0,14.0,,7
+2024,20,Chicago Street Course,road course,33,24,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,58,0,running,10.0,28.0,5.0,,6
+2024,20,Chicago Street Course,road course,34,29,41,Ryan Preece,Ford,Stewart-Haas Racing,58,0,running,3.0,37.0,11.0,,0
+2024,20,Chicago Street Course,road course,35,12,42,John Hunter Nemechek,Toyota,Legacy Motor Club,57,0,running,2.0,11.0,18.0,,0
+2024,20,Chicago Street Course,road course,36,36,4,Josh Berry,Ford,Stewart-Haas Racing,57,0,running,1.0,35.0,23.0,,0
+2024,20,Chicago Street Course,road course,37,7,20,Christopher Bell,Toyota,Joe Gibbs Racing,55,14,accident,10.0,2.0,13.0,,9
+2024,20,Chicago Street Course,road course,38,37,13,A.J. Allmendinger,Chevrolet,Kaulig Racing,48,0,accident,0.0,16.0,19.0,,0
+2024,20,Chicago Street Course,road course,39,1,5,Kyle Larson,Chevrolet,Hendrick Motorsports,33,0,accident,7.0,5.0,39.0,,6
+2024,20,Chicago Street Course,road course,40,5,16,Shane Van Gisbergen,Chevrolet,Kaulig Racing,24,9,accident,0.0,1.0,40.0,,0
+2024,21,Pocono,long intermediate,1,8,12,Ryan Blaney,Ford,Team Penske,160,44,running,40.0,29.0,27.0,,0
+2024,21,Pocono,long intermediate,2,4,11,Denny Hamlin,Toyota,Joe Gibbs Racing,160,31,running,54.0,2.0,1.0,,19
+2024,21,Pocono,long intermediate,3,6,48,Alex Bowman,Chevrolet,Hendrick Motorsports,160,0,running,43.0,6.0,7.0,,9
+2024,21,Pocono,long intermediate,4,2,24,William Byron,Chevrolet,Hendrick Motorsports,160,0,running,47.0,4.0,4.0,,14
+2024,21,Pocono,long intermediate,5,10,22,Joey Logano,Ford,Team Penske,160,3,running,38.0,7.0,9.0,,6
+2024,21,Pocono,long intermediate,6,7,45,Tyler Reddick,Toyota,23XI Racing,160,0,running,40.0,3.0,10.0,,9
+2024,21,Pocono,long intermediate,7,14,6,Brad Keselowski,Ford,RFK Racing,160,20,running,41.0,8.0,3.0,,11
+2024,21,Pocono,long intermediate,8,3,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,160,14,running,39.0,1.0,30.0,,10
+2024,21,Pocono,long intermediate,9,11,9,Chase Elliott,Chevrolet,Hendrick Motorsports,160,0,running,43.0,5.0,2.0,,15
+2024,21,Pocono,long intermediate,10,29,23,Bubba Wallace,Toyota,23XI Racing,160,0,running,27.0,36.0,18.0,,0
+2024,21,Pocono,long intermediate,11,18,17,Chris Buescher,Ford,RFK Racing,160,19,running,26.0,11.0,24.0,,0
+2024,21,Pocono,long intermediate,12,13,20,Christopher Bell,Toyota,Joe Gibbs Racing,160,0,running,30.0,9.0,8.0,,5
+2024,21,Pocono,long intermediate,13,12,5,Kyle Larson,Chevrolet,Hendrick Motorsports,160,0,running,29.0,32.0,6.0,,5
+2024,21,Pocono,long intermediate,14,23,43,Erik Jones,Toyota,Legacy Motor Club,160,0,running,30.0,10.0,5.0,,7
+2024,21,Pocono,long intermediate,15,28,14,Chase Briscoe,Ford,Stewart-Haas Racing,160,0,running,22.0,14.0,12.0,,0
+2024,21,Pocono,long intermediate,16,16,99,Daniel Suarez,Chevrolet,Trackhouse Racing,160,0,running,21.0,15.0,16.0,,0
+2024,21,Pocono,long intermediate,17,15,77,Carson Hocevar,Chevrolet,Spire Motorsports,160,0,running,20.0,13.0,26.0,,0
+2024,21,Pocono,long intermediate,18,20,2,Austin Cindric,Ford,Team Penske,160,0,running,19.0,35.0,31.0,,0
+2024,21,Pocono,long intermediate,19,30,7,Corey LaJoie,Chevrolet,Spire Motorsports,160,0,running,18.0,16.0,11.0,,0
+2024,21,Pocono,long intermediate,20,5,4,Josh Berry,Ford,Stewart-Haas Racing,160,8,running,17.0,33.0,25.0,,0
+2024,21,Pocono,long intermediate,21,26,16,A.J. Allmendinger,Chevrolet,Kaulig Racing,160,0,running,0.0,23.0,14.0,,0
+2024,21,Pocono,long intermediate,22,34,51,Justin Haley,Ford,Rick Ware Racing,160,0,running,15.0,27.0,23.0,,0
+2024,21,Pocono,long intermediate,23,17,3,Austin Dillon,Chevrolet,Richard Childress Racing,160,0,running,14.0,25.0,21.0,,0
+2024,21,Pocono,long intermediate,24,21,34,Michael McDowell,Ford,Front Row Motorsports,158,0,running,13.0,12.0,20.0,,0
+2024,21,Pocono,long intermediate,25,27,31,Daniel Hemric,Chevrolet,Kaulig Racing,153,0,suspension,12.0,22.0,34.0,,0
+2024,21,Pocono,long intermediate,26,35,15,Cody Ware,Ford,Rick Ware Racing,134,0,radiator,11.0,26.0,28.0,,0
+2024,21,Pocono,long intermediate,27,1,54,Ty Gibbs,Toyota,Joe Gibbs Racing,132,21,engine,10.0,30.0,29.0,,0
+2024,21,Pocono,long intermediate,28,32,42,John Hunter Nemechek,Toyota,Legacy Motor Club,126,0,accident,9.0,18.0,19.0,,0
+2024,21,Pocono,long intermediate,29,9,71,Zane Smith,Chevrolet,Spire Motorsports,126,0,accident,8.0,34.0,33.0,,0
+2024,21,Pocono,long intermediate,30,36,41,Ryan Preece,Ford,Stewart-Haas Racing,121,0,accident,7.0,21.0,13.0,,0
+2024,21,Pocono,long intermediate,31,22,21,Harrison Burton,Ford,Wood Brothers Racing,121,0,accident,6.0,19.0,17.0,,0
+2024,21,Pocono,long intermediate,32,24,8,Kyle Busch,Chevrolet,Richard Childress Racing,120,0,accident,5.0,20.0,32.0,,0
+2024,21,Pocono,long intermediate,33,31,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,120,0,accident,4.0,17.0,15.0,,0
+2024,21,Pocono,long intermediate,34,33,38,Todd Gilliland,Ford,Front Row Motorsports,115,0,accident,3.0,24.0,22.0,,0
+2024,21,Pocono,long intermediate,35,37,44,J.J. Yeley,Chevrolet,NY Racing Team,112,0,fuel pump,0.0,28.0,35.0,,0
+2024,21,Pocono,long intermediate,36,19,1,Ross Chastain,Chevrolet,Trackhouse Racing,53,0,accident,1.0,31.0,36.0,,0
+2024,21,Pocono,long intermediate,37,25,10,Noah Gragson,Ford,Stewart-Haas Racing,13,0,accident,1.0,37.0,37.0,,0
+2024,22,Indianapolis,long intermediate,1,5,5,Kyle Larson,Chevrolet,Hendrick Motorsports,167,8,running,49.0,2.0,20.0,,9
+2024,22,Indianapolis,long intermediate,2,1,45,Tyler Reddick,Toyota,23XI Racing,167,40,running,46.0,5.0,6.0,,11
+2024,22,Indianapolis,long intermediate,3,7,12,Ryan Blaney,Ford,Team Penske,167,0,running,49.0,3.0,4.0,,15
+2024,22,Indianapolis,long intermediate,4,18,20,Christopher Bell,Toyota,Joe Gibbs Racing,167,2,running,35.0,12.0,9.0,,2
+2024,22,Indianapolis,long intermediate,5,17,23,Bubba Wallace,Toyota,23XI Racing,167,26,running,42.0,11.0,1.0,,10
+2024,22,Indianapolis,long intermediate,6,24,38,Todd Gilliland,Ford,Front Row Motorsports,167,1,running,31.0,29.0,33.0,,0
+2024,22,Indianapolis,long intermediate,7,38,2,Austin Cindric,Ford,Team Penske,167,0,running,30.0,37.0,27.0,,0
+2024,22,Indianapolis,long intermediate,8,25,99,Daniel Suarez,Chevrolet,Trackhouse Racing,167,0,running,29.0,32.0,22.0,,0
+2024,22,Indianapolis,long intermediate,9,21,10,Noah Gragson,Ford,Stewart-Haas Racing,167,3,running,29.0,10.0,15.0,,1
+2024,22,Indianapolis,long intermediate,10,3,9,Chase Elliott,Chevrolet,Hendrick Motorsports,167,1,running,36.0,17.0,2.0,,9
+2024,22,Indianapolis,long intermediate,11,9,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,167,0,running,32.0,9.0,7.0,,6
+2024,22,Indianapolis,long intermediate,12,30,77,Carson Hocevar,Chevrolet,Spire Motorsports,167,0,running,25.0,22.0,17.0,,0
+2024,22,Indianapolis,long intermediate,13,11,3,Austin Dillon,Chevrolet,Richard Childress Racing,167,0,running,24.0,16.0,24.0,,0
+2024,22,Indianapolis,long intermediate,14,19,7,Corey LaJoie,Chevrolet,Spire Motorsports,167,0,running,23.0,19.0,11.0,,0
+2024,22,Indianapolis,long intermediate,15,28,1,Ross Chastain,Chevrolet,Trackhouse Racing,167,8,running,22.0,21.0,13.0,,0
+2024,22,Indianapolis,long intermediate,16,8,34,Michael McDowell,Ford,Front Row Motorsports,167,1,running,26.0,6.0,28.0,,5
+2024,22,Indianapolis,long intermediate,17,27,71,Zane Smith,Chevrolet,Spire Motorsports,167,0,running,20.0,18.0,18.0,,0
+2024,22,Indianapolis,long intermediate,18,36,15,Cody Ware,Ford,Rick Ware Racing,167,0,running,19.0,35.0,35.0,,0
+2024,22,Indianapolis,long intermediate,19,22,33,Ty Dillon,Chevrolet,Richard Childress Racing,167,0,running,0.0,34.0,26.0,,0
+2024,22,Indianapolis,long intermediate,20,35,51,Justin Haley,Ford,Rick Ware Racing,167,0,running,17.0,27.0,23.0,,0
+2024,22,Indianapolis,long intermediate,21,26,6,Brad Keselowski,Ford,RFK Racing,167,35,running,16.0,36.0,21.0,,0
+2024,22,Indianapolis,long intermediate,22,23,17,Chris Buescher,Ford,RFK Racing,167,0,running,15.0,38.0,34.0,,0
+2024,22,Indianapolis,long intermediate,23,6,54,Ty Gibbs,Toyota,Joe Gibbs Racing,167,0,running,17.0,8.0,12.0,,3
+2024,22,Indianapolis,long intermediate,24,20,14,Chase Briscoe,Ford,Stewart-Haas Racing,167,0,running,14.0,25.0,10.0,,1
+2024,22,Indianapolis,long intermediate,25,34,8,Kyle Busch,Chevrolet,Richard Childress Racing,166,5,running,12.0,28.0,25.0,,0
+2024,22,Indianapolis,long intermediate,26,31,41,Ryan Preece,Ford,Stewart-Haas Racing,165,0,accident,11.0,31.0,14.0,,0
+2024,22,Indianapolis,long intermediate,27,14,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,165,0,running,13.0,30.0,8.0,,3
+2024,22,Indianapolis,long intermediate,28,29,43,Erik Jones,Toyota,Legacy Motor Club,165,0,running,9.0,33.0,31.0,,0
+2024,22,Indianapolis,long intermediate,29,10,42,John Hunter Nemechek,Toyota,Legacy Motor Club,161,16,accident,14.0,13.0,5.0,,6
+2024,22,Indianapolis,long intermediate,30,32,31,Daniel Hemric,Chevrolet,Kaulig Racing,161,0,accident,7.0,23.0,29.0,,0
+2024,22,Indianapolis,long intermediate,31,13,48,Alex Bowman,Chevrolet,Hendrick Motorsports,161,0,accident,10.0,7.0,16.0,,4
+2024,22,Indianapolis,long intermediate,32,2,11,Denny Hamlin,Toyota,Joe Gibbs Racing,161,21,accident,23.0,1.0,3.0,,18
+2024,22,Indianapolis,long intermediate,33,33,84,Jimmie Johnson,Toyota,Legacy Motor Club,110,0,accident,4.0,24.0,30.0,,0
+2024,22,Indianapolis,long intermediate,34,12,22,Joey Logano,Ford,Team Penske,109,0,accident,3.0,14.0,32.0,,0
+2024,22,Indianapolis,long intermediate,35,37,4,Josh Berry,Ford,Stewart-Haas Racing,104,0,accident,2.0,26.0,19.0,,0
+2024,22,Indianapolis,long intermediate,36,16,21,Harrison Burton,Ford,Wood Brothers Racing,74,0,accident,1.0,15.0,36.0,,0
+2024,22,Indianapolis,long intermediate,37,15,16,A.J. Allmendinger,Chevrolet,Kaulig Racing,74,0,accident,0.0,20.0,38.0,,0
+2024,22,Indianapolis,long intermediate,38,4,24,William Byron,Chevrolet,Hendrick Motorsports,73,0,accident,8.0,4.0,37.0,,7
+2024,22,Indianapolis,long intermediate,39,39,66,B.J. McLeod,Ford,MBM Motorsports,15,0,engine,0.0,39.0,39.0,,0
+2024,23,Richmond,short track,1,6,3,Austin Dillon,Chevrolet,Richard Childress Racing,408,35,running,50.0,7.0,5.0,,10
+2024,23,Richmond,short track,2,1,11,Denny Hamlin,Toyota,Joe Gibbs Racing,408,124,running,52.0,2.0,3.0,,17
+2024,23,Richmond,short track,3,10,45,Tyler Reddick,Toyota,23XI Racing,408,8,running,40.0,9.0,7.0,,6
+2024,23,Richmond,short track,4,8,23,Bubba Wallace,Toyota,23XI Racing,408,0,running,42.0,5.0,8.0,,9
+2024,23,Richmond,short track,5,22,1,Ross Chastain,Chevrolet,Trackhouse Racing,408,0,running,32.0,11.0,12.0,,0
+2024,23,Richmond,short track,6,5,20,Christopher Bell,Toyota,Joe Gibbs Racing,408,122,running,50.0,1.0,2.0,,19
+2024,23,Richmond,short track,7,15,5,Kyle Larson,Chevrolet,Hendrick Motorsports,408,17,running,30.0,13.0,15.0,,0
+2024,23,Richmond,short track,8,19,77,Carson Hocevar,Chevrolet,Spire Motorsports,408,2,running,31.0,16.0,9.0,,2
+2024,23,Richmond,short track,9,4,9,Chase Elliott,Chevrolet,Hendrick Motorsports,408,5,running,34.0,6.0,10.0,,6
+2024,23,Richmond,short track,10,21,99,Daniel Suarez,Chevrolet,Trackhouse Racing,408,93,running,37.0,15.0,1.0,,10
+2024,23,Richmond,short track,11,11,12,Ryan Blaney,Ford,Team Penske,408,0,running,26.0,14.0,14.0,,0
+2024,23,Richmond,short track,12,12,8,Kyle Busch,Chevrolet,Richard Childress Racing,408,0,running,25.0,18.0,18.0,,0
+2024,23,Richmond,short track,13,13,24,William Byron,Chevrolet,Hendrick Motorsports,408,0,running,24.0,12.0,13.0,,0
+2024,23,Richmond,short track,14,3,4,Josh Berry,Ford,Stewart-Haas Racing,408,0,running,24.0,10.0,17.0,,1
+2024,23,Richmond,short track,15,28,34,Michael McDowell,Ford,Front Row Motorsports,408,0,running,27.0,29.0,6.0,,5
+2024,23,Richmond,short track,16,29,6,Brad Keselowski,Ford,RFK Racing,408,0,running,21.0,27.0,22.0,,0
+2024,23,Richmond,short track,17,23,38,Todd Gilliland,Ford,Front Row Motorsports,408,0,running,20.0,20.0,24.0,,0
+2024,23,Richmond,short track,18,7,17,Chris Buescher,Ford,RFK Racing,408,0,running,22.0,8.0,25.0,,3
+2024,23,Richmond,short track,19,9,22,Joey Logano,Ford,Team Penske,408,2,running,32.0,4.0,4.0,,14
+2024,23,Richmond,short track,20,16,10,Noah Gragson,Ford,Stewart-Haas Racing,407,0,running,17.0,28.0,27.0,,0
+2024,23,Richmond,short track,21,25,14,Chase Briscoe,Ford,Stewart-Haas Racing,407,0,running,16.0,25.0,26.0,,0
+2024,23,Richmond,short track,22,14,54,Ty Gibbs,Toyota,Joe Gibbs Racing,407,0,running,15.0,17.0,28.0,,0
+2024,23,Richmond,short track,23,20,71,Zane Smith,Chevrolet,Spire Motorsports,407,0,running,14.0,22.0,21.0,,0
+2024,23,Richmond,short track,24,18,2,Austin Cindric,Ford,Team Penske,407,0,running,13.0,19.0,20.0,,0
+2024,23,Richmond,short track,25,26,41,Ryan Preece,Ford,Stewart-Haas Racing,407,0,running,12.0,23.0,19.0,,0
+2024,23,Richmond,short track,26,30,16,Ty Dillon,Chevrolet,Kaulig Racing,407,0,running,0.0,32.0,29.0,,0
+2024,23,Richmond,short track,27,36,51,Justin Haley,Ford,Rick Ware Racing,406,0,running,10.0,31.0,34.0,,0
+2024,23,Richmond,short track,28,17,48,Alex Bowman,Chevrolet,Hendrick Motorsports,406,0,running,9.0,21.0,23.0,,0
+2024,23,Richmond,short track,29,27,43,Erik Jones,Toyota,Legacy Motor Club,406,0,running,8.0,26.0,31.0,,0
+2024,23,Richmond,short track,30,32,31,Daniel Hemric,Chevrolet,Kaulig Racing,406,0,running,7.0,35.0,30.0,,0
+2024,23,Richmond,short track,31,35,42,John Hunter Nemechek,Toyota,Legacy Motor Club,405,0,running,6.0,34.0,35.0,,0
+2024,23,Richmond,short track,32,31,21,Harrison Burton,Ford,Wood Brothers Racing,405,0,running,5.0,33.0,33.0,,0
+2024,23,Richmond,short track,33,34,15,Riley Herbst,Ford,Rick Ware Racing,405,0,running,0.0,36.0,32.0,,0
+2024,23,Richmond,short track,34,24,7,Corey LaJoie,Chevrolet,Spire Motorsports,404,0,running,3.0,30.0,36.0,,0
+2024,23,Richmond,short track,35,37,66,Parker Retzlaff,Ford,MBM Motorsports,402,0,running,0.0,37.0,37.0,,0
+2024,23,Richmond,short track,36,33,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,397,0,accident,1.0,24.0,16.0,,0
+2024,23,Richmond,short track,37,2,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,250,0,engine,9.0,3.0,11.0,,8
+2024,24,Michigan,long intermediate,1,2,45,Tyler Reddick,Toyota,23XI Racing,206,15,running,40.0,12.0,27.0,,0
+2024,24,Michigan,long intermediate,2,9,24,William Byron,Chevrolet,Hendrick Motorsports,206,20,running,50.0,3.0,4.0,,15
+2024,24,Michigan,long intermediate,3,19,54,Ty Gibbs,Toyota,Joe Gibbs Racing,206,2,running,42.0,19.0,3.0,,8
+2024,24,Michigan,long intermediate,4,13,8,Kyle Busch,Chevrolet,Richard Childress Racing,206,24,running,48.0,6.0,1.0,,15
+2024,24,Michigan,long intermediate,5,15,6,Brad Keselowski,Ford,RFK Racing,206,2,running,41.0,7.0,6.0,,9
+2024,24,Michigan,long intermediate,6,18,17,Chris Buescher,Ford,RFK Racing,206,0,running,37.0,5.0,21.0,,6
+2024,24,Michigan,long intermediate,7,27,71,Zane Smith,Chevrolet,Spire Motorsports,206,0,running,30.0,32.0,25.0,,0
+2024,24,Michigan,long intermediate,8,12,99,Daniel Suarez,Chevrolet,Trackhouse Racing,206,7,running,29.0,11.0,22.0,,0
+2024,24,Michigan,long intermediate,9,1,11,Denny Hamlin,Toyota,Joe Gibbs Racing,206,0,running,28.0,22.0,26.0,,0
+2024,24,Michigan,long intermediate,10,11,77,Carson Hocevar,Chevrolet,Spire Motorsports,206,3,running,27.0,33.0,17.0,,0
+2024,24,Michigan,long intermediate,11,26,41,Ryan Preece,Ford,Stewart-Haas Racing,206,0,running,26.0,29.0,18.0,,0
+2024,24,Michigan,long intermediate,12,25,10,Noah Gragson,Ford,Stewart-Haas Racing,206,0,running,25.0,20.0,20.0,,0
+2024,24,Michigan,long intermediate,13,30,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,206,2,running,24.0,21.0,16.0,,0
+2024,24,Michigan,long intermediate,14,34,21,Harrison Burton,Ford,Wood Brothers Racing,206,5,running,23.0,31.0,29.0,,0
+2024,24,Michigan,long intermediate,15,6,9,Chase Elliott,Chevrolet,Hendrick Motorsports,206,29,running,31.0,2.0,14.0,,9
+2024,24,Michigan,long intermediate,16,28,43,Erik Jones,Toyota,Legacy Motor Club,206,0,running,24.0,23.0,8.0,,3
+2024,24,Michigan,long intermediate,17,10,3,Austin Dillon,Chevrolet,Richard Childress Racing,206,0,running,26.0,35.0,5.0,,6
+2024,24,Michigan,long intermediate,18,8,12,Ryan Blaney,Ford,Team Penske,206,15,running,30.0,1.0,10.0,,11
+2024,24,Michigan,long intermediate,19,17,34,Michael McDowell,Ford,Front Row Motorsports,206,0,running,18.0,34.0,32.0,,0
+2024,24,Michigan,long intermediate,20,29,51,Justin Haley,Ford,Rick Ware Racing,206,0,running,17.0,28.0,33.0,,0
+2024,24,Michigan,long intermediate,21,36,15,Cody Ware,Ford,Rick Ware Racing,206,0,running,18.0,26.0,9.0,,2
+2024,24,Michigan,long intermediate,22,16,4,Josh Berry,Ford,Stewart-Haas Racing,206,4,running,15.0,36.0,28.0,,0
+2024,24,Michigan,long intermediate,23,32,31,Daniel Hemric,Chevrolet,Kaulig Racing,206,0,running,14.0,25.0,23.0,,0
+2024,24,Michigan,long intermediate,24,24,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,206,28,running,20.0,8.0,7.0,,7
+2024,24,Michigan,long intermediate,25,7,1,Ross Chastain,Chevrolet,Trackhouse Racing,205,4,running,22.0,10.0,2.0,,10
+2024,24,Michigan,long intermediate,26,5,23,Bubba Wallace,Toyota,23XI Racing,205,5,running,18.0,4.0,13.0,,7
+2024,24,Michigan,long intermediate,27,22,48,Alex Bowman,Chevrolet,Hendrick Motorsports,205,0,running,12.0,9.0,12.0,,2
+2024,24,Michigan,long intermediate,28,23,2,Austin Cindric,Ford,Team Penske,204,0,running,9.0,27.0,34.0,,0
+2024,24,Michigan,long intermediate,29,33,42,John Hunter Nemechek,Toyota,Legacy Motor Club,202,0,running,8.0,30.0,35.0,,0
+2024,24,Michigan,long intermediate,30,35,16,A.J. Allmendinger,Chevrolet,Kaulig Racing,200,0,running,0.0,18.0,36.0,,0
+2024,24,Michigan,long intermediate,31,21,14,Chase Briscoe,Ford,Stewart-Haas Racing,157,0,suspension,6.0,13.0,15.0,,0
+2024,24,Michigan,long intermediate,32,31,7,Corey LaJoie,Chevrolet,Spire Motorsports,135,0,accident,5.0,17.0,24.0,,0
+2024,24,Michigan,long intermediate,33,14,22,Joey Logano,Ford,Team Penske,117,0,accident,4.0,16.0,31.0,,0
+2024,24,Michigan,long intermediate,34,4,5,Kyle Larson,Chevrolet,Hendrick Motorsports,115,41,accident,3.0,14.0,11.0,,0
+2024,24,Michigan,long intermediate,35,3,20,Christopher Bell,Toyota,Joe Gibbs Racing,115,0,accident,2.0,15.0,19.0,,0
+2024,24,Michigan,long intermediate,36,20,38,Todd Gilliland,Ford,Front Row Motorsports,114,0,accident,1.0,24.0,30.0,,0
+2024,25,Daytona,superspeedway,1,20,21,Harrison Burton,Ford,Wood Brothers Racing,164,1,running,40.0,34.0,18.0,,0
+2024,25,Daytona,superspeedway,2,11,8,Kyle Busch,Chevrolet,Richard Childress Racing,164,8,running,39.0,13.0,7.0,,4
+2024,25,Daytona,superspeedway,3,27,20,Christopher Bell,Toyota,Joe Gibbs Racing,164,0,running,34.0,15.0,20.0,,0
+2024,25,Daytona,superspeedway,4,33,15,Cody Ware,Ford,Rick Ware Racing,164,0,running,33.0,29.0,21.0,,0
+2024,25,Daytona,superspeedway,5,26,54,Ty Gibbs,Toyota,Joe Gibbs Racing,164,0,running,32.0,19.0,15.0,,0
+2024,25,Daytona,superspeedway,6,18,23,Bubba Wallace,Toyota,23XI Racing,164,16,running,32.0,12.0,10.0,,1
+2024,25,Daytona,superspeedway,7,29,62,Parker Retzlaff,Chevrolet,Beard Motorsports,164,0,running,0.0,37.0,30.0,,0
+2024,25,Daytona,superspeedway,8,12,6,Brad Keselowski,Ford,RFK Racing,164,8,running,41.0,7.0,3.0,,12
+2024,25,Daytona,superspeedway,9,28,31,Daniel Hemric,Chevrolet,Kaulig Racing,164,0,running,28.0,33.0,25.0,,0
+2024,25,Daytona,superspeedway,10,13,17,Chris Buescher,Ford,RFK Racing,164,10,running,37.0,3.0,9.0,,10
+2024,25,Daytona,superspeedway,11,37,77,Carson Hocevar,Chevrolet,Spire Motorsports,164,1,running,26.0,38.0,27.0,,0
+2024,25,Daytona,superspeedway,12,24,1,Ross Chastain,Chevrolet,Trackhouse Racing,164,0,running,25.0,11.0,32.0,,0
+2024,25,Daytona,superspeedway,13,30,71,Zane Smith,Chevrolet,Spire Motorsports,164,0,running,24.0,28.0,17.0,,0
+2024,25,Daytona,superspeedway,14,6,14,Chase Briscoe,Ford,Stewart-Haas Racing,164,2,running,23.0,26.0,23.0,,0
+2024,25,Daytona,superspeedway,15,31,42,John Hunter Nemechek,Toyota,Legacy Motor Club,164,0,running,22.0,25.0,22.0,,0
+2024,25,Daytona,superspeedway,16,21,48,Alex Bowman,Chevrolet,Hendrick Motorsports,164,0,running,21.0,14.0,13.0,,0
+2024,25,Daytona,superspeedway,17,40,43,Erik Jones,Toyota,Legacy Motor Club,164,0,running,20.0,24.0,29.0,,0
+2024,25,Daytona,superspeedway,18,8,2,Austin Cindric,Ford,Team Penske,164,15,running,26.0,4.0,16.0,,7
+2024,25,Daytona,superspeedway,19,38,78,B.J. McLeod,Chevrolet,Live Fast Motorsports,164,0,running,0.0,22.0,19.0,,0
+2024,25,Daytona,superspeedway,20,39,44,Joey Gase,Chevrolet,NY Racing Team,164,0,running,0.0,40.0,28.0,,0
+2024,25,Daytona,superspeedway,21,9,5,Kyle Larson,Chevrolet,Hendrick Motorsports,163,5,running,24.0,10.0,4.0,,8
+2024,25,Daytona,superspeedway,22,16,3,Austin Dillon,Chevrolet,Richard Childress Racing,162,0,running,15.0,30.0,24.0,,0
+2024,25,Daytona,superspeedway,23,2,38,Todd Gilliland,Ford,Front Row Motorsports,162,5,running,25.0,6.0,5.0,,11
+2024,25,Daytona,superspeedway,24,17,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,161,0,running,13.0,27.0,33.0,,0
+2024,25,Daytona,superspeedway,25,23,33,Austin Hill,Chevrolet,Richard Childress Racing,159,0,accident,0.0,35.0,26.0,,0
+2024,25,Daytona,superspeedway,26,5,4,Josh Berry,Ford,Stewart-Haas Racing,158,9,accident,21.0,1.0,14.0,,10
+2024,25,Daytona,superspeedway,27,7,24,William Byron,Chevrolet,Hendrick Motorsports,158,1,accident,15.0,9.0,8.0,,5
+2024,25,Daytona,superspeedway,28,25,45,Tyler Reddick,Toyota,23XI Racing,156,0,accident,9.0,20.0,12.0,,0
+2024,25,Daytona,superspeedway,29,14,12,Ryan Blaney,Ford,Team Penske,154,0,accident,23.0,5.0,2.0,,15
+2024,25,Daytona,superspeedway,30,1,34,Michael McDowell,Ford,Front Row Motorsports,151,26,accident,10.0,8.0,11.0,,3
+2024,25,Daytona,superspeedway,31,3,22,Joey Logano,Ford,Team Penske,151,34,accident,25.0,2.0,1.0,,19
+2024,25,Daytona,superspeedway,32,36,51,Justin Haley,Ford,Rick Ware Racing,151,21,accident,10.0,16.0,6.0,,5
+2024,25,Daytona,superspeedway,33,35,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,151,2,accident,4.0,39.0,31.0,,0
+2024,25,Daytona,superspeedway,34,34,7,Corey LaJoie,Chevrolet,Spire Motorsports,132,0,running,3.0,17.0,35.0,,0
+2024,25,Daytona,superspeedway,35,32,16,Shane Van Gisbergen,Chevrolet,Kaulig Racing,80,0,engine,0.0,36.0,34.0,,0
+2024,25,Daytona,superspeedway,36,10,9,Chase Elliott,Chevrolet,Hendrick Motorsports,61,0,accident,1.0,21.0,38.0,,0
+2024,25,Daytona,superspeedway,37,15,10,Noah Gragson,Ford,Stewart-Haas Racing,59,0,accident,1.0,31.0,36.0,,0
+2024,25,Daytona,superspeedway,38,19,11,Denny Hamlin,Toyota,Joe Gibbs Racing,59,0,accident,1.0,18.0,37.0,,0
+2024,25,Daytona,superspeedway,39,4,41,Ryan Preece,Ford,Stewart-Haas Racing,59,0,dvp,1.0,32.0,39.0,,0
+2024,25,Daytona,superspeedway,40,22,99,Daniel Suarez,Chevrolet,Trackhouse Racing,37,0,fire,1.0,23.0,40.0,,0
+2024,26,Darlington,short intermediate,1,3,14,Chase Briscoe,Ford,Stewart-Haas Racing,367,29,running,57.0,3.0,2.0,,17
+2024,26,Darlington,short intermediate,2,17,8,Kyle Busch,Chevrolet,Richard Childress Racing,367,0,running,35.0,20.0,12.0,,0
+2024,26,Darlington,short intermediate,3,9,20,Christopher Bell,Toyota,Joe Gibbs Racing,367,1,running,46.0,5.0,5.0,,12
+2024,26,Darlington,short intermediate,4,4,5,Kyle Larson,Chevrolet,Hendrick Motorsports,367,263,running,53.0,1.0,1.0,,20
+2024,26,Darlington,short intermediate,5,22,1,Ross Chastain,Chevrolet,Trackhouse Racing,367,3,running,32.0,22.0,16.0,,0
+2024,26,Darlington,short intermediate,6,10,17,Chris Buescher,Ford,RFK Racing,367,0,running,32.0,10.0,13.0,,1
+2024,26,Darlington,short intermediate,7,14,11,Denny Hamlin,Toyota,Joe Gibbs Racing,367,21,running,43.0,6.0,3.0,,13
+2024,26,Darlington,short intermediate,8,23,22,Joey Logano,Ford,Team Penske,367,0,running,29.0,15.0,15.0,,0
+2024,26,Darlington,short intermediate,9,19,7,Corey LaJoie,Chevrolet,Spire Motorsports,367,0,running,28.0,21.0,23.0,,0
+2024,26,Darlington,short intermediate,10,6,45,Tyler Reddick,Toyota,23XI Racing,367,1,running,37.0,4.0,8.0,,10
+2024,26,Darlington,short intermediate,11,20,9,Chase Elliott,Chevrolet,Hendrick Motorsports,367,0,running,26.0,19.0,22.0,,0
+2024,26,Darlington,short intermediate,12,30,41,Ryan Preece,Ford,Stewart-Haas Racing,367,0,running,25.0,16.0,11.0,,0
+2024,26,Darlington,short intermediate,13,11,2,Austin Cindric,Ford,Team Penske,367,0,running,24.0,32.0,26.0,,0
+2024,26,Darlington,short intermediate,14,12,6,Brad Keselowski,Ford,RFK Racing,367,0,running,24.0,11.0,10.0,,1
+2024,26,Darlington,short intermediate,15,16,3,Austin Dillon,Chevrolet,Richard Childress Racing,367,0,running,22.0,14.0,20.0,,0
+2024,26,Darlington,short intermediate,16,1,23,Bubba Wallace,Toyota,23XI Racing,367,37,running,32.0,2.0,9.0,,11
+2024,26,Darlington,short intermediate,17,33,38,Todd Gilliland,Ford,Front Row Motorsports,367,0,running,20.0,12.0,14.0,,0
+2024,26,Darlington,short intermediate,18,32,99,Daniel Suarez,Chevrolet,Trackhouse Racing,366,0,running,19.0,24.0,18.0,,0
+2024,26,Darlington,short intermediate,19,27,48,Alex Bowman,Chevrolet,Hendrick Motorsports,366,0,running,18.0,23.0,21.0,,0
+2024,26,Darlington,short intermediate,20,13,54,Ty Gibbs,Toyota,Joe Gibbs Racing,366,1,running,26.0,7.0,6.0,,9
+2024,26,Darlington,short intermediate,21,24,21,Harrison Burton,Ford,Wood Brothers Racing,365,0,running,16.0,27.0,25.0,,0
+2024,26,Darlington,short intermediate,22,36,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,365,0,running,15.0,31.0,31.0,,0
+2024,26,Darlington,short intermediate,23,26,71,Zane Smith,Chevrolet,Spire Motorsports,364,0,running,14.0,26.0,28.0,,0
+2024,26,Darlington,short intermediate,24,28,43,Erik Jones,Toyota,Legacy Motor Club,364,0,running,13.0,18.0,24.0,,0
+2024,26,Darlington,short intermediate,25,18,42,John Hunter Nemechek,Toyota,Legacy Motor Club,364,0,running,12.0,29.0,29.0,,0
+2024,26,Darlington,short intermediate,26,34,16,Shane Van Gisbergen,Chevrolet,Kaulig Racing,364,4,running,0.0,30.0,30.0,,0
+2024,26,Darlington,short intermediate,27,21,51,Justin Haley,Ford,Rick Ware Racing,363,0,running,10.0,33.0,33.0,,0
+2024,26,Darlington,short intermediate,28,31,34,Michael McDowell,Ford,Front Row Motorsports,363,0,running,9.0,25.0,27.0,,0
+2024,26,Darlington,short intermediate,29,25,31,Daniel Hemric,Chevrolet,Kaulig Racing,362,0,running,8.0,28.0,32.0,,0
+2024,26,Darlington,short intermediate,30,8,24,William Byron,Chevrolet,Hendrick Motorsports,344,2,accident,17.0,8.0,4.0,,10
+2024,26,Darlington,short intermediate,31,15,4,Josh Berry,Ford,Stewart-Haas Racing,343,5,accident,12.0,9.0,7.0,,6
+2024,26,Darlington,short intermediate,32,29,10,Noah Gragson,Ford,Stewart-Haas Racing,343,0,accident,5.0,17.0,17.0,,0
+2024,26,Darlington,short intermediate,33,2,77,Carson Hocevar,Chevrolet,Spire Motorsports,335,0,accident,4.0,13.0,19.0,,0
+2024,26,Darlington,short intermediate,34,35,15,Kaz Grala,Ford,Rick Ware Racing,332,0,running,3.0,34.0,35.0,,0
+2024,26,Darlington,short intermediate,35,37,66,Timmy Hill,Ford,MBM Motorsports,278,0,steering,0.0,35.0,34.0,,0
+2024,26,Darlington,short intermediate,36,5,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,2,0,accident,1.0,36.0,36.0,,0
+2024,26,Darlington,short intermediate,37,7,12,Ryan Blaney,Ford,Team Penske,2,0,accident,1.0,37.0,37.0,,0
+2024,27,Atlanta,superspeedway,1,7,22,Joey Logano,Ford,Team Penske,266,9,running,47.0,4.0,12.0,,7
+2024,27,Atlanta,superspeedway,2,30,99,Daniel Suarez,Chevrolet,Trackhouse Racing,266,9,running,42.0,15.0,4.0,,7
+2024,27,Atlanta,superspeedway,3,2,12,Ryan Blaney,Ford,Team Penske,266,33,running,53.0,1.0,2.0,,19
+2024,27,Atlanta,superspeedway,4,26,20,Christopher Bell,Toyota,Joe Gibbs Racing,266,0,running,34.0,19.0,10.0,,1
+2024,27,Atlanta,superspeedway,5,11,48,Alex Bowman,Chevrolet,Hendrick Motorsports,266,5,running,48.0,3.0,3.0,,16
+2024,27,Atlanta,superspeedway,6,23,45,Tyler Reddick,Toyota,23XI Racing,266,0,running,31.0,17.0,11.0,,0
+2024,27,Atlanta,superspeedway,7,15,8,Kyle Busch,Chevrolet,Richard Childress Racing,266,24,running,30.0,18.0,16.0,,0
+2024,27,Atlanta,superspeedway,8,16,9,Chase Elliott,Chevrolet,Hendrick Motorsports,266,0,running,36.0,7.0,8.0,,7
+2024,27,Atlanta,superspeedway,9,9,24,William Byron,Chevrolet,Hendrick Motorsports,266,2,running,37.0,8.0,5.0,,9
+2024,27,Atlanta,superspeedway,10,5,2,Austin Cindric,Ford,Team Penske,266,92,running,46.0,2.0,1.0,,19
+2024,27,Atlanta,superspeedway,11,14,31,Daniel Hemric,Chevrolet,Kaulig Racing,266,0,running,26.0,20.0,25.0,,0
+2024,27,Atlanta,superspeedway,12,29,51,Justin Haley,Ford,Rick Ware Racing,266,0,running,25.0,13.0,15.0,,0
+2024,27,Atlanta,superspeedway,13,18,1,Ross Chastain,Chevrolet,Trackhouse Racing,266,13,running,33.0,6.0,7.0,,9
+2024,27,Atlanta,superspeedway,14,27,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,266,0,running,34.0,5.0,6.0,,11
+2024,27,Atlanta,superspeedway,15,25,7,Corey LaJoie,Chevrolet,Spire Motorsports,266,0,running,22.0,21.0,21.0,,0
+2024,27,Atlanta,superspeedway,16,32,77,Carson Hocevar,Chevrolet,Spire Motorsports,266,1,running,21.0,30.0,30.0,,0
+2024,27,Atlanta,superspeedway,17,20,54,Ty Gibbs,Toyota,Joe Gibbs Racing,266,37,running,23.0,10.0,9.0,,3
+2024,27,Atlanta,superspeedway,18,21,41,Ryan Preece,Ford,Stewart-Haas Racing,266,2,running,19.0,36.0,34.0,,0
+2024,27,Atlanta,superspeedway,19,19,6,Brad Keselowski,Ford,RFK Racing,266,0,running,18.0,25.0,13.0,,0
+2024,27,Atlanta,superspeedway,20,8,3,Austin Dillon,Chevrolet,Richard Childress Racing,266,0,running,17.0,24.0,20.0,,0
+2024,27,Atlanta,superspeedway,21,34,71,Zane Smith,Chevrolet,Spire Motorsports,266,0,running,16.0,27.0,23.0,,0
+2024,27,Atlanta,superspeedway,22,1,34,Michael McDowell,Ford,Front Row Motorsports,266,30,running,15.0,14.0,17.0,,0
+2024,27,Atlanta,superspeedway,23,37,44,J.J. Yeley,Chevrolet,NY Racing Team,266,0,running,0.0,37.0,36.0,,0
+2024,27,Atlanta,superspeedway,24,38,11,Denny Hamlin,Toyota,Joe Gibbs Racing,266,0,running,13.0,34.0,29.0,,0
+2024,27,Atlanta,superspeedway,25,36,78,B.J. McLeod,Chevrolet,Live Fast Motorsports,266,1,running,0.0,35.0,35.0,,0
+2024,27,Atlanta,superspeedway,26,33,43,Erik Jones,Toyota,Legacy Motor Club,266,0,running,11.0,32.0,19.0,,0
+2024,27,Atlanta,superspeedway,27,3,38,Todd Gilliland,Ford,Front Row Motorsports,266,0,running,10.0,16.0,14.0,,0
+2024,27,Atlanta,superspeedway,28,4,4,Josh Berry,Ford,Stewart-Haas Racing,266,0,running,9.0,12.0,31.0,,0
+2024,27,Atlanta,superspeedway,29,24,23,Bubba Wallace,Toyota,23XI Racing,266,8,running,8.0,33.0,33.0,,0
+2024,27,Atlanta,superspeedway,30,31,15,Cody Ware,Ford,Rick Ware Racing,266,0,running,7.0,38.0,32.0,,0
+2024,27,Atlanta,superspeedway,31,12,21,Harrison Burton,Ford,Wood Brothers Racing,265,0,accident,6.0,11.0,22.0,,0
+2024,27,Atlanta,superspeedway,32,28,16,Shane Van Gisbergen,Chevrolet,Kaulig Racing,264,0,running,0.0,31.0,28.0,,0
+2024,27,Atlanta,superspeedway,33,35,42,John Hunter Nemechek,Toyota,Legacy Motor Club,262,0,running,4.0,29.0,26.0,,0
+2024,27,Atlanta,superspeedway,34,13,10,Noah Gragson,Ford,Stewart-Haas Racing,258,0,accident,3.0,26.0,24.0,,0
+2024,27,Atlanta,superspeedway,35,22,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,254,0,accident,4.0,9.0,18.0,,2
+2024,27,Atlanta,superspeedway,36,17,17,Chris Buescher,Ford,RFK Racing,205,0,accident,1.0,28.0,27.0,,0
+2024,27,Atlanta,superspeedway,37,6,5,Kyle Larson,Chevrolet,Hendrick Motorsports,55,0,accident,1.0,22.0,37.0,,0
+2024,27,Atlanta,superspeedway,38,10,14,Chase Briscoe,Ford,Stewart-Haas Racing,55,0,accident,1.0,23.0,38.0,,0
+2024,28,Watkins Glen,road course,1,24,17,Chris Buescher,Ford,RFK Racing,92,19,running,40.0,22.0,16.0,,0
+2024,28,Watkins Glen,road course,2,3,16,Shane Van Gisbergen,Chevrolet,Kaulig Racing,92,1,running,0.0,15.0,2.0,,0
+2024,28,Watkins Glen,road course,3,29,77,Carson Hocevar,Chevrolet,Spire Motorsports,92,1,running,34.0,23.0,17.0,,0
+2024,28,Watkins Glen,road course,4,1,1,Ross Chastain,Chevrolet,Trackhouse Racing,92,51,running,43.0,14.0,1.0,,10
+2024,28,Watkins Glen,road course,5,19,71,Zane Smith,Chevrolet,Spire Motorsports,92,0,running,32.0,18.0,13.0,,0
+2024,28,Watkins Glen,road course,6,12,14,Chase Briscoe,Ford,Stewart-Haas Racing,92,0,running,43.0,3.0,7.0,,12
+2024,28,Watkins Glen,road course,7,10,34,Michael McDowell,Ford,Front Row Motorsports,92,7,running,30.0,16.0,11.0,,0
+2024,28,Watkins Glen,road course,8,18,7,Corey LaJoie,Chevrolet,Spire Motorsports,92,2,running,29.0,19.0,14.0,,0
+2024,28,Watkins Glen,road course,9,21,41,Ryan Preece,Ford,Stewart-Haas Racing,92,0,running,30.0,11.0,9.0,,2
+2024,28,Watkins Glen,road course,10,5,2,Austin Cindric,Ford,Team Penske,92,0,running,33.0,5.0,24.0,,6
+2024,28,Watkins Glen,road course,11,9,10,Noah Gragson,Ford,Stewart-Haas Racing,92,0,running,26.0,26.0,19.0,,0
+2024,28,Watkins Glen,road course,12,20,5,Kyle Larson,Chevrolet,Hendrick Motorsports,92,0,running,28.0,8.0,27.0,,3
+2024,28,Watkins Glen,road course,13,8,99,Daniel Suarez,Chevrolet,Trackhouse Racing,92,0,running,31.0,4.0,34.0,,7
+2024,28,Watkins Glen,road course,14,17,20,Christopher Bell,Toyota,Joe Gibbs Racing,92,0,running,23.0,28.0,22.0,,0
+2024,28,Watkins Glen,road course,15,7,22,Joey Logano,Ford,Team Penske,92,6,running,30.0,17.0,3.0,,8
+2024,28,Watkins Glen,road course,16,37,38,Todd Gilliland,Ford,Front Row Motorsports,92,0,running,21.0,32.0,23.0,,0
+2024,28,Watkins Glen,road course,17,32,23,Bubba Wallace,Toyota,23XI Racing,92,0,running,20.0,12.0,12.0,,0
+2024,28,Watkins Glen,road course,18,4,48,Alex Bowman,Chevrolet,Hendrick Motorsports,92,1,running,31.0,2.0,8.0,,12
+2024,28,Watkins Glen,road course,19,14,9,Chase Elliott,Chevrolet,Hendrick Motorsports,92,0,running,23.0,6.0,25.0,,5
+2024,28,Watkins Glen,road course,20,2,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,92,4,running,27.0,1.0,21.0,,10
+2024,28,Watkins Glen,road course,21,35,42,John Hunter Nemechek,Toyota,Legacy Motor Club,92,0,running,16.0,31.0,18.0,,0
+2024,28,Watkins Glen,road course,22,15,54,Ty Gibbs,Toyota,Joe Gibbs Racing,92,0,running,22.0,20.0,4.0,,7
+2024,28,Watkins Glen,road course,23,22,11,Denny Hamlin,Toyota,Joe Gibbs Racing,92,0,running,15.0,34.0,10.0,,1
+2024,28,Watkins Glen,road course,24,33,21,Harrison Burton,Ford,Wood Brothers Racing,92,0,running,18.0,30.0,6.0,,5
+2024,28,Watkins Glen,road course,25,31,4,Josh Berry,Ford,Stewart-Haas Racing,92,0,running,12.0,24.0,20.0,,0
+2024,28,Watkins Glen,road course,26,28,6,Brad Keselowski,Ford,RFK Racing,92,0,running,11.0,25.0,28.0,,0
+2024,28,Watkins Glen,road course,27,16,45,Tyler Reddick,Toyota,23XI Racing,92,0,running,14.0,7.0,31.0,,4
+2024,28,Watkins Glen,road course,28,23,3,Austin Dillon,Chevrolet,Richard Childress Racing,92,0,running,9.0,33.0,32.0,,0
+2024,28,Watkins Glen,road course,29,36,51,Justin Haley,Ford,Rick Ware Racing,92,0,running,8.0,29.0,30.0,,0
+2024,28,Watkins Glen,road course,30,13,8,Kyle Busch,Chevrolet,Richard Childress Racing,92,0,running,7.0,35.0,35.0,,0
+2024,28,Watkins Glen,road course,31,27,31,Daniel Hemric,Chevrolet,Kaulig Racing,92,0,running,7.0,10.0,26.0,,1
+2024,28,Watkins Glen,road course,32,34,50,Juan Pablo Montoya,Toyota,23XI Racing,91,0,running,5.0,27.0,15.0,,0
+2024,28,Watkins Glen,road course,33,25,43,Erik Jones,Toyota,Legacy Motor Club,90,0,running,6.0,9.0,29.0,,2
+2024,28,Watkins Glen,road course,34,11,24,William Byron,Chevrolet,Hendrick Motorsports,90,0,running,9.0,21.0,5.0,,6
+2024,28,Watkins Glen,road course,35,38,15,Kaz Grala,Ford,Rick Ware Racing,87,0,running,2.0,13.0,33.0,,0
+2024,28,Watkins Glen,road course,36,6,13,A.J. Allmendinger,Chevrolet,Kaulig Racing,6,0,transmission,0.0,36.0,36.0,,0
+2024,28,Watkins Glen,road course,37,26,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,2,0,accident,1.0,37.0,37.0,,0
+2024,28,Watkins Glen,road course,38,30,12,Ryan Blaney,Ford,Team Penske,0,0,accident,1.0,38.0,38.0,,0
+2024,29,Bristol,short track,1,2,5,Kyle Larson,Chevrolet,Hendrick Motorsports,500,462,running,60.0,1.0,1.0,,20
+2024,29,Bristol,short track,2,10,9,Chase Elliott,Chevrolet,Hendrick Motorsports,500,0,running,38.0,9.0,10.0,,3
+2024,29,Bristol,short track,3,11,23,Bubba Wallace,Toyota,23XI Racing,500,1,running,40.0,10.0,6.0,,6
+2024,29,Bristol,short track,4,8,11,Denny Hamlin,Toyota,Joe Gibbs Racing,500,0,running,46.0,6.0,3.0,,13
+2024,29,Bristol,short track,5,6,20,Christopher Bell,Toyota,Joe Gibbs Racing,500,0,running,46.0,3.0,5.0,,14
+2024,29,Bristol,short track,6,22,12,Ryan Blaney,Ford,Team Penske,500,0,running,33.0,11.0,9.0,,2
+2024,29,Bristol,short track,7,14,41,Ryan Preece,Ford,Stewart-Haas Racing,500,0,running,30.0,16.0,12.0,,0
+2024,29,Bristol,short track,8,5,14,Chase Briscoe,Ford,Stewart-Haas Racing,500,0,running,36.0,7.0,8.0,,7
+2024,29,Bristol,short track,9,1,48,Alex Bowman,Chevrolet,Hendrick Motorsports,500,34,running,41.0,2.0,7.0,,13
+2024,29,Bristol,short track,10,12,1,Ross Chastain,Chevrolet,Trackhouse Racing,500,0,running,27.0,17.0,14.0,,0
+2024,29,Bristol,short track,11,18,34,Michael McDowell,Ford,Front Row Motorsports,499,0,running,26.0,18.0,17.0,,0
+2024,29,Bristol,short track,12,16,10,Noah Gragson,Ford,Stewart-Haas Racing,499,0,running,25.0,15.0,15.0,,0
+2024,29,Bristol,short track,13,27,2,Austin Cindric,Ford,Team Penske,499,0,running,24.0,21.0,16.0,,0
+2024,29,Bristol,short track,14,17,17,Chris Buescher,Ford,RFK Racing,499,0,running,23.0,20.0,20.0,,0
+2024,29,Bristol,short track,15,13,54,Ty Gibbs,Toyota,Joe Gibbs Racing,499,0,running,25.0,8.0,19.0,,3
+2024,29,Bristol,short track,16,33,71,Zane Smith,Chevrolet,Spire Motorsports,499,0,running,21.0,26.0,25.0,,0
+2024,29,Bristol,short track,17,3,24,William Byron,Chevrolet,Hendrick Motorsports,499,0,running,26.0,5.0,11.0,,6
+2024,29,Bristol,short track,18,7,77,Carson Hocevar,Chevrolet,Spire Motorsports,499,0,running,19.0,12.0,18.0,,0
+2024,29,Bristol,short track,19,21,31,Daniel Hemric,Chevrolet,Kaulig Racing,499,0,running,18.0,24.0,23.0,,0
+2024,29,Bristol,short track,20,15,45,Tyler Reddick,Toyota,23XI Racing,499,3,running,24.0,19.0,4.0,,7
+2024,29,Bristol,short track,21,30,3,Austin Dillon,Chevrolet,Richard Childress Racing,499,0,running,16.0,23.0,22.0,,0
+2024,29,Bristol,short track,22,26,51,Justin Haley,Ford,Rick Ware Racing,499,0,running,15.0,31.0,24.0,,0
+2024,29,Bristol,short track,23,19,16,A.J. Allmendinger,Chevrolet,Kaulig Racing,499,0,running,0.0,22.0,21.0,,0
+2024,29,Bristol,short track,24,4,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,499,0,running,29.0,4.0,2.0,,16
+2024,29,Bristol,short track,25,29,8,Kyle Busch,Chevrolet,Richard Childress Racing,498,0,running,12.0,28.0,28.0,,0
+2024,29,Bristol,short track,26,23,6,Brad Keselowski,Ford,RFK Racing,497,0,running,11.0,27.0,26.0,,0
+2024,29,Bristol,short track,27,31,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,497,0,running,10.0,33.0,29.0,,0
+2024,29,Bristol,short track,28,20,22,Joey Logano,Ford,Team Penske,496,0,running,9.0,14.0,32.0,,0
+2024,29,Bristol,short track,29,25,4,Josh Berry,Ford,Stewart-Haas Racing,496,0,running,8.0,25.0,31.0,,0
+2024,29,Bristol,short track,30,32,43,Erik Jones,Toyota,Legacy Motor Club,496,0,running,7.0,32.0,27.0,,0
+2024,29,Bristol,short track,31,35,99,Daniel Suarez,Chevrolet,Trackhouse Racing,496,0,running,6.0,30.0,30.0,,0
+2024,29,Bristol,short track,32,24,38,Todd Gilliland,Ford,Front Row Motorsports,496,0,running,5.0,34.0,33.0,,0
+2024,29,Bristol,short track,33,28,42,John Hunter Nemechek,Toyota,Legacy Motor Club,491,0,running,4.0,36.0,35.0,,0
+2024,29,Bristol,short track,34,37,66,Josh Bilicki,Ford,MBM Motorsports,467,0,running,0.0,37.0,36.0,,0
+2024,29,Bristol,short track,35,34,21,Harrison Burton,Ford,Wood Brothers Racing,422,0,running,2.0,29.0,37.0,,0
+2024,29,Bristol,short track,36,9,7,Corey LaJoie,Chevrolet,Spire Motorsports,330,0,accident,1.0,13.0,13.0,,0
+2024,29,Bristol,short track,37,36,15,Kaz Grala,Ford,Rick Ware Racing,296,0,steering,1.0,35.0,34.0,,0
+2024,30,Kansas,intermediate,1,20,1,Ross Chastain,Chevrolet,Trackhouse Racing,267,52,running,40.0,12.0,12.0,,0
+2024,30,Kansas,intermediate,2,6,24,William Byron,Chevrolet,Hendrick Motorsports,267,24,running,52.0,1.0,4.0,,17
+2024,30,Kansas,intermediate,3,19,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,267,5,running,40.0,8.0,8.0,,6
+2024,30,Kansas,intermediate,4,7,12,Ryan Blaney,Ford,Team Penske,267,3,running,49.0,3.0,3.0,,16
+2024,30,Kansas,intermediate,5,2,54,Ty Gibbs,Toyota,Joe Gibbs Racing,267,5,running,46.0,6.0,2.0,,14
+2024,30,Kansas,intermediate,6,12,48,Alex Bowman,Chevrolet,Hendrick Motorsports,267,6,running,43.0,9.0,1.0,,12
+2024,30,Kansas,intermediate,7,1,20,Christopher Bell,Toyota,Joe Gibbs Racing,267,122,running,36.0,5.0,16.0,,6
+2024,30,Kansas,intermediate,8,8,11,Denny Hamlin,Toyota,Joe Gibbs Racing,267,1,running,36.0,4.0,11.0,,7
+2024,30,Kansas,intermediate,9,38,9,Chase Elliott,Chevrolet,Hendrick Motorsports,267,0,running,30.0,19.0,9.0,,2
+2024,30,Kansas,intermediate,10,15,71,Zane Smith,Chevrolet,Spire Motorsports,267,3,running,27.0,20.0,17.0,,0
+2024,30,Kansas,intermediate,11,25,17,Chris Buescher,Ford,RFK Racing,267,0,running,26.0,23.0,14.0,,0
+2024,30,Kansas,intermediate,12,22,3,Austin Dillon,Chevrolet,Richard Childress Racing,267,0,running,25.0,29.0,23.0,,0
+2024,30,Kansas,intermediate,13,10,99,Daniel Suarez,Chevrolet,Trackhouse Racing,267,0,running,24.0,30.0,18.0,,0
+2024,30,Kansas,intermediate,14,5,22,Joey Logano,Ford,Team Penske,267,3,running,32.0,2.0,28.0,,9
+2024,30,Kansas,intermediate,15,27,51,Corey LaJoie,Ford,Rick Ware Racing,267,0,running,22.0,27.0,20.0,,0
+2024,30,Kansas,intermediate,16,37,41,Ryan Preece,Ford,Stewart-Haas Racing,267,0,running,21.0,13.0,24.0,,0
+2024,30,Kansas,intermediate,17,13,23,Bubba Wallace,Toyota,23XI Racing,267,0,running,20.0,21.0,21.0,,0
+2024,30,Kansas,intermediate,18,24,10,Noah Gragson,Ford,Stewart-Haas Racing,267,0,running,19.0,24.0,15.0,,0
+2024,30,Kansas,intermediate,19,3,8,Kyle Busch,Chevrolet,Richard Childress Racing,267,26,running,22.0,18.0,7.0,,4
+2024,30,Kansas,intermediate,20,30,31,Daniel Hemric,Chevrolet,Kaulig Racing,267,0,running,17.0,17.0,33.0,,0
+2024,30,Kansas,intermediate,21,32,16,Ty Dillon,Chevrolet,Kaulig Racing,267,0,running,0.0,31.0,26.0,,0
+2024,30,Kansas,intermediate,22,26,6,Brad Keselowski,Ford,RFK Racing,267,4,running,21.0,11.0,5.0,,6
+2024,30,Kansas,intermediate,23,28,21,Harrison Burton,Ford,Wood Brothers Racing,267,0,running,14.0,36.0,19.0,,0
+2024,30,Kansas,intermediate,24,9,14,Chase Briscoe,Ford,Stewart-Haas Racing,267,0,running,14.0,25.0,10.0,,1
+2024,30,Kansas,intermediate,25,4,45,Tyler Reddick,Toyota,23XI Racing,267,7,running,12.0,14.0,13.0,,0
+2024,30,Kansas,intermediate,26,11,5,Kyle Larson,Chevrolet,Hendrick Motorsports,267,0,running,11.0,35.0,30.0,,0
+2024,30,Kansas,intermediate,27,33,38,Todd Gilliland,Ford,Front Row Motorsports,267,0,running,10.0,22.0,22.0,,0
+2024,30,Kansas,intermediate,28,18,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,267,0,running,9.0,15.0,27.0,,0
+2024,30,Kansas,intermediate,29,21,34,Michael McDowell,Ford,Front Row Motorsports,267,0,running,8.0,26.0,29.0,,0
+2024,30,Kansas,intermediate,30,31,42,John Hunter Nemechek,Toyota,Legacy Motor Club,267,0,running,7.0,28.0,31.0,,0
+2024,30,Kansas,intermediate,31,34,15,Kaz Grala,Ford,Rick Ware Racing,267,0,running,6.0,32.0,32.0,,0
+2024,30,Kansas,intermediate,32,14,77,Carson Hocevar,Chevrolet,Spire Motorsports,267,5,running,11.0,10.0,6.0,,6
+2024,30,Kansas,intermediate,33,23,7,Justin Haley,Chevrolet,Spire Motorsports,266,0,running,4.0,16.0,25.0,,0
+2024,30,Kansas,intermediate,34,17,2,Austin Cindric,Ford,Team Penske,263,0,running,7.0,7.0,34.0,,4
+2024,30,Kansas,intermediate,35,16,43,Erik Jones,Toyota,Legacy Motor Club,263,0,running,2.0,34.0,35.0,,0
+2024,30,Kansas,intermediate,36,35,84,Jimmie Johnson,Toyota,Legacy Motor Club,257,0,running,1.0,37.0,36.0,,0
+2024,30,Kansas,intermediate,37,36,44,J.J. Yeley,Chevrolet,NY Racing Team,118,1,battery,0.0,33.0,37.0,,0
+2024,30,Kansas,intermediate,38,29,4,Josh Berry,Ford,Stewart-Haas Racing,0,0,accident,1.0,38.0,38.0,,0
+2024,31,Talladega,superspeedway,1,32,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,195,19,running,49.0,2.0,20.0,,9
+2024,31,Talladega,superspeedway,2,13,6,Brad Keselowski,Ford,RFK Racing,195,2,running,35.0,27.0,31.0,,0
+2024,31,Talladega,superspeedway,3,16,24,William Byron,Chevrolet,Hendrick Motorsports,195,1,running,48.0,3.0,5.0,,14
+2024,31,Talladega,superspeedway,4,12,5,Kyle Larson,Chevrolet,Hendrick Motorsports,195,1,running,42.0,4.0,9.0,,9
+2024,31,Talladega,superspeedway,5,30,43,Erik Jones,Toyota,Legacy Motor Club,195,0,running,32.0,16.0,17.0,,0
+2024,31,Talladega,superspeedway,6,21,20,Christopher Bell,Toyota,Joe Gibbs Racing,195,0,running,37.0,5.0,28.0,,6
+2024,31,Talladega,superspeedway,7,35,7,Justin Haley,Chevrolet,Spire Motorsports,195,4,running,30.0,15.0,39.0,,0
+2024,31,Talladega,superspeedway,8,7,3,Austin Dillon,Chevrolet,Richard Childress Racing,195,1,running,29.0,38.0,29.0,,0
+2024,31,Talladega,superspeedway,9,26,23,Bubba Wallace,Toyota,23XI Racing,195,3,running,32.0,22.0,7.0,,4
+2024,31,Talladega,superspeedway,10,8,11,Denny Hamlin,Toyota,Joe Gibbs Racing,195,0,running,27.0,23.0,16.0,,0
+2024,31,Talladega,superspeedway,11,24,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,195,0,running,26.0,37.0,35.0,,0
+2024,31,Talladega,superspeedway,12,34,15,Cody Ware,Ford,Rick Ware Racing,195,1,running,25.0,20.0,33.0,,0
+2024,31,Talladega,superspeedway,13,15,54,Ty Gibbs,Toyota,Joe Gibbs Racing,195,0,running,24.0,12.0,15.0,,0
+2024,31,Talladega,superspeedway,14,37,77,Carson Hocevar,Chevrolet,Spire Motorsports,195,0,running,23.0,36.0,27.0,,0
+2024,31,Talladega,superspeedway,15,17,16,Shane Van Gisbergen,Chevrolet,Kaulig Racing,195,9,running,0.0,28.0,4.0,,0
+2024,31,Talladega,superspeedway,16,23,48,Alex Bowman,Chevrolet,Hendrick Motorsports,195,1,running,26.0,11.0,6.0,,5
+2024,31,Talladega,superspeedway,17,20,17,Chris Buescher,Ford,RFK Racing,195,12,running,30.0,1.0,18.0,,10
+2024,31,Talladega,superspeedway,18,28,51,Corey LaJoie,Ford,Rick Ware Racing,195,5,running,19.0,13.0,14.0,,0
+2024,31,Talladega,superspeedway,19,4,8,Kyle Busch,Chevrolet,Richard Childress Racing,195,7,running,26.0,31.0,3.0,,8
+2024,31,Talladega,superspeedway,20,14,45,Tyler Reddick,Toyota,23XI Racing,195,2,running,22.0,6.0,12.0,,5
+2024,31,Talladega,superspeedway,21,39,71,Zane Smith,Chevrolet,Spire Motorsports,195,0,running,16.0,33.0,21.0,,0
+2024,31,Talladega,superspeedway,22,38,78,B.J. McLeod,Chevrolet,Live Fast Motorsports,195,1,running,0.0,34.0,30.0,,0
+2024,31,Talladega,superspeedway,23,3,38,Todd Gilliland,Ford,Front Row Motorsports,194,2,running,14.0,21.0,32.0,,0
+2024,31,Talladega,superspeedway,24,33,62,Anthony Alfredo,Chevrolet,Beard Motorsports,194,0,running,0.0,39.0,38.0,,0
+2024,31,Talladega,superspeedway,25,22,10,Noah Gragson,Ford,Stewart-Haas Racing,194,0,running,12.0,29.0,23.0,,0
+2024,31,Talladega,superspeedway,26,31,99,Daniel Suarez,Chevrolet,Trackhouse Racing,194,0,running,11.0,40.0,37.0,,0
+2024,31,Talladega,superspeedway,27,40,44,J.J. Yeley,Chevrolet,NY Racing Team,193,0,running,0.0,35.0,40.0,,0
+2024,31,Talladega,superspeedway,28,25,13,A.J. Allmendinger,Chevrolet,Kaulig Racing,193,9,running,0.0,26.0,36.0,,0
+2024,31,Talladega,superspeedway,29,11,9,Chase Elliott,Chevrolet,Hendrick Motorsports,190,1,running,17.0,19.0,2.0,,9
+2024,31,Talladega,superspeedway,30,36,14,Chase Briscoe,Ford,Stewart-Haas Racing,189,0,running,10.0,8.0,22.0,,3
+2024,31,Talladega,superspeedway,31,29,42,John Hunter Nemechek,Toyota,Legacy Motor Club,188,0,running,6.0,24.0,26.0,,0
+2024,31,Talladega,superspeedway,32,2,2,Austin Cindric,Ford,Team Penske,183,29,accident,17.0,9.0,1.0,,12
+2024,31,Talladega,superspeedway,33,6,22,Joey Logano,Ford,Team Penske,183,19,accident,4.0,17.0,13.0,,0
+2024,31,Talladega,superspeedway,34,9,21,Harrison Burton,Ford,Wood Brothers Racing,183,0,accident,3.0,25.0,19.0,,0
+2024,31,Talladega,superspeedway,35,18,41,Ryan Preece,Ford,Stewart-Haas Racing,183,0,accident,2.0,14.0,24.0,,0
+2024,31,Talladega,superspeedway,36,19,4,Josh Berry,Ford,Stewart-Haas Racing,183,0,accident,1.0,30.0,25.0,,0
+2024,31,Talladega,superspeedway,37,1,34,Michael McDowell,Ford,Front Row Motorsports,183,42,accident,1.0,18.0,34.0,,0
+2024,31,Talladega,superspeedway,38,10,31,Daniel Hemric,Chevrolet,Kaulig Racing,183,1,accident,1.0,32.0,11.0,,0
+2024,31,Talladega,superspeedway,39,5,12,Ryan Blaney,Ford,Team Penske,124,6,accident,5.0,10.0,8.0,,4
+2024,31,Talladega,superspeedway,40,27,1,Ross Chastain,Chevrolet,Trackhouse Racing,120,17,accident,6.0,7.0,10.0,,5
+2024,32,Charlotte Roval,road course,1,6,5,Kyle Larson,Chevrolet,Hendrick Motorsports,109,62,running,48.0,5.0,9.0,,8
+2024,32,Charlotte Roval,road course,2,12,20,Christopher Bell,Toyota,Joe Gibbs Racing,109,1,running,35.0,11.0,11.0,,0
+2024,32,Charlotte Roval,road course,3,10,24,William Byron,Chevrolet,Hendrick Motorsports,109,0,running,34.0,13.0,16.0,,0
+2024,32,Charlotte Roval,road course,4,5,2,Austin Cindric,Ford,Team Penske,109,0,running,39.0,10.0,6.0,,6
+2024,32,Charlotte Roval,road course,5,7,9,Chase Elliott,Chevrolet,Hendrick Motorsports,109,0,running,48.0,3.0,3.0,,16
+2024,32,Charlotte Roval,road course,6,3,16,A.J. Allmendinger,Chevrolet,Kaulig Racing,109,14,running,0.0,8.0,1.0,,0
+2024,32,Charlotte Roval,road course,7,1,13,Shane Van Gisbergen,Chevrolet,Kaulig Racing,109,21,running,0.0,6.0,14.0,,0
+2024,32,Charlotte Roval,road course,8,4,22,Joey Logano,Ford,Team Penske,109,0,running,47.0,2.0,2.0,,18
+2024,32,Charlotte Roval,road course,9,9,23,Bubba Wallace,Toyota,23XI Racing,109,0,running,35.0,14.0,4.0,,7
+2024,32,Charlotte Roval,road course,10,14,12,Ryan Blaney,Ford,Team Penske,109,0,running,40.0,4.0,5.0,,13
+2024,32,Charlotte Roval,road course,11,2,45,Tyler Reddick,Toyota,23XI Racing,109,6,running,36.0,1.0,35.0,,10
+2024,32,Charlotte Roval,road course,12,20,77,Carson Hocevar,Chevrolet,Spire Motorsports,109,0,running,25.0,18.0,17.0,,0
+2024,32,Charlotte Roval,road course,13,11,8,Kyle Busch,Chevrolet,Richard Childress Racing,109,0,running,27.0,16.0,8.0,,3
+2024,32,Charlotte Roval,road course,14,18,11,Denny Hamlin,Toyota,Joe Gibbs Racing,109,0,running,24.0,27.0,10.0,,1
+2024,32,Charlotte Roval,road course,15,21,34,Michael McDowell,Ford,Front Row Motorsports,109,0,running,26.0,12.0,7.0,,4
+2024,32,Charlotte Roval,road course,16,24,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,109,0,running,21.0,24.0,24.0,,0
+2024,32,Charlotte Roval,road course,17,29,17,Chris Buescher,Ford,RFK Racing,109,0,running,20.0,21.0,19.0,,0
+2024,32,Charlotte Roval,road course,18,15,38,Todd Gilliland,Ford,Front Row Motorsports,109,0,running,19.0,20.0,12.0,,0
+2024,32,Charlotte Roval,road course,19,23,71,Zane Smith,Chevrolet,Spire Motorsports,109,0,running,18.0,25.0,33.0,,0
+2024,32,Charlotte Roval,road course,20,26,21,Harrison Burton,Ford,Wood Brothers Racing,109,0,running,17.0,31.0,31.0,,0
+2024,32,Charlotte Roval,road course,21,30,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,109,0,running,16.0,29.0,22.0,,0
+2024,32,Charlotte Roval,road course,22,36,4,Josh Berry,Ford,Stewart-Haas Racing,109,0,running,15.0,26.0,15.0,,0
+2024,32,Charlotte Roval,road course,23,8,6,Brad Keselowski,Ford,RFK Racing,109,0,running,16.0,9.0,27.0,,2
+2024,32,Charlotte Roval,road course,24,27,31,Daniel Hemric,Chevrolet,Kaulig Racing,109,0,running,13.0,28.0,25.0,,0
+2024,32,Charlotte Roval,road course,25,34,41,Ryan Preece,Ford,Stewart-Haas Racing,109,0,running,12.0,37.0,30.0,,0
+2024,32,Charlotte Roval,road course,26,33,7,Justin Haley,Chevrolet,Spire Motorsports,109,0,running,11.0,34.0,32.0,,0
+2024,32,Charlotte Roval,road course,27,31,15,Kaz Grala,Ford,Rick Ware Racing,109,0,running,10.0,32.0,20.0,,0
+2024,32,Charlotte Roval,road course,28,16,1,Ross Chastain,Chevrolet,Trackhouse Racing,109,0,running,9.0,15.0,26.0,,0
+2024,32,Charlotte Roval,road course,29,38,66,Josh Bilicki,Ford,MBM Motorsports,109,0,running,0.0,35.0,23.0,,0
+2024,32,Charlotte Roval,road course,30,13,99,Daniel Suarez,Chevrolet,Trackhouse Racing,108,0,running,7.0,19.0,13.0,,0
+2024,32,Charlotte Roval,road course,31,32,10,Noah Gragson,Ford,Stewart-Haas Racing,108,0,running,6.0,33.0,29.0,,0
+2024,32,Charlotte Roval,road course,32,22,3,Austin Dillon,Chevrolet,Richard Childress Racing,107,0,running,5.0,17.0,28.0,,0
+2024,32,Charlotte Roval,road course,33,37,43,Erik Jones,Toyota,Legacy Motor Club,56,0,accident,4.0,30.0,18.0,,0
+2024,32,Charlotte Roval,road course,34,35,42,John Hunter Nemechek,Toyota,Legacy Motor Club,55,0,accident,3.0,36.0,34.0,,0
+2024,32,Charlotte Roval,road course,35,19,54,Ty Gibbs,Toyota,Joe Gibbs Racing,54,0,transmission,6.0,7.0,21.0,,4
+2024,32,Charlotte Roval,road course,36,25,14,Chase Briscoe,Ford,Stewart-Haas Racing,41,0,steering,1.0,23.0,36.0,,0
+2024,32,Charlotte Roval,road course,37,28,51,Corey LaJoie,Ford,Rick Ware Racing,3,0,engine,1.0,38.0,37.0,,0
+2024,32,Charlotte Roval,road course,38,17,48,Alex Bowman,Chevrolet,Hendrick Motorsports,109,5,running/DQ,1.0,22.0,38.0,,0
+2024,33,Las Vegas,intermediate,1,10,22,Joey Logano,Ford,Team Penske,267,6,running,49.0,8.0,5.0,,9
+2024,33,Las Vegas,intermediate,2,1,20,Christopher Bell,Toyota,Joe Gibbs Racing,267,155,running,54.0,2.0,1.0,,19
+2024,33,Las Vegas,intermediate,3,23,99,Daniel Suarez,Chevrolet,Trackhouse Racing,267,57,running,37.0,20.0,8.0,,3
+2024,33,Las Vegas,intermediate,4,9,24,William Byron,Chevrolet,Hendrick Motorsports,267,1,running,48.0,4.0,3.0,,15
+2024,33,Las Vegas,intermediate,5,3,48,Alex Bowman,Chevrolet,Hendrick Motorsports,267,0,running,37.0,14.0,6.0,,5
+2024,33,Las Vegas,intermediate,6,12,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,267,7,running,48.0,3.0,2.0,,17
+2024,33,Las Vegas,intermediate,7,7,1,Ross Chastain,Chevrolet,Trackhouse Racing,267,0,running,30.0,15.0,22.0,,0
+2024,33,Las Vegas,intermediate,8,4,11,Denny Hamlin,Toyota,Joe Gibbs Racing,267,4,running,29.0,11.0,19.0,,0
+2024,33,Las Vegas,intermediate,9,26,42,John Hunter Nemechek,Toyota,Legacy Motor Club,267,0,running,28.0,27.0,13.0,,0
+2024,33,Las Vegas,intermediate,10,22,17,Chris Buescher,Ford,RFK Racing,267,0,running,38.0,7.0,4.0,,11
+2024,33,Las Vegas,intermediate,11,5,5,Kyle Larson,Chevrolet,Hendrick Motorsports,267,1,running,27.0,10.0,30.0,,1
+2024,33,Las Vegas,intermediate,12,19,23,Bubba Wallace,Toyota,23XI Racing,267,0,running,27.0,21.0,9.0,,2
+2024,33,Las Vegas,intermediate,13,20,8,Kyle Busch,Chevrolet,Richard Childress Racing,267,0,running,24.0,13.0,11.0,,0
+2024,33,Las Vegas,intermediate,14,35,51,Corey LaJoie,Ford,Rick Ware Racing,267,0,running,23.0,32.0,12.0,,0
+2024,33,Las Vegas,intermediate,15,31,21,Harrison Burton,Ford,Wood Brothers Racing,267,0,running,22.0,24.0,17.0,,0
+2024,33,Las Vegas,intermediate,16,14,71,Zane Smith,Chevrolet,Spire Motorsports,267,0,running,21.0,28.0,15.0,,0
+2024,33,Las Vegas,intermediate,17,16,7,Justin Haley,Chevrolet,Spire Motorsports,267,0,running,24.0,16.0,7.0,,4
+2024,33,Las Vegas,intermediate,18,21,10,Noah Gragson,Ford,Stewart-Haas Racing,267,0,running,19.0,18.0,18.0,,0
+2024,33,Las Vegas,intermediate,19,33,31,Daniel Hemric,Chevrolet,Kaulig Racing,267,0,running,18.0,25.0,14.0,,0
+2024,33,Las Vegas,intermediate,20,15,34,Michael McDowell,Ford,Front Row Motorsports,267,0,running,17.0,22.0,16.0,,0
+2024,33,Las Vegas,intermediate,21,36,15,Cody Ware,Ford,Rick Ware Racing,267,0,running,16.0,33.0,20.0,,0
+2024,33,Las Vegas,intermediate,22,32,41,Ryan Preece,Ford,Stewart-Haas Racing,266,0,running,16.0,26.0,10.0,,1
+2024,33,Las Vegas,intermediate,23,6,77,Carson Hocevar,Chevrolet,Spire Motorsports,266,0,running,14.0,19.0,21.0,,0
+2024,33,Las Vegas,intermediate,24,28,4,Josh Berry,Ford,Stewart-Haas Racing,266,0,running,13.0,29.0,23.0,,0
+2024,33,Las Vegas,intermediate,25,27,43,Erik Jones,Toyota,Legacy Motor Club,266,0,running,12.0,36.0,29.0,,0
+2024,33,Las Vegas,intermediate,26,24,14,Chase Briscoe,Ford,Stewart-Haas Racing,266,0,running,11.0,35.0,26.0,,0
+2024,33,Las Vegas,intermediate,27,25,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,266,0,running,10.0,23.0,27.0,,0
+2024,33,Las Vegas,intermediate,28,29,84,Jimmie Johnson,Toyota,Legacy Motor Club,265,0,running,9.0,30.0,24.0,,0
+2024,33,Las Vegas,intermediate,29,34,16,Shane Van Gisbergen,Chevrolet,Kaulig Racing,265,0,running,0.0,31.0,28.0,,0
+2024,33,Las Vegas,intermediate,30,8,54,Ty Gibbs,Toyota,Joe Gibbs Racing,264,23,running,12.0,6.0,25.0,,5
+2024,33,Las Vegas,intermediate,31,30,38,Todd Gilliland,Ford,Front Row Motorsports,263,0,running,6.0,34.0,31.0,,0
+2024,33,Las Vegas,intermediate,32,37,12,Ryan Blaney,Ford,Team Penske,259,4,running,5.0,17.0,32.0,,0
+2024,33,Las Vegas,intermediate,33,18,9,Chase Elliott,Chevrolet,Hendrick Motorsports,230,0,accident,4.0,12.0,33.0,,0
+2024,33,Las Vegas,intermediate,34,11,2,Austin Cindric,Ford,Team Penske,96,0,dvp,5.0,9.0,34.0,,2
+2024,33,Las Vegas,intermediate,35,2,45,Tyler Reddick,Toyota,23XI Racing,89,9,accident,12.0,1.0,35.0,,10
+2024,33,Las Vegas,intermediate,36,17,6,Brad Keselowski,Ford,RFK Racing,89,0,accident,7.0,5.0,36.0,,6
+2024,33,Las Vegas,intermediate,37,13,3,Austin Dillon,Chevrolet,Richard Childress Racing,61,0,accident,1.0,37.0,37.0,,0
+2024,34,Homestead,intermediate,1,1,45,Tyler Reddick,Toyota,23XI Racing,267,97,running,57.0,1.0,4.0,,17
+2024,34,Homestead,intermediate,2,20,12,Ryan Blaney,Ford,Team Penske,267,47,running,48.0,4.0,5.0,,13
+2024,34,Homestead,intermediate,3,4,11,Denny Hamlin,Toyota,Joe Gibbs Racing,267,21,running,48.0,7.0,1.0,,14
+2024,34,Homestead,intermediate,4,3,20,Christopher Bell,Toyota,Joe Gibbs Racing,267,3,running,46.0,6.0,3.0,,13
+2024,34,Homestead,intermediate,5,7,9,Chase Elliott,Chevrolet,Hendrick Motorsports,267,81,running,49.0,3.0,2.0,,17
+2024,34,Homestead,intermediate,6,25,24,William Byron,Chevrolet,Hendrick Motorsports,267,0,running,39.0,8.0,6.0,,8
+2024,34,Homestead,intermediate,7,11,48,Alex Bowman,Chevrolet,Hendrick Motorsports,267,0,running,32.0,9.0,11.0,,2
+2024,34,Homestead,intermediate,8,32,16,A.J. Allmendinger,Chevrolet,Kaulig Racing,267,0,running,0.0,16.0,10.0,,0
+2024,34,Homestead,intermediate,9,15,77,Carson Hocevar,Chevrolet,Spire Motorsports,267,0,running,37.0,5.0,8.0,,9
+2024,34,Homestead,intermediate,10,35,41,Ryan Preece,Ford,Stewart-Haas Racing,267,0,running,29.0,13.0,9.0,,2
+2024,34,Homestead,intermediate,11,12,4,Josh Berry,Ford,Stewart-Haas Racing,267,0,running,26.0,12.0,18.0,,0
+2024,34,Homestead,intermediate,12,13,14,Chase Briscoe,Ford,Stewart-Haas Racing,267,0,running,25.0,11.0,12.0,,0
+2024,34,Homestead,intermediate,13,2,5,Kyle Larson,Chevrolet,Hendrick Motorsports,267,1,running,24.0,25.0,15.0,,0
+2024,34,Homestead,intermediate,14,24,34,Michael McDowell,Ford,Front Row Motorsports,267,0,running,23.0,30.0,17.0,,0
+2024,34,Homestead,intermediate,15,21,17,Chris Buescher,Ford,RFK Racing,267,0,running,22.0,21.0,25.0,,0
+2024,34,Homestead,intermediate,16,23,99,Daniel Suarez,Chevrolet,Trackhouse Racing,267,0,running,21.0,14.0,24.0,,0
+2024,34,Homestead,intermediate,17,18,6,Brad Keselowski,Ford,RFK Racing,267,8,running,20.0,32.0,27.0,,0
+2024,34,Homestead,intermediate,18,8,23,Bubba Wallace,Toyota,23XI Racing,267,2,running,28.0,2.0,16.0,,9
+2024,34,Homestead,intermediate,19,16,10,Noah Gragson,Ford,Stewart-Haas Racing,267,0,running,18.0,20.0,13.0,,0
+2024,34,Homestead,intermediate,20,31,38,Todd Gilliland,Ford,Front Row Motorsports,267,1,running,17.0,31.0,34.0,,0
+2024,34,Homestead,intermediate,21,5,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,267,0,running,16.0,23.0,19.0,,0
+2024,34,Homestead,intermediate,22,28,43,Erik Jones,Toyota,Legacy Motor Club,267,0,running,15.0,34.0,33.0,,0
+2024,34,Homestead,intermediate,23,6,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,267,0,running,19.0,10.0,7.0,,5
+2024,34,Homestead,intermediate,24,34,21,Harrison Burton,Ford,Wood Brothers Racing,267,0,running,13.0,28.0,28.0,,0
+2024,34,Homestead,intermediate,25,30,3,Austin Dillon,Chevrolet,Richard Childress Racing,267,0,running,12.0,19.0,23.0,,0
+2024,34,Homestead,intermediate,26,29,42,John Hunter Nemechek,Toyota,Legacy Motor Club,267,0,running,11.0,26.0,30.0,,0
+2024,34,Homestead,intermediate,27,36,2,Austin Cindric,Ford,Team Penske,267,0,running,10.0,29.0,26.0,,0
+2024,34,Homestead,intermediate,28,26,22,Joey Logano,Ford,Team Penske,267,0,running,9.0,22.0,20.0,,0
+2024,34,Homestead,intermediate,29,9,31,Daniel Hemric,Chevrolet,Kaulig Racing,267,0,running,8.0,27.0,29.0,,0
+2024,34,Homestead,intermediate,30,19,71,Zane Smith,Chevrolet,Spire Motorsports,267,0,running,7.0,15.0,22.0,,0
+2024,34,Homestead,intermediate,31,17,8,Kyle Busch,Chevrolet,Richard Childress Racing,267,5,running,6.0,24.0,21.0,,0
+2024,34,Homestead,intermediate,32,27,15,Kaz Grala,Ford,Rick Ware Racing,267,0,running,5.0,37.0,36.0,,0
+2024,34,Homestead,intermediate,33,22,1,Ross Chastain,Chevrolet,Trackhouse Racing,267,0,running,4.0,18.0,31.0,,0
+2024,34,Homestead,intermediate,34,10,7,Justin Haley,Chevrolet,Spire Motorsports,266,1,running,3.0,33.0,35.0,,0
+2024,34,Homestead,intermediate,35,33,51,Corey LaJoie,Ford,Rick Ware Racing,266,0,running,2.0,35.0,32.0,,0
+2024,34,Homestead,intermediate,36,14,54,Ty Gibbs,Toyota,Joe Gibbs Racing,261,0,running,1.0,17.0,14.0,,0
+2024,34,Homestead,intermediate,37,38,66,Chad Finchum,Ford,MBM Motorsports,258,0,running,0.0,38.0,38.0,,0
+2024,34,Homestead,intermediate,38,37,44,J.J. Yeley,Chevrolet,NY Racing Team,223,0,accident,0.0,36.0,37.0,,0
+2024,35,Martinsville,short track,1,14,12,Ryan Blaney,Ford,Team Penske,500,32,running,55.0,5.0,2.0,,15
+2024,35,Martinsville,short track,2,2,9,Chase Elliott,Chevrolet,Hendrick Motorsports,500,129,running,45.0,1.0,12.0,,10
+2024,35,Martinsville,short track,3,9,5,Kyle Larson,Chevrolet,Hendrick Motorsports,500,71,running,46.0,6.0,4.0,,12
+2024,35,Martinsville,short track,4,24,2,Austin Cindric,Ford,Team Penske,500,0,running,33.0,18.0,15.0,,0
+2024,35,Martinsville,short track,5,37,11,Denny Hamlin,Toyota,Joe Gibbs Racing,500,0,running,40.0,15.0,3.0,,8
+2024,35,Martinsville,short track,6,3,24,William Byron,Chevrolet,Hendrick Motorsports,500,51,running,46.0,2.0,5.0,,15
+2024,35,Martinsville,short track,7,10,3,Austin Dillon,Chevrolet,Richard Childress Racing,500,0,running,37.0,8.0,7.0,,7
+2024,35,Martinsville,short track,8,22,1,Ross Chastain,Chevrolet,Trackhouse Racing,500,0,running,29.0,11.0,11.0,,0
+2024,35,Martinsville,short track,9,18,6,Brad Keselowski,Ford,RFK Racing,500,170,running,39.0,10.0,1.0,,11
+2024,35,Martinsville,short track,10,12,22,Joey Logano,Ford,Team Penske,500,0,running,29.0,9.0,13.0,,2
+2024,35,Martinsville,short track,11,25,10,Noah Gragson,Ford,Stewart-Haas Racing,500,0,running,28.0,19.0,9.0,,2
+2024,35,Martinsville,short track,12,29,16,Shane Van Gisbergen,Chevrolet,Kaulig Racing,500,0,running,0.0,34.0,25.0,,0
+2024,35,Martinsville,short track,13,7,48,Alex Bowman,Chevrolet,Hendrick Motorsports,500,0,running,31.0,7.0,8.0,,7
+2024,35,Martinsville,short track,14,8,41,Ryan Preece,Ford,Stewart-Haas Racing,500,0,running,31.0,4.0,10.0,,8
+2024,35,Martinsville,short track,15,4,14,Chase Briscoe,Ford,Stewart-Haas Racing,500,0,running,30.0,3.0,14.0,,8
+2024,35,Martinsville,short track,16,11,4,Josh Berry,Ford,Stewart-Haas Racing,500,0,running,21.0,14.0,16.0,,0
+2024,35,Martinsville,short track,17,15,31,Daniel Hemric,Chevrolet,Kaulig Racing,500,0,running,20.0,13.0,26.0,,0
+2024,35,Martinsville,short track,18,19,23,Bubba Wallace,Toyota,23XI Racing,499,6,running,19.0,24.0,19.0,,0
+2024,35,Martinsville,short track,19,21,43,Erik Jones,Toyota,Legacy Motor Club,499,0,running,18.0,25.0,24.0,,0
+2024,35,Martinsville,short track,20,28,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,499,0,running,17.0,27.0,22.0,,0
+2024,35,Martinsville,short track,21,36,71,Zane Smith,Chevrolet,Spire Motorsports,499,0,running,16.0,28.0,30.0,,0
+2024,35,Martinsville,short track,22,16,20,Christopher Bell,Toyota,Joe Gibbs Racing,499,0,running,20.0,21.0,6.0,,5
+2024,35,Martinsville,short track,23,20,99,Daniel Suarez,Chevrolet,Trackhouse Racing,498,0,running,14.0,16.0,21.0,,0
+2024,35,Martinsville,short track,24,1,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,498,41,running,13.0,31.0,17.0,,0
+2024,35,Martinsville,short track,25,27,77,Carson Hocevar,Chevrolet,Spire Motorsports,498,0,running,12.0,23.0,27.0,,0
+2024,35,Martinsville,short track,26,13,38,Todd Gilliland,Ford,Front Row Motorsports,498,0,running,11.0,17.0,32.0,,0
+2024,35,Martinsville,short track,27,33,15,Kaz Grala,Ford,Rick Ware Racing,497,0,running,10.0,32.0,31.0,,0
+2024,35,Martinsville,short track,28,23,8,Kyle Busch,Chevrolet,Richard Childress Racing,497,0,running,9.0,30.0,20.0,,0
+2024,35,Martinsville,short track,29,30,7,Justin Haley,Chevrolet,Spire Motorsports,497,0,running,8.0,26.0,29.0,,0
+2024,35,Martinsville,short track,30,26,17,Chris Buescher,Ford,RFK Racing,497,0,running,7.0,33.0,34.0,,0
+2024,35,Martinsville,short track,31,32,42,John Hunter Nemechek,Toyota,Legacy Motor Club,496,0,running,6.0,29.0,33.0,,0
+2024,35,Martinsville,short track,32,5,54,Ty Gibbs,Toyota,Joe Gibbs Racing,495,0,running,5.0,12.0,28.0,,0
+2024,35,Martinsville,short track,33,17,34,Michael McDowell,Ford,Front Row Motorsports,490,0,running,4.0,22.0,18.0,,0
+2024,35,Martinsville,short track,34,31,45,Tyler Reddick,Toyota,23XI Racing,458,0,brakes,3.0,35.0,35.0,,0
+2024,35,Martinsville,short track,35,34,51,Corey LaJoie,Ford,Rick Ware Racing,365,0,oil pressure,2.0,36.0,36.0,,0
+2024,35,Martinsville,short track,36,6,21,Harrison Burton,Ford,Wood Brothers Racing,347,0,engine,1.0,20.0,23.0,,0
+2024,35,Martinsville,short track,37,35,66,Josh Bilicki,Ford,MBM Motorsports,131,0,clutch,0.0,37.0,37.0,,0
+2024,36,Phoenix,short intermediate,1,2,22,Joey Logano,Ford,Team Penske,312,107,running,40.0,1.0,3.0,,0
+2024,36,Phoenix,short intermediate,2,17,12,Ryan Blaney,Ford,Team Penske,312,12,running,35.0,6.0,1.0,,0
+2024,36,Phoenix,short intermediate,3,8,24,William Byron,Chevrolet,Hendrick Motorsports,312,19,running,34.0,4.0,4.0,,0
+2024,36,Phoenix,short intermediate,4,4,5,Kyle Larson,Chevrolet,Hendrick Motorsports,312,13,running,39.0,9.0,7.0,,6
+2024,36,Phoenix,short intermediate,5,7,20,Christopher Bell,Toyota,Joe Gibbs Racing,312,143,running,49.0,3.0,2.0,,17
+2024,36,Phoenix,short intermediate,6,10,45,Tyler Reddick,Toyota,23XI Racing,312,0,running,31.0,7.0,10.0,,0
+2024,36,Phoenix,short intermediate,7,29,23,Bubba Wallace,Toyota,23XI Racing,312,0,running,30.0,16.0,11.0,,0
+2024,36,Phoenix,short intermediate,8,5,9,Chase Elliott,Chevrolet,Hendrick Motorsports,312,7,running,38.0,5.0,8.0,,9
+2024,36,Phoenix,short intermediate,9,24,17,Chris Buescher,Ford,RFK Racing,312,0,running,33.0,14.0,6.0,,5
+2024,36,Phoenix,short intermediate,10,34,99,Daniel Suarez,Chevrolet,Trackhouse Racing,312,0,running,27.0,17.0,14.0,,0
+2024,36,Phoenix,short intermediate,11,14,11,Denny Hamlin,Toyota,Joe Gibbs Racing,312,0,running,35.0,8.0,5.0,,9
+2024,36,Phoenix,short intermediate,12,21,10,Noah Gragson,Ford,Stewart-Haas Racing,312,0,running,25.0,22.0,16.0,,0
+2024,36,Phoenix,short intermediate,13,11,2,Austin Cindric,Ford,Team Penske,312,0,running,25.0,10.0,13.0,,1
+2024,36,Phoenix,short intermediate,14,16,48,Alex Bowman,Chevrolet,Hendrick Motorsports,312,1,running,23.0,19.0,17.0,,0
+2024,36,Phoenix,short intermediate,15,27,6,Brad Keselowski,Ford,RFK Racing,312,0,running,22.0,23.0,15.0,,0
+2024,36,Phoenix,short intermediate,16,9,21,Harrison Burton,Ford,Wood Brothers Racing,312,0,running,21.0,15.0,19.0,,0
+2024,36,Phoenix,short intermediate,17,1,19,"Martin Truex, Jr.",Toyota,Joe Gibbs Racing,312,9,running,31.0,2.0,9.0,,11
+2024,36,Phoenix,short intermediate,18,15,77,Carson Hocevar,Chevrolet,Spire Motorsports,312,0,running,19.0,11.0,12.0,,0
+2024,36,Phoenix,short intermediate,19,3,1,Ross Chastain,Chevrolet,Trackhouse Racing,312,0,running,18.0,12.0,18.0,,0
+2024,36,Phoenix,short intermediate,20,32,38,Todd Gilliland,Ford,Front Row Motorsports,311,1,running,17.0,30.0,29.0,,0
+2024,36,Phoenix,short intermediate,21,25,8,Kyle Busch,Chevrolet,Richard Childress Racing,311,0,running,16.0,13.0,23.0,,0
+2024,36,Phoenix,short intermediate,22,19,43,Erik Jones,Toyota,Legacy Motor Club,311,0,running,15.0,20.0,27.0,,0
+2024,36,Phoenix,short intermediate,23,22,31,Daniel Hemric,Chevrolet,Kaulig Racing,311,0,running,14.0,33.0,28.0,,0
+2024,36,Phoenix,short intermediate,24,39,4,Josh Berry,Ford,Stewart-Haas Racing,311,0,running,13.0,28.0,25.0,,0
+2024,36,Phoenix,short intermediate,25,26,16,Derek Kraus,Chevrolet,Kaulig Racing,311,0,running,12.0,35.0,34.0,,0
+2024,36,Phoenix,short intermediate,26,23,84,Jimmie Johnson,Toyota,Legacy Motor Club,310,0,running,11.0,26.0,26.0,,0
+2024,36,Phoenix,short intermediate,27,36,3,Austin Dillon,Chevrolet,Richard Childress Racing,310,0,running,10.0,29.0,24.0,,0
+2024,36,Phoenix,short intermediate,28,13,7,Justin Haley,Chevrolet,Spire Motorsports,310,0,running,9.0,21.0,33.0,,0
+2024,36,Phoenix,short intermediate,29,12,14,Chase Briscoe,Ford,Stewart-Haas Racing,310,0,running,8.0,24.0,31.0,,0
+2024,36,Phoenix,short intermediate,30,18,42,John Hunter Nemechek,Toyota,Legacy Motor Club,310,0,running,7.0,18.0,21.0,,0
+2024,36,Phoenix,short intermediate,31,35,34,Michael McDowell,Ford,Front Row Motorsports,309,0,running,6.0,34.0,35.0,,0
+2024,36,Phoenix,short intermediate,32,20,51,Corey LaJoie,Ford,Rick Ware Racing,309,0,running,5.0,25.0,32.0,,0
+2024,36,Phoenix,short intermediate,33,30,47,"Ricky Stenhouse, Jr.",Chevrolet,JTG Daugherty Racing,309,0,running,4.0,31.0,30.0,,0
+2024,36,Phoenix,short intermediate,34,31,15,Kaz Grala,Ford,Rick Ware Racing,308,0,running,3.0,36.0,36.0,,0
+2024,36,Phoenix,short intermediate,35,37,44,J.J. Yeley,Chevrolet,NY Racing Team,306,0,running,0.0,37.0,37.0,,0
+2024,36,Phoenix,short intermediate,36,38,66,Chad Finchum,Ford,MBM Motorsports,302,0,running,0.0,38.0,38.0,,0
+2024,36,Phoenix,short intermediate,37,33,41,Ryan Preece,Ford,Stewart-Haas Racing,302,0,running,1.0,27.0,20.0,,0
+2024,36,Phoenix,short intermediate,38,40,50,Jeb Burton,Chevrolet,Team AmeriVet,294,0,running,0.0,39.0,39.0,,0
+2024,36,Phoenix,short intermediate,39,28,71,Zane Smith,Chevrolet,Spire Motorsports,247,0,accident,1.0,32.0,22.0,,0
+2024,36,Phoenix,short intermediate,40,6,54,Ty Gibbs,Toyota,Joe Gibbs Racing,1,0,accident,1.0,40.0,40.0,,0
