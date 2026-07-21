@@ -1,0 +1,7 @@
+Variable 1,Variable 2,Correlation,P-Value,Significance
+Finish_Position,Reddit_Mentions,-0.024,0.7726,
+Finish_Position,YouTube_Views,0.124,0.1391,
+Finish_Position,News_Mentions,-0.048,0.5667,
+Laps_Led,Reddit_Mentions,-0.032,0.705,
+Laps_Led,YouTube_Views,-0.041,0.626,
+Laps_Led,News_Mentions,0.181,0.0301,**

@@ -1,0 +1,5 @@
+Sponsor,Finish_Position_mean,Finish_Position_median,Finish_Position_std,Finish_Position_min,Finish_Position_max,Laps_Led_sum,Laps_Led_mean,Reddit_Mentions_sum,Reddit_Mentions_mean,Reddit_Mentions_std,YouTube_Views_sum,YouTube_Views_mean,News_Mentions_sum,News_Mentions_mean,Top_5_Rate,Win_Count
+FedEx,13.89,10.5,11.63,1,38,943,26.19,267.0,7.42,7.23,358461244.0,9957256.78,37.0,1.03,33.3,3
+Love's Travel Stops,21.31,21.5,10.42,2,38,256,7.11,267.0,7.42,7.23,358461244.0,9957256.78,11.0,0.31,5.6,0
+McDonald's,15.28,14.0,9.64,3,36,139,3.86,267.0,7.42,7.23,358461244.0,9957256.78,12.0,0.33,16.7,0
+NAPA Auto Parts,11.72,9.5,8.5,1,36,431,11.97,267.0,7.42,7.23,358461244.0,9957256.78,37.0,1.03,30.6,1

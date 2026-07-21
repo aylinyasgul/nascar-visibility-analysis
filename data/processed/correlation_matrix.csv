@@ -1,0 +1,6 @@
+,Finish_Position,Laps_Led,Reddit_Mentions,YouTube_Views,News_Mentions
+Finish_Position,1.0,-0.214,-0.024,0.124,-0.048
+Laps_Led,-0.214,1.0,-0.032,-0.041,0.181
+Reddit_Mentions,-0.024,-0.032,1.0,0.065,0.02
+YouTube_Views,0.124,-0.041,0.065,1.0,0.319
+News_Mentions,-0.048,0.181,0.02,0.319,1.0

@@ -157,5 +157,18 @@ weekly = master_df.groupby('race_number').agg({
 | `standardization_log.json` | `data/processed/` | Format standardization rules |
 | `merge_statistics.json` | `data/processed/` | Merge operation summary |
 
+### Project 3.1 — Correlation Analysis outputs
+
+| File | Location | Description |
+|------|----------|-------------|
+| `correlation_analysis.ipynb` | `code/` | Descriptive stats + correlation analysis notebook |
+| `correlation_findings.md` | `docs/` | Correlation findings write-up (deliverable) |
+| `sponsor_summary_statistics.csv` | `data/processed/` | Performance + exposure stats by sponsor |
+| `correlation_matrix.csv` | `data/processed/` | Pearson correlations, all metric pairs |
+| `correlation_results.csv` | `data/processed/` | Key-pair correlations with p-values |
+| `sponsor_correlations.csv` | `data/processed/` | Finish-vs-exposure correlations per sponsor |
+| `sponsor_exposure_extremes.csv` | `data/processed/` | Highest/lowest exposure race per sponsor |
+| `correlation_heatmap.png` | `output/figures/` | Correlation matrix heatmap |
+
 ---
-*Last updated: 2026-06-22*
+*Last updated: 2026-07-21*
