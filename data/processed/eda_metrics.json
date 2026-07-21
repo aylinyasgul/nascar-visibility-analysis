@@ -1,0 +1,18 @@
+{
+  "primary_scatter_r": -0.024,
+  "h1_top5_reddit_ratio": 0.89,
+  "h1_top5_news_ratio": 1.31,
+  "h2_win_ratio": 1.21,
+  "h3_playoff_pct": -22.8,
+  "h4_r2": {
+    "Reddit_Mentions": 0.0006,
+    "YouTube_Views": 0.0153,
+    "News_Mentions": 0.0023
+  },
+  "sponsor_visibility": {
+    "Love's Travel Stops": 35.0,
+    "McDonald's": 35.8,
+    "FedEx": 65.0,
+    "NAPA Auto Parts": 65.0
+  }
+}

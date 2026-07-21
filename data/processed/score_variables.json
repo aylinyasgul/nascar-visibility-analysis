@@ -1,0 +1,45 @@
+{
+  "performance": {
+    "finish_position": {
+      "description": "Race finishing position (will be inverted)",
+      "direction": "inverse",
+      "weight_category": "race_performance"
+    },
+    "laps_led": {
+      "description": "Number of laps leading the race",
+      "direction": "direct",
+      "weight_category": "race_performance"
+    }
+  },
+  "social": {
+    "reddit_mentions": {
+      "description": "r/NASCAR mentions (Google Trends proxy; race-level)",
+      "direction": "direct",
+      "weight_category": "social_engagement"
+    },
+    "youtube_sponsor_views": {
+      "description": "Views on sponsor-relevant YouTube videos (sparse)",
+      "direction": "direct",
+      "weight_category": "social_engagement"
+    }
+  },
+  "media": {
+    "news_weighted_mentions": {
+      "description": "Quality-weighted news article mentions",
+      "direction": "direct",
+      "weight_category": "media_coverage"
+    }
+  },
+  "special_events": {
+    "is_win": {
+      "description": "Binary flag: 1 if finish_position == 1",
+      "direction": "direct",
+      "weight_category": "special_events"
+    },
+    "is_playoff": {
+      "description": "Binary flag: 1 if race_number >= 27",
+      "direction": "direct",
+      "weight_category": "special_events"
+    }
+  }
+}

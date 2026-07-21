@@ -1,0 +1,61 @@
+{
+  "version": "1.0",
+  "created_date": "2026-07-21",
+  "category_weights": {
+    "race_performance": 0.4,
+    "media_coverage": 0.3,
+    "social_engagement": 0.2,
+    "special_events": 0.1
+  },
+  "variables": {
+    "finish_position": {
+      "category": "race_performance",
+      "weight_within_category": 0.7,
+      "effective_weight": 0.28,
+      "direction": "inverse",
+      "transform": "invert_position"
+    },
+    "laps_led": {
+      "category": "race_performance",
+      "weight_within_category": 0.3,
+      "effective_weight": 0.12,
+      "direction": "direct",
+      "transform": "normalize"
+    },
+    "news_weighted_mentions": {
+      "category": "media_coverage",
+      "weight_within_category": 1.0,
+      "effective_weight": 0.3,
+      "direction": "direct",
+      "transform": "normalize"
+    },
+    "reddit_mentions": {
+      "category": "social_engagement",
+      "weight_within_category": 0.5,
+      "effective_weight": 0.1,
+      "direction": "direct",
+      "transform": "normalize"
+    },
+    "youtube_sponsor_views": {
+      "category": "social_engagement",
+      "weight_within_category": 0.5,
+      "effective_weight": 0.1,
+      "direction": "direct",
+      "transform": "log_normalize"
+    },
+    "is_win": {
+      "category": "special_events",
+      "weight_within_category": 0.6,
+      "effective_weight": 0.06,
+      "direction": "direct",
+      "transform": "binary"
+    },
+    "is_playoff": {
+      "category": "special_events",
+      "weight_within_category": 0.4,
+      "effective_weight": 0.04,
+      "direction": "direct",
+      "transform": "binary"
+    }
+  }
+}

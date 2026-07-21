@@ -3,7 +3,7 @@
 **File**: `master_dataset.csv`  
 **Created**: 2026-06-22  
 **Records**: 144 sponsor-race combinations  
-**Coverage**: 2024 NASCAR Cup Series (Races 1–36)  
+**Coverage**: 2024 NASCAR Cup Series (Races 1-36)  
 **Sponsors**: FedEx, NAPA Auto Parts, McDonald's, Love's Travel Stops
 
 ---
@@ -17,7 +17,7 @@
 | YouTube | Video | YouTube Data API v3 | 104 |
 | News | Traditional Media | Manual Google Search | 89 |
 
-**Note**: Public interest data uses Google Trends (search interest score 0–100) as a
+**Note**: Public interest data uses Google Trends (search interest score 0-100) as a
 proxy for Reddit engagement. Reddit's public JSON API returned HTTP 403 for all requests;
 per mentor guidance, Google Trends was substituted as the social visibility signal.
 
@@ -29,7 +29,7 @@ per mentor guidance, Google Trends was substituted as the social visibility sign
 
 | Column | Type | Description | Example |
 |--------|------|-------------|---------|
-| `race_number` | integer | Sequential race number in 2024 season (1–36) | 1 |
+| `race_number` | integer | Sequential race number in 2024 season (1-36) | 1 |
 | `race_name` | string | Abbreviated race/track name | "Daytona" |
 | `race_date` | date (YYYY-MM-DD) | Approximate race date | "2024-02-18" |
 | `sponsor` | string | Primary sponsor name (standardized) | "FedEx" |
@@ -41,8 +41,8 @@ per mentor guidance, Google Trends was substituted as the social visibility sign
 
 | Column | Type | Description | Range |
 |--------|------|-------------|-------|
-| `finish_position` | integer | Final finishing position | 1–40+ |
-| `laps_led` | integer | Laps leading the race | 0–500+ |
+| `finish_position` | integer | Final finishing position | 1-40+ |
+| `laps_led` | integer | Laps leading the race | 0-500+ |
 
 **Notes**:
 - Lower `finish_position` = better (1st place is best)
@@ -52,10 +52,10 @@ per mentor guidance, Google Trends was substituted as the social visibility sign
 
 | Column | Type | Description | Source |
 |--------|------|-------------|--------|
-| `reddit_mentions` | float | Weekly Google Trends interest score (0–100) | pytrends |
+| `reddit_mentions` | float | Weekly Google Trends interest score (0-100) | pytrends |
 | `reddit_total_score` | float | Cumulative interest across weeks in race period | Calculated |
 | `reddit_avg_score` | float | Average weekly interest in race period | Calculated |
-| `reddit_total_comments` | integer | Placeholder (0 — Google Trends has no comment data) | N/A |
+| `reddit_total_comments` | integer | Placeholder (0 - Google Trends has no comment data) | N/A |
 | `reddit_engagement_per_mention` | float | Average interest score per week | Calculated |
 
 **Notes**:
@@ -75,7 +75,7 @@ per mentor guidance, Google Trends was substituted as the social visibility sign
 
 **Notes**:
 - `total_views` represents race-level exposure; `sponsor_views` is sponsor-specific
-- 0 = no videos found; YouTube data available for races 1–34 only
+- 0 = no videos found; YouTube data available for races 1-34 only
 - View share = (sponsor_video_views / total_race_views) × 100
 
 ### News Exposure Columns
@@ -87,7 +87,7 @@ per mentor guidance, Google Trends was substituted as the social visibility sign
 | `news_weighted_mentions` | float | Mentions weighted by source tier | Calculated |
 
 **Notes**:
-- Source tiers: Tier 1 (ESPN, NASCAR.com) = 1.0 · Tier 2 = 0.8 · Tier 3 = 0.6 · Tier 4 = 0.4
+- Source tiers: Tier 1 (ESPN, NASCAR.com) = 1.0, Tier 2 = 0.8, Tier 3 = 0.6, Tier 4 = 0.4
 - Primary vs secondary classification based on article headline and body focus
 
 ---
@@ -105,10 +105,10 @@ This is distinct from NULL, which would indicate data was not collected.
 
 ## Known Limitations
 
-1. **Reddit proxy**: Google Trends used (not Reddit) — interest score is relative, not a raw count
+1. **Reddit proxy**: Google Trends used (not Reddit) - interest score is relative, not a raw count
 2. **YouTube timing**: Views counted at collection time (June 2026), not at race time
 3. **News depth**: Limited to ~10 results per search; may miss niche outlets
-4. **Race dates**: Approximated linearly across season — source data has no Race_Date column
+4. **Race dates**: Approximated linearly across season - source data has no Race_Date column
 
 ---
 
@@ -126,16 +126,16 @@ wins = master_df[master_df['finish_position'] == 1]
 
 # Total season exposure by sponsor
 season_exposure = master_df.groupby('sponsor').agg({
-    'reddit_mentions':     'sum',
+    'reddit_mentions': 'sum',
     'youtube_sponsor_views': 'sum',
     'news_total_mentions': 'sum'
 })
 
 # Compare exposure: wins vs non-wins
-wins     = master_df[master_df['finish_position'] == 1]
+wins = master_df[master_df['finish_position'] == 1]
 non_wins = master_df[master_df['finish_position'] > 1]
-print(f"Avg Reddit interest — Wins: {wins['reddit_mentions'].mean():.1f}")
-print(f"Avg Reddit interest — Non-wins: {non_wins['reddit_mentions'].mean():.1f}")
+print(f"Avg Reddit interest - Wins: {wins['reddit_mentions'].mean():.1f}")
+print(f"Avg Reddit interest - Non-wins: {non_wins['reddit_mentions'].mean():.1f}")
 
 # Exposure trend over season
 weekly = master_df.groupby('race_number').agg({
@@ -157,7 +157,7 @@ weekly = master_df.groupby('race_number').agg({
 | `standardization_log.json` | `data/processed/` | Format standardization rules |
 | `merge_statistics.json` | `data/processed/` | Merge operation summary |
 
-### Project 3.1 — Correlation Analysis outputs
+### Project 3.1 - Correlation Analysis outputs
 
 | File | Location | Description |
 |------|----------|-------------|
