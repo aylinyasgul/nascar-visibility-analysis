@@ -196,8 +196,7 @@ selection and multicollinearity screening in [`docs/variable_selection.md`](docs
 ```bash
 conda create -n nascar-visibility python=3.11 -y
 conda activate nascar-visibility
-pip install pandas numpy scipy matplotlib seaborn jupyter \
-            beautifulsoup4 requests praw pytrends google-api-python-client
+pip install -r requirements.txt
 ```
 
 The YouTube collection notebook needs a YouTube Data API key:
