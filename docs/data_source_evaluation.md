@@ -36,8 +36,9 @@ Prepared by: Aylin Yasgul | Date: 2026-06-09
 **Substitution:** per mentor guidance, **Google Trends** weekly search interest (`pytrends`)
 was adopted as the public-interest proxy, collected for the four sponsor search terms over
 2024-02-18 to 2024-11-10 (1,068 weekly points). The `reddit_*` column names were retained
-downstream for pipeline consistency; they hold Google Trends scores. The blocked attempt is
-preserved in `code/test_reddit_api.ipynb`.
+downstream for pipeline consistency; they hold Google Trends scores. The switch is recorded in
+`data/processed/reddit_collection_metadata.json` and in `code/reddit_data_collection.ipynb`,
+which contains the Google Trends collection that replaced it.
 
 ### YouTube
 
