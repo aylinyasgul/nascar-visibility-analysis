@@ -1,0 +1,62 @@
+{
+  "FedEx": {
+    "team": "Joe Gibbs Racing",
+    "driver": "Denny Hamlin",
+    "tier": "primary",
+    "team_tier": "top",
+    "estimated_cost_low": 15000000,
+    "estimated_cost_mid": 18500000,
+    "estimated_cost_high": 22000000,
+    "sources": [
+      "Forbes NASCAR coverage (team valuations)",
+      "Sports Business Journal JGR partnership coverage"
+    ],
+    "confidence": "medium-high",
+    "notes": "Long-standing JGR primary partner with Denny Hamlin, a top-tier team. Premium pricing expected."
+  },
+  "NAPA Auto Parts": {
+    "team": "Hendrick Motorsports",
+    "driver": "Chase Elliott",
+    "tier": "primary",
+    "team_tier": "top",
+    "estimated_cost_low": 18000000,
+    "estimated_cost_mid": 21500000,
+    "estimated_cost_high": 25000000,
+    "sources": [
+      "Hendrick Motorsports partnership announcements",
+      "Forbes team valuations"
+    ],
+    "confidence": "medium",
+    "notes": "Chase Elliott is among NASCAR's most popular drivers; Hendrick is an elite team. Premium for association."
+  },
+  "McDonald's": {
+    "team": "23XI Racing",
+    "driver": "Bubba Wallace",
+    "tier": "primary",
+    "team_tier": "mid-to-top",
+    "estimated_cost_low": 10000000,
+    "estimated_cost_mid": 14000000,
+    "estimated_cost_high": 18000000,
+    "sources": [
+      "Industry tier benchmarks",
+      "Comparable primary-deal analysis"
+    ],
+    "confidence": "medium",
+    "notes": "23XI is a well-funded, growing team but newer than the elite tier. Mid-to-top pricing."
+  },
+  "Love's Travel Stops": {
+    "team": "Front Row Motorsports",
+    "driver": "Michael McDowell",
+    "tier": "primary",
+    "team_tier": "mid",
+    "estimated_cost_low": 5000000,
+    "estimated_cost_mid": 8500000,
+    "estimated_cost_high": 12000000,
+    "sources": [
+      "Industry tier benchmarks (mid-pack primary deals)",
+      "Comparable-deal analysis"
+    ],
+    "confidence": "low-medium",
+    "notes": "Front Row Motorsports is a mid-pack team; primary deals there run below the elite tier."
+  }
+}
