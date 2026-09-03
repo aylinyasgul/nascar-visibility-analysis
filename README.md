@@ -20,9 +20,9 @@ whole industry runs on: *do better finishes actually produce more exposure?*
 The short answer, in this data, is mostly no — and the analysis documents exactly why, rather
 than smoothing over the result.
 
-> **Context.** This was an individual project built against a simulated client brief
-> ("NY Racing") for the IE Master in Business Analytics & Data Science. The client is
-> fictional; all data, collection code, analysis and findings are real.
+> **Context.** Built as an externship for **NY Racing**, a real client, through the IE
+> Master in Business Analytics & Data Science. The brief, the data, the collection code,
+> the analysis and the recommendations delivered to the client are all real.
 
 ---
 
