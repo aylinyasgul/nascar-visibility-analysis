@@ -2,6 +2,11 @@
 **NASCAR Visibility Analysis**
 Prepared by: Aylin Yasgul | Date: 2026-06-09
 
+> **This is the pre-collection planning document**, kept as a record of what was evaluated
+> and why. One source did not survive contact with collection: the Reddit API was blocked,
+> and Google Trends was substituted. See the Reddit section below and `README.md` for what
+> was actually collected.
+
 ---
 
 ## Race Performance Data
@@ -26,6 +31,13 @@ Prepared by: Aylin Yasgul | Date: 2026-06-09
 | Planned Subreddits | r/NASCAR |
 | Collection Approach | Search by sponsor name and driver keyword, filtered by date range |
 | Concerns | Free tier rate limits restrict historical data volume; batch collection required across multiple days to cover full 2024 season |
+| **Outcome (2026-06-22)** | **Not used.** Every request returned HTTP 403, blocked at IP level despite correct User-Agent headers. Replaced with Google Trends. |
+
+**Substitution:** per mentor guidance, **Google Trends** weekly search interest (`pytrends`)
+was adopted as the public-interest proxy, collected for the four sponsor search terms over
+2024-02-18 to 2024-11-10 (1,068 weekly points). The `reddit_*` column names were retained
+downstream for pipeline consistency; they hold Google Trends scores. The blocked attempt is
+preserved in `code/test_reddit_api.ipynb`.
 
 ### YouTube
 

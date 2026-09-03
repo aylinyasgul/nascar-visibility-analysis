@@ -3,6 +3,10 @@
 Five testable hypotheses drawn from the visualizations and correlation analysis, prioritized
 for the Project 4 scoring model. Each will be validated with statistical tests next.
 
+> **Data note:** "Reddit" throughout this document refers to the `reddit_*` columns,
+> which hold **Google Trends** weekly search-interest scores. Reddit's API returned HTTP 403
+> during collection and Google Trends was substituted (see `docs/data_dictionary.md`).
+
 ## Priority 1: Core Model Components
 
 ### H1: Performance to News Visibility (the one real signal)

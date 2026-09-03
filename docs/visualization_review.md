@@ -2,6 +2,10 @@
 
 Systematic review of what each chart reveals. Feeds the EDA report and the hypotheses.
 
+> **Data note:** "Reddit" throughout this document refers to the `reddit_*` columns,
+> which hold **Google Trends** weekly search-interest scores. Reddit's API returned HTTP 403
+> during collection and Google Trends was substituted (see `docs/data_dictionary.md`).
+
 ## Scatter Plots
 
 ### Finish Position vs. Reddit Mentions
