@@ -1,6 +1,6 @@
 # NASCAR Sponsorship Visibility Analysis
 
-Measuring how much brand exposure a NASCAR Cup Series sponsor actually gets — and testing
+Measuring how much brand exposure a NASCAR Cup Series sponsor gets — and testing
 whether on-track performance is what drives it.
 
 <p align="center">
@@ -15,10 +15,9 @@ Sponsors pay for visibility, but "visibility" is rarely measured directly — it
 inferred from race results. This project builds a repeatable scoring model that combines race
 performance, news coverage, public search interest and YouTube engagement into a single
 sponsor visibility score for the 2024 Cup Series season, and then tests the assumption the
-whole industry runs on: *do better finishes actually produce more exposure?*
+whole industry runs on: *do better finishes produce more exposure?*
 
-The short answer, in this data, is mostly no — and the analysis documents exactly why, rather
-than smoothing over the result.
+In the 2024 data, mostly no: better finishes explain little of a sponsor's exposure.
 
 > **Context.** Built as an externship for **NY Racing**, a real client, through the IE
 > Master in Business Analytics & Data Science. The brief, the data, the collection code,
@@ -31,8 +30,8 @@ than smoothing over the result.
 A racing team needs to price and justify sponsorship packages. That requires answering three
 questions:
 
-1. **How much exposure does each sponsor actually receive**, across on-track and off-track channels?
-2. **Which performance metrics drive that exposure**, so packages can be priced on evidence rather than intuition?
+1. **How much exposure does each sponsor receive**, across on-track and off-track channels?
+2. **Which performance metrics drive that exposure**, so packages can be priced on evidence, not intuition?
 3. **How should a composite visibility score be weighted** so it reflects real drivers of exposure?
 
 ## Objectives
@@ -42,7 +41,7 @@ questions:
 - Test performance-to-visibility relationships for statistical significance
 - Build a transparent, documented weighted scoring methodology
 - Overlay sponsorship cost to convert exposure into value per dollar, and recommend a package
-- Report honestly on what the data can and cannot support
+- Report what the data can and cannot support
 
 ---
 
@@ -139,7 +138,7 @@ sponsor-level rule holds.
 
 ---
 
-## Cost Efficiency: Which Sponsorship Is Actually Worth It
+## Cost Efficiency: Which Sponsorship Is Worth It
 
 The visibility score answers *how much exposure* each sponsor gets. It does not answer whether
 that exposure was worth paying for. Overlaying benchmark cost estimates on the visibility
@@ -187,7 +186,7 @@ and [`outputs/project4/sensitivity_analysis.md`](outputs/project4/sensitivity_an
 ## Scoring Methodology
 
 Category weights start from published sponsorship-ROI frameworks and are adjusted for what this
-data can actually measure (activation and hospitality are unmeasurable here, so that weight is
+data can measure (activation and hospitality are unmeasurable here, so that weight is
 redistributed).
 
 | Category | Weight | Variables |
